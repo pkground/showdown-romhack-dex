@@ -5,13 +5,13 @@
     "basePower": 25,
     "category": "Physical",
     "name": "Pummel",
-    "pp": 15,
+    "pp": 5,
     "priority": 0,
     "critRatio": 1,
     "type": "Fighting",
     "target": "normal",
-    "desc": "The user pummels the foe repeatedly.\nThis hits 2-5 times in a row. Contact.",
-    "shortDesc": "The user pummels the foe repeatedly.\nThis hits 2-5 times in a row. Contact.",
+    "desc": "The user pummels the foe repeatedly.\nThis hits 3-6 times in a row. Contact.",
+    "shortDesc": "The user pummels the foe repeatedly.\nThis hits 3-6 times in a row. Contact.",
     "flags": {
       "contact": 1,
       "heal": 1,
@@ -19,8 +19,8 @@
       "protect": 1
     },
     "multihit": [
-      2,
-      5
+      3,
+      6
     ],
     "zMove": {
       "basePower": 140
@@ -918,16 +918,16 @@
       "basePower": 120
     }
   },
-  "takedown": {
+  "blindingbash": {
     "num": 36,
     "accuracy": 100,
-    "basePower": 110,
+    "basePower": 130,
     "category": "Physical",
-    "name": "Take Down",
-    "pp": 10,
+    "name": "Blinding Bash",
+    "pp": 15,
     "priority": 0,
     "critRatio": 1,
-    "type": "Fighting",
+    "type": "Fairy",
     "target": "normal",
     "desc": "A reckless, full-body charge attack for slamming into\nthe target. User takes 20% recoil damage.\nThis has a 30% chance to drop Defense. Contact.",
     "shortDesc": "A reckless, full-body charge attack for slamming into\nthe target. User takes 20% recoil damage.\nThis has a 30% chance to drop Defense. Contact.",
@@ -937,7 +937,7 @@
       "protect": 1
     },
     "recoil": [
-      20,
+      33,
       100
     ],
     "zMove": {
@@ -952,12 +952,12 @@
       }
     ]
   },
-  "kerfuffle": {
+  "befuddle": {
     "num": 37,
     "accuracy": true,
     "basePower": 120,
     "category": "Physical",
-    "name": "Kerfuffle",
+    "name": "Befuddle",
     "pp": 5,
     "priority": 0,
     "critRatio": 1,
@@ -1524,13 +1524,13 @@
       }
     ]
   },
-  "influx": {
+  "psybeam": {
     "num": 60,
     "accuracy": true,
-    "basePower": 45,
+    "basePower": 60,
     "category": "Special",
-    "name": "Influx",
-    "pp": 20,
+    "name": "Psybeam",
+    "pp": 25,
     "priority": 1,
     "critRatio": 1,
     "type": "Psychic",
@@ -3498,15 +3498,15 @@
       }
     ]
   },
-  "triplecannonade": {
+  "cannonade": {
     "num": 140,
     "accuracy": 100,
     "basePower": 25,
     "category": "Physical",
-    "name": "Triple Cannonade",
-    "pp": 3,
+    "name": "Cannonade",
+    "pp": 5,
     "priority": 0,
-    "critRatio": 7,
+    "critRatio": 1,
     "type": "Steel",
     "target": "normal",
     "desc": "Three rounds of heavy artillery are fired at the foe.\nThis ALWAYS results in a critical hit, hits 3 times,\nand bypasses Protect.",
@@ -3517,7 +3517,10 @@
       "mirror": 1
     },
     "willCrit": true,
-    "multihit": 3,
+    "multihit": [
+      3,
+      6
+    ],
     "zMove": {
       "basePower": 190
     }
@@ -3525,7 +3528,7 @@
   "leechlife": {
     "num": 141,
     "accuracy": 100,
-    "basePower": 60,
+    "basePower": 80,
     "category": "Physical",
     "name": "Leech Life",
     "pp": 10,
@@ -3541,7 +3544,7 @@
       "protect": 1
     },
     "drain": [
-      100,
+      50,
       100
     ],
     "zMove": {
@@ -4483,12 +4486,12 @@
       }
     ]
   },
-  "frostflurry": {
+  "sleetskirt": {
     "num": 181,
     "accuracy": true,
-    "basePower": 45,
+    "basePower": 40,
     "category": "Special",
-    "name": "Frost Flurry",
+    "name": "Sleet Skirt",
     "pp": 20,
     "priority": 1,
     "critRatio": 1,
@@ -4501,7 +4504,7 @@
       "protect": 1
     },
     "zMove": {
-      "basePower": 90
+      "basePower": 100
     }
   },
   "protect": {
@@ -17216,11 +17219,11 @@
   },
   "zingzap": {
     "num": 716,
-    "accuracy": 90,
-    "basePower": 85,
+    "accuracy": 100,
+    "basePower": 120,
     "category": "Physical",
     "name": "Zing Zap",
-    "pp": 10,
+    "pp": 5,
     "priority": 0,
     "critRatio": 1,
     "type": "Electric",
@@ -17235,24 +17238,12 @@
     "zMove": {
       "basePower": 170
     },
-    "secondaries": [
-      {
-        "chance": 20,
-        "status": "par"
-      },
-      {
-        "chance": 30,
-        "volatileStatus": "flinch"
-      },
-      {
-        "chance": 100,
-        "self": {
-          "boosts": {
-            "spe": 1
-          }
-        }
+    "self": {
+      "boosts": {
+        "def": -1,
+        "spd": -1
       }
-    ]
+    }
   },
   "cosmicchaos": {
     "num": 717,

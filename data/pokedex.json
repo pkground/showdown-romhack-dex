@@ -3,24 +3,23 @@
     "num": 1,
     "name": "Bulbasaur",
     "types": [
-      "Grass",
-      "Poison"
+      "Grass"
     ],
     "genderRatio": {
       "M": 0.5,
       "F": 0.5
     },
     "baseStats": {
-      "hp": 45,
-      "atk": 50,
-      "def": 50,
+      "hp": 50,
+      "atk": 40,
+      "def": 55,
       "spe": 45,
-      "spa": 65,
+      "spa": 70,
       "spd": 65
     },
     "abilities": {
-      "0": "Harvest",
-      "1": "Overgrow"
+      "0": "Poison Heal",
+      "1": "Sun Rush"
     },
     "weightkg": 6.9,
     "evos": [
@@ -35,28 +34,27 @@
     "num": 2,
     "name": "Ivysaur",
     "types": [
-      "Grass",
-      "Poison"
+      "Grass"
     ],
     "genderRatio": {
       "M": 0.5,
       "F": 0.5
     },
     "baseStats": {
-      "hp": 60,
-      "atk": 70,
-      "def": 75,
-      "spe": 60,
+      "hp": 70,
+      "atk": 50,
+      "def": 70,
+      "spe": 55,
       "spa": 85,
       "spd": 85
     },
     "abilities": {
-      "0": "Harvest",
-      "1": "Overgrow"
+      "0": "Poison Heal",
+      "1": "Sun Rush"
     },
     "weightkg": 6.9,
     "prevo": "Bulbasaur",
-    "evoLevel": 17,
+    "evoLevel": 16,
     "evos": [
       "Venusaur"
     ],
@@ -70,23 +68,23 @@
     "name": "Venusaur",
     "types": [
       "Grass",
-      "Poison"
+      "Psychic"
     ],
     "genderRatio": {
       "M": 0.5,
       "F": 0.5
     },
     "baseStats": {
-      "hp": 100,
-      "atk": 100,
-      "def": 85,
-      "spe": 65,
+      "hp": 95,
+      "atk": 70,
+      "def": 90,
+      "spe": 70,
       "spa": 100,
-      "spd": 100
+      "spd": 110
     },
     "abilities": {
-      "0": "Harvest",
-      "1": "Solar Rush"
+      "0": "Poison Heal",
+      "1": "Sun Rush"
     },
     "weightkg": 100.0,
     "prevo": "Ivysaur",
@@ -105,23 +103,23 @@
     "name": "Venusaur-Mega",
     "types": [
       "Grass",
-      "Poison"
+      "Psychic"
     ],
     "genderRatio": {
       "M": 0.875,
       "F": 0.125
     },
     "baseStats": {
-      "hp": 100,
-      "atk": 120,
-      "def": 123,
-      "spe": 60,
-      "spa": 124,
-      "spd": 123
+      "hp": 95,
+      "atk": 80,
+      "def": 120,
+      "spe": 80,
+      "spa": 132,
+      "spd": 128
     },
     "abilities": {
       "0": "Thick Fat",
-      "1": "Grassy Guard"
+      "1": "Dry Skin"
     },
     "weightkg": 155.5,
     "eggGroups": [
@@ -135,7 +133,7 @@
       "Venusaur-Mega"
     ],
     "requiredItems": [
-      "Mega Stone I",
+      "Mega Stone",
       "Venusaurite"
     ]
   },
@@ -150,16 +148,16 @@
       "F": 0.5
     },
     "baseStats": {
-      "hp": 45,
-      "atk": 58,
-      "def": 45,
-      "spe": 62,
-      "spa": 65,
-      "spd": 45
+      "hp": 42,
+      "atk": 60,
+      "def": 48,
+      "spe": 65,
+      "spa": 60,
+      "spd": 50
     },
     "abilities": {
       "0": "Blaze",
-      "1": "Moxie"
+      "1": "Instinct"
     },
     "weightkg": 8.5,
     "evos": [
@@ -181,20 +179,20 @@
       "F": 0.5
     },
     "baseStats": {
-      "hp": 58,
-      "atk": 93,
-      "def": 52,
-      "spe": 87,
-      "spa": 93,
-      "spd": 52
+      "hp": 60,
+      "atk": 75,
+      "def": 60,
+      "spe": 75,
+      "spa": 75,
+      "spd": 67
     },
     "abilities": {
       "0": "Blaze",
-      "1": "Moxie"
+      "1": "Instinct"
     },
     "weightkg": 19.0,
     "prevo": "Charmander",
-    "evoLevel": 17,
+    "evoLevel": 16,
     "evos": [
       "Charizard"
     ],
@@ -208,23 +206,23 @@
     "name": "Charizard",
     "types": [
       "Fire",
-      "Flying"
+      "Dragon"
     ],
     "genderRatio": {
       "M": 0.5,
       "F": 0.5
     },
     "baseStats": {
-      "hp": 78,
-      "atk": 111,
-      "def": 70,
-      "spe": 100,
-      "spa": 121,
-      "spd": 70
+      "hp": 77,
+      "atk": 105,
+      "def": 73,
+      "spe": 95,
+      "spa": 105,
+      "spd": 80
     },
     "abilities": {
-      "0": "Ruthless",
-      "1": "Moxie"
+      "0": "Drought",
+      "1": "Instinct"
     },
     "weightkg": 90.5,
     "prevo": "Charmeleon",
@@ -252,11 +250,11 @@
     },
     "baseStats": {
       "hp": 78,
-      "atk": 145,
-      "def": 90,
+      "atk": 149,
+      "def": 116,
       "spe": 102,
-      "spa": 145,
-      "spd": 90
+      "spa": 105,
+      "spd": 85
     },
     "abilities": {
       "0": "Sheer Force",
@@ -275,7 +273,7 @@
       "Charizard-Mega-Y"
     ],
     "requiredItems": [
-      "Charizardite X"
+      "Mega Stone"
     ]
   },
   "charizardmegay": {
@@ -283,23 +281,23 @@
     "name": "Charizard-Mega-Y",
     "types": [
       "Fire",
-      "Flying"
+      "Dragon"
     ],
     "genderRatio": {
       "M": 0.875,
       "F": 0.125
     },
     "baseStats": {
-      "hp": 78,
-      "atk": 132,
-      "def": 70,
-      "spe": 111,
+      "hp": 77,
+      "atk": 105,
+      "def": 78,
+      "spe": 101,
       "spa": 159,
-      "spd": 100
+      "spd": 115
     },
     "abilities": {
-      "0": "Drought",
-      "1": "Aerilate"
+      "0": "Solar Power",
+      "1": "Sweltering Rays"
     },
     "weightkg": 100.5,
     "eggGroups": [
@@ -314,7 +312,7 @@
       "Charizard-Mega-Y"
     ],
     "requiredItems": [
-      "Charizardite Y"
+      "Alt. Mega Stone"
     ]
   },
   "squirtle": {
@@ -328,16 +326,16 @@
       "F": 0.5
     },
     "baseStats": {
-      "hp": 44,
-      "atk": 48,
-      "def": 70,
-      "spe": 43,
-      "spa": 50,
-      "spd": 65
+      "hp": 50,
+      "atk": 40,
+      "def": 65,
+      "spe": 40,
+      "spa": 60,
+      "spd": 70
     },
     "abilities": {
       "0": "Shell Armor",
-      "1": "Torrent"
+      "1": "Storm Drain"
     },
     "weightkg": 9.0,
     "evos": [
@@ -359,20 +357,20 @@
       "F": 0.5
     },
     "baseStats": {
-      "hp": 59,
-      "atk": 63,
-      "def": 95,
+      "hp": 64,
+      "atk": 53,
+      "def": 80,
       "spe": 58,
-      "spa": 80,
-      "spd": 80
+      "spa": 75,
+      "spd": 85
     },
     "abilities": {
       "0": "Shell Armor",
-      "1": "Torrent"
+      "1": "Storm Drain"
     },
     "weightkg": 22.5,
     "prevo": "Squirtle",
-    "evoLevel": 17,
+    "evoLevel": 16,
     "evos": [
       "Blastoise"
     ],
@@ -385,23 +383,24 @@
     "num": 9,
     "name": "Blastoise",
     "types": [
-      "Water"
+      "Water",
+      "Steel"
     ],
     "genderRatio": {
       "M": 0.5,
       "F": 0.5
     },
     "baseStats": {
-      "hp": 84,
-      "atk": 73,
-      "def": 125,
-      "spe": 43,
-      "spa": 120,
-      "spd": 105
+      "hp": 79,
+      "atk": 58,
+      "def": 115,
+      "spe": 53,
+      "spa": 110,
+      "spd": 120
     },
     "abilities": {
       "0": "Shell Armor",
-      "1": "Bulletproof"
+      "1": "Sheer Force"
     },
     "weightkg": 85.5,
     "prevo": "Wartortle",
@@ -427,16 +426,16 @@
       "F": 0.125
     },
     "baseStats": {
-      "hp": 84,
-      "atk": 123,
-      "def": 135,
-      "spe": 33,
+      "hp": 79,
+      "atk": 58,
+      "def": 130,
+      "spe": 73,
       "spa": 160,
-      "spd": 115
+      "spd": 135
     },
     "abilities": {
       "0": "Mega Launcher",
-      "1": "Rapid Fire"
+      "1": "Bulletproof"
     },
     "weightkg": 101.1,
     "eggGroups": [
@@ -450,8 +449,7 @@
       "Blastoise-Mega"
     ],
     "requiredItems": [
-      "Mega Stone I",
-      "Blastoisinite"
+      "Mega Stone"
     ]
   },
   "caterpie": {
@@ -466,14 +464,14 @@
     },
     "baseStats": {
       "hp": 35,
-      "atk": 30,
+      "atk": 40,
       "def": 35,
-      "spe": 45,
-      "spa": 55,
-      "spd": 50
+      "spe": 55,
+      "spa": 45,
+      "spd": 25
     },
     "abilities": {
-      "0": "Sap Sipper",
+      "0": "Adorable",
       "1": "Shield Dust"
     },
     "weightkg": 2.9,
@@ -495,16 +493,16 @@
       "F": 0.5
     },
     "baseStats": {
-      "hp": 50,
+      "hp": 60,
       "atk": 40,
-      "def": 95,
-      "spe": 30,
-      "spa": 55,
+      "def": 80,
+      "spe": 25,
+      "spa": 40,
       "spd": 80
     },
     "abilities": {
-      "0": "Sturdy",
-      "1": "Battle Armor"
+      "0": "Egotistical",
+      "1": "Shell Armor"
     },
     "weightkg": 9.9,
     "prevo": "Caterpie",
@@ -521,23 +519,23 @@
     "name": "Butterfree",
     "types": [
       "Bug",
-      "Flying"
+      "Air"
     ],
     "genderRatio": {
       "M": 0.5,
       "F": 0.5
     },
     "baseStats": {
-      "hp": 70,
-      "atk": 45,
-      "def": 60,
+      "hp": 75,
+      "atk": 55,
+      "def": 80,
       "spe": 95,
-      "spa": 110,
-      "spd": 100
+      "spa": 90,
+      "spd": 85
     },
     "abilities": {
-      "0": "Unburden",
-      "1": "Prankster"
+      "0": "Analytic",
+      "1": "Compound Eyes"
     },
     "weightkg": 32.0,
     "prevo": "Metapod",
@@ -558,16 +556,16 @@
       "F": 0.5
     },
     "baseStats": {
-      "hp": 35,
-      "atk": 60,
-      "def": 40,
-      "spe": 50,
-      "spa": 30,
-      "spd": 35
+      "hp": 40,
+      "atk": 55,
+      "def": 32,
+      "spe": 56,
+      "spa": 20,
+      "spd": 22
     },
     "abilities": {
-      "0": "Poison Touch",
-      "1": "Sap Sipper"
+      "0": "Poison Point",
+      "1": "Merciless"
     },
     "weightkg": 3.2,
     "evos": [
@@ -590,15 +588,15 @@
     },
     "baseStats": {
       "hp": 50,
-      "atk": 60,
-      "def": 85,
+      "atk": 50,
+      "def": 75,
       "spe": 35,
-      "spa": 40,
-      "spd": 60
+      "spa": 50,
+      "spd": 65
     },
     "abilities": {
-      "0": "Battle Armor",
-      "1": "Sturdy"
+      "0": "Shell Armor",
+      "1": "Poison Point"
     },
     "weightkg": 10.0,
     "prevo": "Weedle",
@@ -623,15 +621,15 @@
     },
     "baseStats": {
       "hp": 65,
-      "atk": 120,
-      "def": 65,
-      "spe": 120,
-      "spa": 45,
-      "spd": 65
+      "atk": 100,
+      "def": 80,
+      "spe": 105,
+      "spa": 75,
+      "spd": 55
     },
     "abilities": {
-      "0": "Ruthless",
-      "1": "Levitate"
+      "0": "Merciless",
+      "1": "Lethality"
     },
     "weightkg": 29.5,
     "prevo": "Kakuna",
@@ -657,15 +655,15 @@
     },
     "baseStats": {
       "hp": 65,
-      "atk": 160,
-      "def": 75,
-      "spe": 160,
-      "spa": 45,
-      "spd": 75
+      "atk": 150,
+      "def": 85,
+      "spe": 145,
+      "spa": 70,
+      "spd": 60
     },
     "abilities": {
       "0": "Adaptability",
-      "1": "Levitate"
+      "1": "Swiftness"
     },
     "weightkg": 40.5,
     "eggGroups": [
@@ -678,8 +676,7 @@
       "Beedrill-Mega"
     ],
     "requiredItems": [
-      "Mega Stone I",
-      "Beedrillite"
+      "Mega Stone"
     ]
   },
   "pidgey": {
@@ -687,30 +684,30 @@
     "name": "Pidgey",
     "types": [
       "Normal",
-      "Flying"
+      "Air"
     ],
     "genderRatio": {
       "M": 0.5,
       "F": 0.5
     },
     "baseStats": {
-      "hp": 40,
-      "atk": 60,
-      "def": 45,
-      "spe": 85,
-      "spa": 35,
-      "spd": 45
+      "hp": 49,
+      "atk": 50,
+      "def": 50,
+      "spe": 66,
+      "spa": 60,
+      "spd": 50
     },
     "abilities": {
-      "0": "Defiant",
-      "1": "Emergency Exit"
+      "0": "Unfounded Winds",
+      "1": "Quick Feet"
     },
     "weightkg": 1.8,
     "evos": [
       "Pidgeotto"
     ],
     "eggGroups": [
-      "Flying"
+      "Air"
     ]
   },
   "pidgeotto": {
@@ -718,32 +715,32 @@
     "name": "Pidgeotto",
     "types": [
       "Normal",
-      "Flying"
+      "Air"
     ],
     "genderRatio": {
       "M": 0.5,
       "F": 0.5
     },
     "baseStats": {
-      "hp": 65,
-      "atk": 80,
-      "def": 60,
-      "spe": 105,
-      "spa": 50,
-      "spd": 60
+      "hp": 63,
+      "atk": 60,
+      "def": 65,
+      "spe": 82,
+      "spa": 80,
+      "spd": 65
     },
     "abilities": {
-      "0": "Defiant",
-      "1": "Speed Boost"
+      "0": "Unfounded Winds",
+      "1": "Quick Feet"
     },
     "weightkg": 30.0,
     "prevo": "Pidgey",
-    "evoLevel": 15,
+    "evoLevel": 16,
     "evos": [
       "Pidgeot"
     ],
     "eggGroups": [
-      "Flying"
+      "Air"
     ]
   },
   "pidgeot": {
@@ -751,29 +748,29 @@
     "name": "Pidgeot",
     "types": [
       "Normal",
-      "Flying"
+      "Air"
     ],
     "genderRatio": {
       "M": 0.5,
       "F": 0.5
     },
     "baseStats": {
-      "hp": 85,
-      "atk": 100,
+      "hp": 73,
+      "atk": 75,
       "def": 85,
-      "spe": 125,
-      "spa": 70,
+      "spe": 102,
+      "spa": 115,
       "spd": 85
     },
     "abilities": {
-      "0": "Defiant",
-      "1": "Speed Boost"
+      "0": "Unfounded Winds",
+      "1": "Quick Feet"
     },
     "weightkg": 39.5,
     "prevo": "Pidgeotto",
-    "evoLevel": 31,
+    "evoLevel": 36,
     "eggGroups": [
-      "Flying"
+      "Air"
     ],
     "formes": [
       "Pidgeot",
@@ -784,28 +781,27 @@
     "num": 18,
     "name": "Pidgeot-Mega",
     "types": [
-      "Normal",
-      "Flying"
+      "Air"
     ],
     "genderRatio": {
       "M": 0.5,
       "F": 0.5
     },
     "baseStats": {
-      "hp": 85,
-      "atk": 115,
-      "def": 85,
-      "spe": 145,
-      "spa": 135,
-      "spd": 85
+      "hp": 73,
+      "atk": 100,
+      "def": 90,
+      "spe": 151,
+      "spa": 131,
+      "spd": 90
     },
     "abilities": {
-      "0": "No Guard",
-      "1": "Guarding Gale"
+      "0": "Indiscriminate",
+      "1": "Hubris"
     },
     "weightkg": 50.5,
     "eggGroups": [
-      "Flying"
+      "Air"
     ],
     "baseSpecies": "Pidgeot",
     "forme": "Mega",
@@ -814,7 +810,7 @@
       "Pidgeot-Mega"
     ],
     "requiredItems": [
-      "Mega Stone I",
+      "Mega Stone",
       "Pidgeotite"
     ]
   },
@@ -1010,7 +1006,7 @@
     "name": "Spearow",
     "types": [
       "Electric",
-      "Flying"
+      "Air"
     ],
     "genderRatio": {
       "M": 0.5,
@@ -1033,7 +1029,7 @@
       "Fearow"
     ],
     "eggGroups": [
-      "Flying"
+      "Air"
     ]
   },
   "fearow": {
@@ -1041,7 +1037,7 @@
     "name": "Fearow",
     "types": [
       "Electric",
-      "Flying"
+      "Air"
     ],
     "genderRatio": {
       "M": 0.5,
@@ -1063,7 +1059,7 @@
     "prevo": "Spearow",
     "evoLevel": 22,
     "eggGroups": [
-      "Flying"
+      "Air"
     ]
   },
   "ekans": {
@@ -1834,7 +1830,7 @@
     "name": "Zubat",
     "types": [
       "Poison",
-      "Flying"
+      "Air"
     ],
     "genderRatio": {
       "M": 0.5,
@@ -1858,7 +1854,7 @@
       "Golbat"
     ],
     "eggGroups": [
-      "Flying"
+      "Air"
     ]
   },
   "golbat": {
@@ -1866,7 +1862,7 @@
     "name": "Golbat",
     "types": [
       "Poison",
-      "Flying"
+      "Air"
     ],
     "genderRatio": {
       "M": 0.5,
@@ -1892,7 +1888,7 @@
       "Crobat"
     ],
     "eggGroups": [
-      "Flying"
+      "Air"
     ]
   },
   "oddish": {
@@ -3524,7 +3520,7 @@
     "name": "Farfetch’d",
     "types": [
       "Fighting",
-      "Flying"
+      "Air"
     ],
     "genderRatio": {
       "M": 0.5,
@@ -3544,7 +3540,7 @@
     },
     "weightkg": 15.0,
     "eggGroups": [
-      "Flying",
+      "Air",
       "Field"
     ]
   },
@@ -3553,7 +3549,7 @@
     "name": "Doduo",
     "types": [
       "Ground",
-      "Flying"
+      "Air"
     ],
     "genderRatio": {
       "M": 0.5,
@@ -3576,7 +3572,7 @@
       "Dodrio"
     ],
     "eggGroups": [
-      "Flying"
+      "Air"
     ]
   },
   "dodrio": {
@@ -3584,7 +3580,7 @@
     "name": "Dodrio",
     "types": [
       "Ground",
-      "Flying"
+      "Air"
     ],
     "genderRatio": {
       "M": 0.5,
@@ -3606,7 +3602,7 @@
     "prevo": "Doduo",
     "evoLevel": 26,
     "eggGroups": [
-      "Flying"
+      "Air"
     ]
   },
   "seel": {
@@ -5023,7 +5019,7 @@
     "name": "Scyther",
     "types": [
       "Bug",
-      "Flying"
+      "Air"
     ],
     "genderRatio": {
       "M": 0.5,
@@ -5179,7 +5175,7 @@
     "name": "Pinsir-Mega",
     "types": [
       "Bug",
-      "Flying"
+      "Air"
     ],
     "genderRatio": {
       "M": 0.5,
@@ -5272,7 +5268,7 @@
     "name": "Gyarados",
     "types": [
       "Water",
-      "Flying"
+      "Air"
     ],
     "genderRatio": {
       "M": 0.5,
@@ -5689,7 +5685,7 @@
     "name": "Aerodactyl",
     "types": [
       "Rock",
-      "Flying"
+      "Air"
     ],
     "genderRatio": {
       "M": 0.875,
@@ -5709,7 +5705,7 @@
     },
     "weightkg": 59.0,
     "eggGroups": [
-      "Flying"
+      "Air"
     ],
     "formes": [
       "Aerodactyl",
@@ -5721,7 +5717,7 @@
     "name": "Aerodactyl-Mega",
     "types": [
       "Rock",
-      "Flying"
+      "Air"
     ],
     "genderRatio": {
       "M": 0.875,
@@ -5741,7 +5737,7 @@
     },
     "weightkg": 79.0,
     "eggGroups": [
-      "Flying"
+      "Air"
     ],
     "baseSpecies": "Aerodactyl",
     "forme": "Mega",
@@ -5788,7 +5784,7 @@
     "name": "Articuno",
     "types": [
       "Ice",
-      "Flying"
+      "Air"
     ],
     "gender": "N",
     "baseStats": {
@@ -5814,7 +5810,7 @@
     "name": "Zapdos",
     "types": [
       "Electric",
-      "Flying"
+      "Air"
     ],
     "gender": "N",
     "baseStats": {
@@ -5840,7 +5836,7 @@
     "name": "Moltres",
     "types": [
       "Fire",
-      "Flying"
+      "Air"
     ],
     "gender": "N",
     "baseStats": {
@@ -5931,7 +5927,7 @@
     "name": "Dragonite",
     "types": [
       "Dragon",
-      "Flying"
+      "Air"
     ],
     "genderRatio": {
       "M": 0.5,
@@ -5954,7 +5950,7 @@
     "prevo": "Dragonair",
     "evoLevel": 45,
     "evoType": "levelHold",
-    "evoItem": "Flying Gem",
+    "evoItem": "Air Gem",
     "eggGroups": [
       "Water 1",
       "Dragon"
@@ -6429,7 +6425,7 @@
     "name": "Hoothoot",
     "types": [
       "Psychic",
-      "Flying"
+      "Air"
     ],
     "genderRatio": {
       "M": 0.5,
@@ -6453,7 +6449,7 @@
       "Noctowl"
     ],
     "eggGroups": [
-      "Flying"
+      "Air"
     ]
   },
   "noctowl": {
@@ -6461,7 +6457,7 @@
     "name": "Noctowl",
     "types": [
       "Psychic",
-      "Flying"
+      "Air"
     ],
     "genderRatio": {
       "M": 0.5,
@@ -6484,7 +6480,7 @@
     "prevo": "Hoothoot",
     "evoLevel": 22,
     "eggGroups": [
-      "Flying"
+      "Air"
     ]
   },
   "ledyba": {
@@ -6492,7 +6488,7 @@
     "name": "Ledyba",
     "types": [
       "Bug",
-      "Flying"
+      "Air"
     ],
     "genderRatio": {
       "M": 0.5,
@@ -6617,7 +6613,7 @@
     "name": "Crobat",
     "types": [
       "Poison",
-      "Flying"
+      "Air"
     ],
     "genderRatio": {
       "M": 0.5,
@@ -6640,9 +6636,9 @@
     "prevo": "Golbat",
     "evoLevel": 33,
     "evoType": "levelHold",
-    "evoItem": "Flying Gem",
+    "evoItem": "Air Gem",
     "eggGroups": [
-      "Flying"
+      "Air"
     ]
   },
   "chinchou": {
@@ -6836,7 +6832,7 @@
     "name": "Togetic",
     "types": [
       "Fairy",
-      "Flying"
+      "Air"
     ],
     "genderRatio": {
       "M": 0.875,
@@ -6861,7 +6857,7 @@
       "Togekiss"
     ],
     "eggGroups": [
-      "Flying",
+      "Air",
       "Fairy"
     ]
   },
@@ -6870,7 +6866,7 @@
     "name": "Natu",
     "types": [
       "Psychic",
-      "Flying"
+      "Air"
     ],
     "genderRatio": {
       "M": 0.5,
@@ -6893,7 +6889,7 @@
       "Xatu"
     ],
     "eggGroups": [
-      "Flying"
+      "Air"
     ]
   },
   "xatu": {
@@ -6901,7 +6897,7 @@
     "name": "Xatu",
     "types": [
       "Psychic",
-      "Flying"
+      "Air"
     ],
     "genderRatio": {
       "M": 0.5,
@@ -6923,7 +6919,7 @@
     "prevo": "Natu",
     "evoLevel": 25,
     "eggGroups": [
-      "Flying"
+      "Air"
     ]
   },
   "mareep": {
@@ -7227,7 +7223,7 @@
     "name": "Hoppip",
     "types": [
       "Grass",
-      "Flying"
+      "Air"
     ],
     "genderRatio": {
       "M": 0.5,
@@ -7259,7 +7255,7 @@
     "name": "Skiploom",
     "types": [
       "Grass",
-      "Flying"
+      "Air"
     ],
     "genderRatio": {
       "M": 0.5,
@@ -7293,7 +7289,7 @@
     "name": "Jumpluff",
     "types": [
       "Grass",
-      "Flying"
+      "Air"
     ],
     "genderRatio": {
       "M": 0.5,
@@ -7415,7 +7411,7 @@
     "name": "Yanma",
     "types": [
       "Bug",
-      "Flying"
+      "Air"
     ],
     "genderRatio": {
       "M": 0.5,
@@ -7575,7 +7571,7 @@
     "name": "Murkrow",
     "types": [
       "Dark",
-      "Flying"
+      "Air"
     ],
     "genderRatio": {
       "M": 0.5,
@@ -7598,7 +7594,7 @@
       "Honchkrow"
     ],
     "eggGroups": [
-      "Flying"
+      "Air"
     ]
   },
   "slowking": {
@@ -7842,7 +7838,7 @@
     "name": "Gligar",
     "types": [
       "Poison",
-      "Flying"
+      "Air"
     ],
     "genderRatio": {
       "M": 0.5,
@@ -8547,7 +8543,7 @@
     "name": "Mantine",
     "types": [
       "Water",
-      "Flying"
+      "Air"
     ],
     "genderRatio": {
       "M": 0.5,
@@ -8578,7 +8574,7 @@
     "name": "Skarmory",
     "types": [
       "Steel",
-      "Flying"
+      "Air"
     ],
     "genderRatio": {
       "M": 0.5,
@@ -8598,7 +8594,7 @@
     },
     "weightkg": 50.5,
     "eggGroups": [
-      "Flying"
+      "Air"
     ]
   },
   "houndour": {
@@ -9297,7 +9293,7 @@
     "name": "Lugia",
     "types": [
       "Psychic",
-      "Flying"
+      "Air"
     ],
     "gender": "N",
     "baseStats": {
@@ -9322,7 +9318,7 @@
     "name": "Ho-Oh",
     "types": [
       "Fairy",
-      "Flying"
+      "Air"
     ],
     "gender": "N",
     "baseStats": {
@@ -9968,7 +9964,7 @@
     "name": "Beautifly",
     "types": [
       "Bug",
-      "Flying"
+      "Air"
     ],
     "genderRatio": {
       "M": 0.5,
@@ -10258,7 +10254,7 @@
     "name": "Taillow",
     "types": [
       "Normal",
-      "Flying"
+      "Air"
     ],
     "genderRatio": {
       "M": 0.5,
@@ -10281,7 +10277,7 @@
       "Swellow"
     ],
     "eggGroups": [
-      "Flying"
+      "Air"
     ]
   },
   "swellow": {
@@ -10289,7 +10285,7 @@
     "name": "Swellow",
     "types": [
       "Normal",
-      "Flying"
+      "Air"
     ],
     "genderRatio": {
       "M": 0.5,
@@ -10312,7 +10308,7 @@
     "prevo": "Taillow",
     "evoLevel": 22,
     "eggGroups": [
-      "Flying"
+      "Air"
     ]
   },
   "wingull": {
@@ -10320,7 +10316,7 @@
     "name": "Wingull",
     "types": [
       "Water",
-      "Flying"
+      "Air"
     ],
     "genderRatio": {
       "M": 0.5,
@@ -10344,7 +10340,7 @@
     ],
     "eggGroups": [
       "Water 1",
-      "Flying"
+      "Air"
     ]
   },
   "pelipper": {
@@ -10352,7 +10348,7 @@
     "name": "Pelipper",
     "types": [
       "Water",
-      "Flying"
+      "Air"
     ],
     "genderRatio": {
       "M": 0.5,
@@ -10375,7 +10371,7 @@
     "evoLevel": 20,
     "eggGroups": [
       "Water 1",
-      "Flying"
+      "Air"
     ]
   },
   "ralts": {
@@ -10554,7 +10550,7 @@
     "name": "Masquerain",
     "types": [
       "Bug",
-      "Flying"
+      "Air"
     ],
     "genderRatio": {
       "M": 0.5,
@@ -10777,7 +10773,7 @@
     "name": "Ninjask",
     "types": [
       "Bug",
-      "Flying"
+      "Air"
     ],
     "genderRatio": {
       "M": 0.5,
@@ -12355,7 +12351,7 @@
     "name": "Swablu",
     "types": [
       "Normal",
-      "Flying"
+      "Air"
     ],
     "genderRatio": {
       "M": 0.5,
@@ -12378,7 +12374,7 @@
       "Altaria"
     ],
     "eggGroups": [
-      "Flying",
+      "Air",
       "Dragon"
     ]
   },
@@ -12387,7 +12383,7 @@
     "name": "Altaria",
     "types": [
       "Dragon",
-      "Flying"
+      "Air"
     ],
     "genderRatio": {
       "M": 0.5,
@@ -12409,7 +12405,7 @@
     "prevo": "Swablu",
     "evoLevel": 31,
     "eggGroups": [
-      "Flying",
+      "Air",
       "Dragon"
     ],
     "formes": [
@@ -12442,7 +12438,7 @@
     },
     "weightkg": 20.6,
     "eggGroups": [
-      "Flying",
+      "Air",
       "Dragon"
     ],
     "baseSpecies": "Altaria",
@@ -12936,7 +12932,7 @@
     "num": 351,
     "name": "Castform",
     "types": [
-      "Flying"
+      "Air"
     ],
     "genderRatio": {
       "M": 0.5,
@@ -12971,7 +12967,7 @@
     "name": "Castform-Sunny",
     "types": [
       "Fire",
-      "Flying"
+      "Air"
     ],
     "genderRatio": {
       "M": 0.5,
@@ -13007,7 +13003,7 @@
     "name": "Castform-Rainy",
     "types": [
       "Water",
-      "Flying"
+      "Air"
     ],
     "genderRatio": {
       "M": 0.5,
@@ -13043,7 +13039,7 @@
     "name": "Castform-Snowy",
     "types": [
       "Ice",
-      "Flying"
+      "Air"
     ],
     "genderRatio": {
       "M": 0.5,
@@ -13303,7 +13299,7 @@
     "name": "Chimecho",
     "types": [
       "Psychic",
-      "Flying"
+      "Air"
     ],
     "genderRatio": {
       "M": 0.5,
@@ -13858,7 +13854,7 @@
     "name": "Salamence",
     "types": [
       "Dragon",
-      "Flying"
+      "Air"
     ],
     "genderRatio": {
       "M": 0.5,
@@ -13880,7 +13876,7 @@
     "prevo": "Shelgon",
     "evoLevel": 45,
     "evoType": "levelHold",
-    "evoItem": "Flying Gem",
+    "evoItem": "Air Gem",
     "eggGroups": [
       "Dragon"
     ],
@@ -14375,7 +14371,7 @@
     "name": "Rayquaza",
     "types": [
       "Dragon",
-      "Flying"
+      "Air"
     ],
     "gender": "N",
     "baseStats": {
@@ -14404,7 +14400,7 @@
     "name": "Rayquaza-Mega",
     "types": [
       "Dragon",
-      "Flying"
+      "Air"
     ],
     "gender": "N",
     "baseStats": {
@@ -14880,7 +14876,7 @@
     "name": "Starly",
     "types": [
       "Normal",
-      "Flying"
+      "Air"
     ],
     "genderRatio": {
       "M": 0.5,
@@ -14904,7 +14900,7 @@
       "Staravia"
     ],
     "eggGroups": [
-      "Flying"
+      "Air"
     ]
   },
   "staravia": {
@@ -14912,7 +14908,7 @@
     "name": "Staravia",
     "types": [
       "Normal",
-      "Flying"
+      "Air"
     ],
     "genderRatio": {
       "M": 0.5,
@@ -14938,7 +14934,7 @@
       "Staraptor"
     ],
     "eggGroups": [
-      "Flying"
+      "Air"
     ]
   },
   "staraptor": {
@@ -14946,7 +14942,7 @@
     "name": "Staraptor",
     "types": [
       "Normal",
-      "Flying"
+      "Air"
     ],
     "genderRatio": {
       "M": 0.5,
@@ -14969,7 +14965,7 @@
     "prevo": "Staravia",
     "evoLevel": 31,
     "eggGroups": [
-      "Flying"
+      "Air"
     ]
   },
   "bidoof": {
@@ -15509,7 +15505,7 @@
     "name": "Mothim",
     "types": [
       "Bug",
-      "Flying"
+      "Air"
     ],
     "gender": "M",
     "baseStats": {
@@ -15536,7 +15532,7 @@
     "name": "Combee",
     "types": [
       "Bug",
-      "Flying"
+      "Air"
     ],
     "gender": "F",
     "baseStats": {
@@ -15564,7 +15560,7 @@
     "name": "Vespiquen",
     "types": [
       "Bug",
-      "Flying"
+      "Air"
     ],
     "gender": "F",
     "baseStats": {
@@ -15958,7 +15954,7 @@
     "name": "Drifloon",
     "types": [
       "Ghost",
-      "Flying"
+      "Air"
     ],
     "genderRatio": {
       "M": 0.5,
@@ -15990,7 +15986,7 @@
     "name": "Drifblim",
     "types": [
       "Ghost",
-      "Flying"
+      "Air"
     ],
     "genderRatio": {
       "M": 0.5,
@@ -16157,7 +16153,7 @@
     "name": "Honchkrow",
     "types": [
       "Dark",
-      "Flying"
+      "Air"
     ],
     "genderRatio": {
       "M": 0.5,
@@ -16181,7 +16177,7 @@
     "evoType": "levelHold",
     "evoItem": "Dark Gem",
     "eggGroups": [
-      "Flying"
+      "Air"
     ]
   },
   "glameow": {
@@ -16250,7 +16246,7 @@
     "name": "Chingling",
     "types": [
       "Psychic",
-      "Flying"
+      "Air"
     ],
     "genderRatio": {
       "M": 0.5,
@@ -16487,7 +16483,7 @@
     "name": "Chatot",
     "types": [
       "Normal",
-      "Flying"
+      "Air"
     ],
     "genderRatio": {
       "M": 0.5,
@@ -16507,7 +16503,7 @@
     },
     "weightkg": 1.9,
     "eggGroups": [
-      "Flying"
+      "Air"
     ]
   },
   "spiritomb": {
@@ -17095,7 +17091,7 @@
     "name": "Mantyke",
     "types": [
       "Water",
-      "Flying"
+      "Air"
     ],
     "genderRatio": {
       "M": 0.5,
@@ -17454,7 +17450,7 @@
     "name": "Togekiss",
     "types": [
       "Fairy",
-      "Flying"
+      "Air"
     ],
     "genderRatio": {
       "M": 0.875,
@@ -17476,9 +17472,9 @@
     "prevo": "Togetic",
     "evoLevel": 32,
     "evoType": "levelHold",
-    "evoItem": "Flying Gem",
+    "evoItem": "Air Gem",
     "eggGroups": [
-      "Flying",
+      "Air",
       "Fairy"
     ]
   },
@@ -17988,7 +17984,7 @@
     "name": "Rotom-Fan",
     "types": [
       "Electric",
-      "Flying"
+      "Air"
     ],
     "gender": "N",
     "baseStats": {
@@ -18433,7 +18429,7 @@
     "num": 492,
     "name": "Shaymin-Sky",
     "types": [
-      "Flying",
+      "Air",
       "Grass"
     ],
     "gender": "N",
@@ -19250,7 +19246,7 @@
     "name": "Pidove",
     "types": [
       "Normal",
-      "Flying"
+      "Air"
     ],
     "genderRatio": {
       "M": 0.5,
@@ -19273,7 +19269,7 @@
       "Tranquill"
     ],
     "eggGroups": [
-      "Flying"
+      "Air"
     ]
   },
   "tranquill": {
@@ -19281,7 +19277,7 @@
     "name": "Tranquill",
     "types": [
       "Normal",
-      "Flying"
+      "Air"
     ],
     "genderRatio": {
       "M": 0.5,
@@ -19306,7 +19302,7 @@
       "Unfezant"
     ],
     "eggGroups": [
-      "Flying"
+      "Air"
     ]
   },
   "unfezant": {
@@ -19314,7 +19310,7 @@
     "name": "Unfezant",
     "types": [
       "Normal",
-      "Flying"
+      "Air"
     ],
     "genderRatio": {
       "M": 0.5,
@@ -19336,7 +19332,7 @@
     "prevo": "Tranquill",
     "evoLevel": 32,
     "eggGroups": [
-      "Flying"
+      "Air"
     ]
   },
   "blitzle": {
@@ -19500,7 +19496,7 @@
     "name": "Woobat",
     "types": [
       "Fairy",
-      "Flying"
+      "Air"
     ],
     "genderRatio": {
       "M": 0.5,
@@ -19524,7 +19520,7 @@
     ],
     "eggGroups": [
       "Field",
-      "Flying"
+      "Air"
     ]
   },
   "swoobat": {
@@ -19532,7 +19528,7 @@
     "name": "Swoobat",
     "types": [
       "Fairy",
-      "Flying"
+      "Air"
     ],
     "genderRatio": {
       "M": 0.5,
@@ -19555,7 +19551,7 @@
     "evoLevel": 22,
     "eggGroups": [
       "Field",
-      "Flying"
+      "Air"
     ]
   },
   "drilbur": {
@@ -20123,7 +20119,7 @@
     "name": "Cottonee",
     "types": [
       "Grass",
-      "Flying"
+      "Air"
     ],
     "genderRatio": {
       "M": 0.5,
@@ -20155,7 +20151,7 @@
     "name": "Whimsicott",
     "types": [
       "Grass",
-      "Flying"
+      "Air"
     ],
     "genderRatio": {
       "M": 0.5,
@@ -20659,7 +20655,7 @@
     "name": "Sigilyph",
     "types": [
       "Psychic",
-      "Flying"
+      "Air"
     ],
     "genderRatio": {
       "M": 0.5,
@@ -20679,7 +20675,7 @@
     },
     "weightkg": 14.0,
     "eggGroups": [
-      "Flying"
+      "Air"
     ]
   },
   "yamask": {
@@ -20813,7 +20809,7 @@
     "name": "Archen",
     "types": [
       "Rock",
-      "Flying"
+      "Air"
     ],
     "genderRatio": {
       "M": 0.875,
@@ -20836,7 +20832,7 @@
       "Archeops"
     ],
     "eggGroups": [
-      "Flying",
+      "Air",
       "Water 3"
     ]
   },
@@ -20845,7 +20841,7 @@
     "name": "Archeops",
     "types": [
       "Rock",
-      "Flying"
+      "Air"
     ],
     "genderRatio": {
       "M": 0.875,
@@ -20867,7 +20863,7 @@
     "prevo": "Archen",
     "evoLevel": 33,
     "eggGroups": [
-      "Flying",
+      "Air",
       "Water 3"
     ]
   },
@@ -21251,7 +21247,7 @@
     "name": "Ducklett",
     "types": [
       "Water",
-      "Flying"
+      "Air"
     ],
     "genderRatio": {
       "M": 0.5,
@@ -21275,7 +21271,7 @@
     ],
     "eggGroups": [
       "Water 1",
-      "Flying"
+      "Air"
     ]
   },
   "swanna": {
@@ -21283,7 +21279,7 @@
     "name": "Swanna",
     "types": [
       "Water",
-      "Flying"
+      "Air"
     ],
     "genderRatio": {
       "M": 0.5,
@@ -21306,7 +21302,7 @@
     "evoLevel": 24,
     "eggGroups": [
       "Water 1",
-      "Flying"
+      "Air"
     ]
   },
   "vanillite": {
@@ -21466,7 +21462,7 @@
     "num": 587,
     "name": "Emolga",
     "types": [
-      "Flying",
+      "Air",
       "Electric"
     ],
     "genderRatio": {
@@ -22346,7 +22342,7 @@
     "name": "Cryogonal",
     "types": [
       "Ice",
-      "Flying"
+      "Air"
     ],
     "gender": "N",
     "baseStats": {
@@ -22698,7 +22694,7 @@
     "num": 627,
     "name": "Rufflet",
     "types": [
-      "Flying",
+      "Air",
       "Normal"
     ],
     "gender": "M",
@@ -22720,14 +22716,14 @@
       "Braviary"
     ],
     "eggGroups": [
-      "Flying"
+      "Air"
     ]
   },
   "braviary": {
     "num": 628,
     "name": "Braviary",
     "types": [
-      "Flying",
+      "Air",
       "Fighting"
     ],
     "gender": "M",
@@ -22748,7 +22744,7 @@
     "prevo": "Rufflet",
     "evoLevel": 32,
     "eggGroups": [
-      "Flying"
+      "Air"
     ]
   },
   "vullaby": {
@@ -22756,7 +22752,7 @@
     "name": "Vullaby",
     "types": [
       "Dark",
-      "Flying"
+      "Air"
     ],
     "gender": "F",
     "baseStats": {
@@ -22776,7 +22772,7 @@
       "Mandibuzz"
     ],
     "eggGroups": [
-      "Flying"
+      "Air"
     ]
   },
   "mandibuzz": {
@@ -22784,7 +22780,7 @@
     "name": "Mandibuzz",
     "types": [
       "Dark",
-      "Flying"
+      "Air"
     ],
     "gender": "F",
     "baseStats": {
@@ -22803,7 +22799,7 @@
     "prevo": "Vullaby",
     "evoLevel": 32,
     "eggGroups": [
-      "Flying"
+      "Air"
     ]
   },
   "heatmor": {
@@ -23098,7 +23094,7 @@
     "num": 641,
     "name": "Tornadus",
     "types": [
-      "Flying"
+      "Air"
     ],
     "gender": "M",
     "baseStats": {
@@ -23126,7 +23122,7 @@
     "num": 641,
     "name": "Tornadus-Therian",
     "types": [
-      "Flying"
+      "Air"
     ],
     "gender": "M",
     "baseStats": {
@@ -23157,7 +23153,7 @@
     "name": "Thundurus",
     "types": [
       "Electric",
-      "Flying"
+      "Air"
     ],
     "gender": "M",
     "baseStats": {
@@ -23186,7 +23182,7 @@
     "name": "Thundurus-Therian",
     "types": [
       "Electric",
-      "Flying"
+      "Air"
     ],
     "gender": "M",
     "baseStats": {
@@ -23267,7 +23263,7 @@
     "name": "Landorus",
     "types": [
       "Ground",
-      "Flying"
+      "Air"
     ],
     "gender": "M",
     "baseStats": {
@@ -23296,7 +23292,7 @@
     "name": "Landorus-Therian",
     "types": [
       "Ground",
-      "Flying"
+      "Air"
     ],
     "gender": "M",
     "baseStats": {
@@ -23948,7 +23944,7 @@
     "name": "Fletchling",
     "types": [
       "Normal",
-      "Flying"
+      "Air"
     ],
     "genderRatio": {
       "M": 0.5,
@@ -23971,7 +23967,7 @@
       "Fletchinder"
     ],
     "eggGroups": [
-      "Flying"
+      "Air"
     ]
   },
   "fletchinder": {
@@ -23979,7 +23975,7 @@
     "name": "Fletchinder",
     "types": [
       "Fire",
-      "Flying"
+      "Air"
     ],
     "genderRatio": {
       "M": 0.5,
@@ -24004,7 +24000,7 @@
       "Talonflame"
     ],
     "eggGroups": [
-      "Flying"
+      "Air"
     ]
   },
   "talonflame": {
@@ -24012,7 +24008,7 @@
     "name": "Talonflame",
     "types": [
       "Fire",
-      "Flying"
+      "Air"
     ],
     "genderRatio": {
       "M": 0.5,
@@ -24034,7 +24030,7 @@
     "prevo": "Fletchinder",
     "evoLevel": 33,
     "eggGroups": [
-      "Flying"
+      "Air"
     ]
   },
   "scatterbug": {
@@ -24104,7 +24100,7 @@
     "name": "Vivillon",
     "types": [
       "Bug",
-      "Flying"
+      "Air"
     ],
     "genderRatio": {
       "M": 0.5,
@@ -25675,7 +25671,7 @@
     "name": "Hawlucha",
     "types": [
       "Fighting",
-      "Flying"
+      "Air"
     ],
     "genderRatio": {
       "M": 0.5,
@@ -26119,7 +26115,7 @@
     "num": 714,
     "name": "Noibat",
     "types": [
-      "Flying",
+      "Air",
       "Dragon"
     ],
     "genderRatio": {
@@ -26143,14 +26139,14 @@
       "Noivern"
     ],
     "eggGroups": [
-      "Flying"
+      "Air"
     ]
   },
   "noivern": {
     "num": 715,
     "name": "Noivern",
     "types": [
-      "Flying",
+      "Air",
       "Dragon"
     ],
     "genderRatio": {
@@ -26173,7 +26169,7 @@
     "prevo": "Noibat",
     "evoLevel": 25,
     "eggGroups": [
-      "Flying"
+      "Air"
     ]
   },
   "xerneas": {
@@ -26205,7 +26201,7 @@
     "name": "Yveltal",
     "types": [
       "Dark",
-      "Flying"
+      "Air"
     ],
     "gender": "N",
     "baseStats": {
@@ -26488,7 +26484,7 @@
     "name": "Rowlet",
     "types": [
       "Grass",
-      "Flying"
+      "Air"
     ],
     "genderRatio": {
       "M": 0.5,
@@ -26511,7 +26507,7 @@
       "Dartrix"
     ],
     "eggGroups": [
-      "Flying"
+      "Air"
     ]
   },
   "dartrix": {
@@ -26519,7 +26515,7 @@
     "name": "Dartrix",
     "types": [
       "Grass",
-      "Flying"
+      "Air"
     ],
     "genderRatio": {
       "M": 0.5,
@@ -26544,7 +26540,7 @@
       "Decidueye"
     ],
     "eggGroups": [
-      "Flying"
+      "Air"
     ]
   },
   "decidueye": {
@@ -26575,7 +26571,7 @@
     "prevo": "Dartrix",
     "evoLevel": 36,
     "eggGroups": [
-      "Flying"
+      "Air"
     ]
   },
   "litten": {
@@ -26770,7 +26766,7 @@
     "name": "Pikipek",
     "types": [
       "Normal",
-      "Flying"
+      "Air"
     ],
     "genderRatio": {
       "M": 0.5,
@@ -26793,7 +26789,7 @@
       "Trumbeak"
     ],
     "eggGroups": [
-      "Flying"
+      "Air"
     ]
   },
   "trumbeak": {
@@ -26801,7 +26797,7 @@
     "name": "Trumbeak",
     "types": [
       "Normal",
-      "Flying"
+      "Air"
     ],
     "genderRatio": {
       "M": 0.5,
@@ -26826,7 +26822,7 @@
       "Toucannon"
     ],
     "eggGroups": [
-      "Flying"
+      "Air"
     ]
   },
   "toucannon": {
@@ -26834,7 +26830,7 @@
     "name": "Toucannon",
     "types": [
       "Normal",
-      "Flying"
+      "Air"
     ],
     "genderRatio": {
       "M": 0.5,
@@ -26856,7 +26852,7 @@
     "prevo": "Trumbeak",
     "evoLevel": 31,
     "eggGroups": [
-      "Flying"
+      "Air"
     ]
   },
   "yungoos": {
@@ -27172,7 +27168,7 @@
     "name": "Oricorio",
     "types": [
       "Fire",
-      "Flying"
+      "Air"
     ],
     "genderRatio": {
       "M": 0.25,
@@ -27192,7 +27188,7 @@
     },
     "weightkg": 3.4,
     "eggGroups": [
-      "Flying"
+      "Air"
     ],
     "formes": [
       "Oricorio",
@@ -27206,7 +27202,7 @@
     "name": "Oricorio-Pom-Pom",
     "types": [
       "Electric",
-      "Flying"
+      "Air"
     ],
     "genderRatio": {
       "M": 0.25,
@@ -27226,7 +27222,7 @@
     },
     "weightkg": 3.4,
     "eggGroups": [
-      "Flying"
+      "Air"
     ],
     "baseSpecies": "Oricorio",
     "forme": "Pom-Pom",
@@ -27242,7 +27238,7 @@
     "name": "Oricorio-Pa'u",
     "types": [
       "Psychic",
-      "Flying"
+      "Air"
     ],
     "genderRatio": {
       "M": 0.25,
@@ -27262,7 +27258,7 @@
     },
     "weightkg": 3.4,
     "eggGroups": [
-      "Flying"
+      "Air"
     ],
     "baseSpecies": "Oricorio",
     "forme": "Pa'u",
@@ -27278,7 +27274,7 @@
     "name": "Oricorio-Sensu",
     "types": [
       "Ghost",
-      "Flying"
+      "Air"
     ],
     "genderRatio": {
       "M": 0.25,
@@ -27298,7 +27294,7 @@
     },
     "weightkg": 3.4,
     "eggGroups": [
-      "Flying"
+      "Air"
     ],
     "baseSpecies": "Oricorio",
     "forme": "Sensu",
@@ -28568,7 +28564,7 @@
     "name": "Minior",
     "types": [
       "Rock",
-      "Flying"
+      "Air"
     ],
     "gender": "N",
     "baseStats": {
@@ -29673,7 +29669,7 @@
     "name": "Celesteela",
     "types": [
       "Steel",
-      "Flying"
+      "Air"
     ],
     "gender": "N",
     "baseStats": {
