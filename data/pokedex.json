@@ -466,7 +466,7 @@
     "baseStats": {
       "hp": 35,
       "atk": 40,
-      "def": 35,
+      "def": 25,
       "spe": 55,
       "spa": 45,
       "spd": 25
@@ -530,9 +530,9 @@
       "hp": 75,
       "atk": 55,
       "def": 80,
-      "spe": 95,
+      "spe": 85,
       "spa": 90,
-      "spd": 85
+      "spd": 90
     },
     "abilities": {
       "0": "Analytic",
@@ -826,17 +826,16 @@
       "F": 0.5
     },
     "baseStats": {
-      "hp": 47,
-      "atk": 69,
-      "def": 42,
-      "spe": 90,
-      "spa": 40,
-      "spd": 42
+      "hp": 52,
+      "atk": 72,
+      "def": 55,
+      "spe": 81,
+      "spa": 35,
+      "spd": 55
     },
     "abilities": {
       "0": "Hustle",
-      "1": "Defiant",
-      "H": "Guts"
+      "1": "Strong Jaw"
     },
     "weightkg": 3.5,
     "evos": [
@@ -862,17 +861,16 @@
       "F": 0.5
     },
     "baseStats": {
-      "hp": 47,
-      "atk": 69,
-      "def": 42,
-      "spe": 90,
-      "spa": 40,
-      "spd": 42
+      "hp": 55,
+      "atk": 76,
+      "def": 56,
+      "spe": 82,
+      "spa": 35,
+      "spd": 46
     },
     "abilities": {
-      "0": "Hustle",
-      "1": "Pickpocket",
-      "H": "Guts"
+      "0": "Technician",
+      "1": "Hustle"
     },
     "weightkg": 3.8,
     "evos": [
@@ -900,21 +898,20 @@
       "F": 0.5
     },
     "baseStats": {
-      "hp": 70,
-      "atk": 109,
-      "def": 72,
-      "spe": 107,
-      "spa": 50,
-      "spd": 72
+      "hp": 90,
+      "atk": 93,
+      "def": 85,
+      "spe": 92,
+      "spa": 55,
+      "spd": 85
     },
     "abilities": {
       "0": "Hustle",
-      "1": "Strong Jaw",
-      "H": "Guts"
+      "1": "Strong Jaw"
     },
     "weightkg": 18.5,
     "prevo": "Rattata",
-    "evoLevel": 20,
+    "evoLevel": 25,
     "eggGroups": [
       "Field"
     ],
@@ -936,21 +933,20 @@
       "F": 0.5
     },
     "baseStats": {
-      "hp": 94,
-      "atk": 109,
-      "def": 80,
+      "hp": 90,
+      "atk": 106,
+      "def": 86,
       "spe": 77,
-      "spa": 40,
-      "spd": 80
+      "spa": 45,
+      "spd": 86
     },
     "abilities": {
       "0": "Hustle",
-      "1": "Strong Jaw",
-      "H": "Guts"
+      "1": "Thick Fat"
     },
     "weightkg": 25.5,
     "prevo": "Rattata-Alola",
-    "evoLevel": 20,
+    "evoLevel": 25,
     "eggGroups": [
       "Field"
     ],
@@ -1006,7 +1002,7 @@
     "num": 21,
     "name": "Spearow",
     "types": [
-      "Electric",
+      "Dark",
       "Air"
     ],
     "genderRatio": {
@@ -1014,16 +1010,16 @@
       "F": 0.5
     },
     "baseStats": {
-      "hp": 45,
-      "atk": 75,
-      "def": 45,
-      "spe": 103,
-      "spa": 31,
-      "spd": 51
+      "hp": 49,
+      "atk": 70,
+      "def": 50,
+      "spe": 70,
+      "spa": 46,
+      "spd": 65
     },
     "abilities": {
-      "0": "Intimidate",
-      "1": "Defiant"
+      "0": "Lethality",
+      "1": "Gale Wings"
     },
     "weightkg": 2.0,
     "evos": [
@@ -1037,7 +1033,7 @@
     "num": 22,
     "name": "Fearow",
     "types": [
-      "Electric",
+      "Dark",
       "Air"
     ],
     "genderRatio": {
@@ -1045,20 +1041,20 @@
       "F": 0.5
     },
     "baseStats": {
-      "hp": 75,
-      "atk": 120,
+      "hp": 74,
+      "atk": 100,
       "def": 75,
-      "spe": 133,
-      "spa": 41,
-      "spd": 81
+      "spe": 100,
+      "spa": 61,
+      "spd": 90
     },
     "abilities": {
-      "0": "Intimidate",
-      "1": "Reckless"
+      "0": "Lethality",
+      "1": "Gale Wings"
     },
     "weightkg": 38.0,
     "prevo": "Spearow",
-    "evoLevel": 22,
+    "evoLevel": 25,
     "eggGroups": [
       "Air"
     ]
@@ -1074,15 +1070,15 @@
       "F": 0.5
     },
     "baseStats": {
-      "hp": 65,
-      "atk": 65,
-      "def": 55,
-      "spe": 70,
-      "spa": 60,
-      "spd": 55
+      "hp": 55,
+      "atk": 70,
+      "def": 54,
+      "spe": 72,
+      "spa": 45,
+      "spd": 54
     },
     "abilities": {
-      "0": "Unnerve",
+      "0": "Merciless",
       "1": "Intimidate"
     },
     "weightkg": 6.9,
@@ -1099,27 +1095,27 @@
     "name": "Arbok",
     "types": [
       "Poison",
-      "Dark"
+      "Dragon"
     ],
     "genderRatio": {
       "M": 0.5,
       "F": 0.5
     },
     "baseStats": {
-      "hp": 105,
+      "hp": 85,
       "atk": 105,
-      "def": 80,
-      "spe": 80,
-      "spa": 85,
-      "spd": 80
+      "def": 89,
+      "spe": 97,
+      "spa": 65,
+      "spd": 84
     },
     "abilities": {
-      "0": "Sheer Force",
+      "0": "Merciless",
       "1": "Intimidate"
     },
     "weightkg": 65.0,
     "prevo": "Ekans",
-    "evoLevel": 22,
+    "evoLevel": 32,
     "eggGroups": [
       "Field",
       "Dragon"
@@ -1136,20 +1132,20 @@
       "F": 0.5
     },
     "baseStats": {
-      "hp": 50,
-      "atk": 70,
-      "def": 45,
-      "spe": 115,
-      "spa": 90,
+      "hp": 60,
+      "atk": 80,
+      "def": 60,
+      "spe": 85,
+      "spa": 80,
       "spd": 50
     },
     "abilities": {
-      "0": "Galvanize",
+      "0": "Fairy Aura",
       "1": "Lightning Rod"
     },
     "weightkg": 6.0,
     "prevo": "Pichu",
-    "evoLevel": 15,
+    "evoLevel": 16,
     "evos": [
       "Raichu",
       "Raichu-Alola"
@@ -1173,20 +1169,20 @@
       "F": 0.5
     },
     "baseStats": {
-      "hp": 70,
-      "atk": 95,
+      "hp": 75,
+      "atk": 115,
       "def": 65,
-      "spe": 125,
-      "spa": 110,
-      "spd": 85
+      "spe": 110,
+      "spa": 115,
+      "spd": 55
     },
     "abilities": {
-      "0": "Instinct",
-      "1": "Electric Surge"
+      "0": "Fairy Aura",
+      "1": "Lightning Rod"
     },
     "weightkg": 30.0,
     "prevo": "Pikachu",
-    "evoLevel": 33,
+    "evoLevel": 36,
     "evoType": "levelHold",
     "evoItem": "Electric Gem",
     "eggGroups": [
@@ -1212,18 +1208,18 @@
     "baseStats": {
       "hp": 70,
       "atk": 85,
-      "def": 60,
-      "spe": 130,
-      "spa": 110,
-      "spd": 95
+      "def": 70,
+      "spe": 100,
+      "spa": 125,
+      "spd": 85
     },
     "abilities": {
       "0": "Levitate",
-      "1": "Psychic Surge"
+      "1": "Volt Rush "
     },
     "weightkg": 21.0,
     "prevo": "Pikachu",
-    "evoLevel": 33,
+    "evoLevel": 36,
     "evoType": "levelHold",
     "evoItem": "Psychic Gem",
     "eggGroups": [
@@ -1241,6 +1237,7 @@
     "num": 27,
     "name": "Sandshrew",
     "types": [
+      "Normal",
       "Ground"
     ],
     "genderRatio": {
@@ -1249,15 +1246,15 @@
     },
     "baseStats": {
       "hp": 50,
-      "atk": 75,
-      "def": 95,
-      "spe": 50,
-      "spa": 20,
-      "spd": 60
+      "atk": 70,
+      "def": 85,
+      "spe": 60,
+      "spa": 60,
+      "spd": 40
     },
     "abilities": {
-      "0": "Sand Force",
-      "1": "Rough Skin"
+      "0": "Battle Armour",
+      "1": "Tough Claws"
     },
     "weightkg": 12.0,
     "evos": [
@@ -1283,16 +1280,16 @@
       "F": 0.5
     },
     "baseStats": {
-      "hp": 50,
-      "atk": 70,
-      "def": 110,
-      "spe": 40,
+      "hp": 60,
+      "atk": 85,
+      "def": 90,
+      "spe": 60,
       "spa": 10,
       "spd": 70
     },
     "abilities": {
-      "0": "Refrigerate",
-      "1": "Sturdy"
+      "0": "Tough Claws",
+      "1": "Slush Rush"
     },
     "weightkg": 40.0,
     "evos": [
@@ -1320,19 +1317,19 @@
     },
     "baseStats": {
       "hp": 75,
-      "atk": 110,
-      "def": 115,
-      "spe": 110,
-      "spa": 45,
-      "spd": 70
+      "atk": 100,
+      "def": 120,
+      "spe": 100,
+      "spa": 55,
+      "spd": 75
     },
     "abilities": {
-      "0": "Sand Rush",
+      "0": "Battle Armor",
       "1": "Tough Claws"
     },
     "weightkg": 29.5,
     "prevo": "Sandshrew",
-    "evoLevel": 22,
+    "evoLevel": 32,
     "eggGroups": [
       "Field"
     ],
@@ -1354,19 +1351,19 @@
     },
     "baseStats": {
       "hp": 75,
-      "atk": 115,
+      "atk": 125,
       "def": 125,
-      "spe": 100,
+      "spe": 90,
       "spa": 25,
       "spd": 85
     },
     "abilities": {
-      "0": "Slush Rush",
-      "1": "Technician"
+      "0": "Tough Claws",
+      "1": "Slush Rush"
     },
     "weightkg": 55.0,
     "prevo": "Sandshrew-Alola",
-    "evoLevel": 22,
+    "evoLevel": 32,
     "eggGroups": [
       "Field"
     ],
@@ -1386,16 +1383,16 @@
     ],
     "gender": "F",
     "baseStats": {
-      "hp": 45,
-      "atk": 65,
-      "def": 65,
-      "spe": 65,
-      "spa": 40,
-      "spd": 55
+      "hp": 55,
+      "atk": 40,
+      "def": 62,
+      "spe": 61,
+      "spa": 67,
+      "spd": 40
     },
     "abilities": {
-      "0": "Multiscale",
-      "1": "Rough Skin"
+      "0": "Poison Point",
+      "1": "Hubris"
     },
     "weightkg": 60.0,
     "evos": [
@@ -1415,20 +1412,20 @@
     ],
     "gender": "F",
     "baseStats": {
-      "hp": 69,
-      "atk": 83,
-      "def": 92,
-      "spe": 86,
-      "spa": 50,
-      "spd": 75
+      "hp": 70,
+      "atk": 55,
+      "def": 72,
+      "spe": 76,
+      "spa": 77,
+      "spd": 65
     },
     "abilities": {
-      "0": "Multiscale",
-      "1": "Rough Skin"
+      "0": "Poison Point",
+      "1": "Hubris"
     },
     "weightkg": 20.0,
     "prevo": "NidoranF",
-    "evoLevel": 20,
+    "evoLevel": 16,
     "evos": [
       "Nidoqueen"
     ],
@@ -1446,22 +1443,19 @@
     "gender": "F",
     "baseStats": {
       "hp": 90,
-      "atk": 131,
-      "def": 123,
+      "atk": 70,
+      "def": 102,
       "spe": 81,
-      "spa": 60,
-      "spd": 90
+      "spa": 107,
+      "spd": 85
     },
     "abilities": {
-      "0": "Multiscale",
-      "1": "Intimidate",
-      "H": "Adorable"
+      "0": "Serene Grace",
+      "1": "Berserk"
     },
     "weightkg": 60.0,
     "prevo": "Nidorina",
-    "evoLevel": 40,
-    "evoType": "levelHold",
-    "evoItem": "Ground Gem",
+    "evoLevel": 36,
     "eggGroups": [
       "Undiscovered"
     ]
@@ -1475,16 +1469,16 @@
     ],
     "gender": "M",
     "baseStats": {
-      "hp": 45,
-      "atk": 72,
-      "def": 58,
-      "spe": 70,
+      "hp": 55,
+      "atk": 67,
+      "def": 40,
+      "spe": 61,
       "spa": 40,
-      "spd": 50
+      "spd": 62
     },
     "abilities": {
-      "0": "Merciless",
-      "1": "Hustle"
+      "0": "Poison Point",
+      "1": "Moxie"
     },
     "weightkg": 9.0,
     "evos": [
@@ -1504,20 +1498,20 @@
     ],
     "gender": "M",
     "baseStats": {
-      "hp": 60,
-      "atk": 101,
-      "def": 83,
-      "spe": 96,
-      "spa": 50,
-      "spd": 65
+      "hp": 70,
+      "atk": 77,
+      "def": 65,
+      "spe": 76,
+      "spa": 55,
+      "spd": 72
     },
     "abilities": {
-      "0": "Merciless",
-      "1": "Hustle"
+      "0": "Poison Point",
+      "1": "Moxie"
     },
     "weightkg": 19.5,
     "prevo": "NidoranM",
-    "evoLevel": 20,
+    "evoLevel": 16,
     "evos": [
       "Nidoking"
     ],
@@ -1536,21 +1530,19 @@
     "gender": "M",
     "baseStats": {
       "hp": 90,
-      "atk": 141,
-      "def": 118,
-      "spe": 91,
-      "spa": 55,
-      "spd": 80
+      "atk": 107,
+      "def": 85,
+      "spe": 81,
+      "spa": 70,
+      "spd": 102
     },
     "abilities": {
       "0": "Sheer Force",
-      "1": "Hustle"
+      "1": "Stamina"
     },
     "weightkg": 62.0,
     "prevo": "Nidorino",
-    "evoLevel": 40,
-    "evoType": "levelHold",
-    "evoItem": "Ground Gem",
+    "evoLevel": 36,
     "eggGroups": [
       "Monster",
       "Field"
