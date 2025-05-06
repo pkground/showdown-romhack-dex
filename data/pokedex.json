@@ -982,7 +982,7 @@
     },
     "abilities": {
       "0": "Hustle",
-      "1": "Metabolism",
+      "1": "Starvo",
       "H": "Guts"
     },
     "weightkg": 105.0,
@@ -1673,7 +1673,7 @@
       "spd": 78
     },
     "abilities": {
-      "0": "Snow Warning",
+      "0": "Hail Warning",
       "1": "Slush Rush"
     },
     "weightkg": 9.9,
@@ -1745,7 +1745,7 @@
       "spd": 112
     },
     "abilities": {
-      "0": "Snow Warning",
+      "0": "Hail Warning",
       "1": "Serene Grace",
       "H": "Magic Guard"
     },
@@ -1911,7 +1911,7 @@
       "spd": 70
     },
     "abilities": {
-      "0": "Grassy Guard",
+      "0": "Grass Guard",
       "1": "Prankster"
     },
     "weightkg": 5.4,
@@ -1942,7 +1942,7 @@
       "spd": 85
     },
     "abilities": {
-      "0": "Grassy Guard",
+      "0": "Grass Guard",
       "1": "Prankster"
     },
     "weightkg": 8.6,
@@ -2209,7 +2209,7 @@
     },
     "abilities": {
       "0": "Hustle",
-      "1": "Expertise",
+      "1": "Hyper Aggression",
       "H": "Arena Trap"
     },
     "weightkg": 33.3,
@@ -2244,7 +2244,7 @@
     },
     "abilities": {
       "0": "Hustle",
-      "1": "Expertise",
+      "1": "Hyper Aggression",
       "H": "Arena Trap"
     },
     "weightkg": 66.6,
@@ -2349,7 +2349,7 @@
       "spd": 70
     },
     "abilities": {
-      "0": "Super Luck",
+      "0": "Precision",
       "1": "Moxie"
     },
     "weightkg": 32.0,
@@ -2418,7 +2418,7 @@
       "spd": 60
     },
     "abilities": {
-      "0": "Swift Swim",
+      "0": "Rain Rush",
       "1": "Unaware"
     },
     "weightkg": 19.6,
@@ -2450,7 +2450,7 @@
       "spd": 80
     },
     "abilities": {
-      "0": "Swift Swim",
+      "0": "Rain Rush",
       "1": "Magic Guard"
     },
     "weightkg": 76.6,
@@ -2604,7 +2604,7 @@
       "spd": 55
     },
     "abilities": {
-      "0": "Swift Swim",
+      "0": "Rain Rush",
       "1": "Gooey"
     },
     "weightkg": 12.4,
@@ -2634,7 +2634,7 @@
       "spd": 80
     },
     "abilities": {
-      "0": "Swift Swim",
+      "0": "Rain Rush",
       "1": "Gooey"
     },
     "weightkg": 20.0,
@@ -2668,7 +2668,7 @@
       "spd": 90
     },
     "abilities": {
-      "0": "Swift Swim",
+      "0": "Rain Rush",
       "1": "Stamina"
     },
     "weightkg": 54.0,
@@ -2808,7 +2808,7 @@
       "Alakazam-Mega"
     ],
     "requiredItems": [
-      "Mega Stone I"
+      "Mega Stone"
     ]
   },
   "machop": {
@@ -2925,7 +2925,7 @@
     },
     "abilities": {
       "0": "Adaptability",
-      "1": "Metabolism"
+      "1": "Starvo"
     },
     "weightkg": 4.0,
     "evos": [
@@ -2956,7 +2956,7 @@
     },
     "abilities": {
       "0": "Adaptability",
-      "1": "Metabolism"
+      "1": "Starvo"
     },
     "weightkg": 6.4,
     "prevo": "Bellsprout",
@@ -3018,7 +3018,7 @@
       "spd": 100
     },
     "abilities": {
-      "0": "Energy Shield",
+      "0": "Secret Shield",
       "1": "Adaptability"
     },
     "weightkg": 45.5,
@@ -3049,7 +3049,7 @@
       "spd": 120
     },
     "abilities": {
-      "0": "Energy Shield",
+      "0": "Secret Shield",
       "1": "Adaptability"
     },
     "weightkg": 55.0,
@@ -3452,7 +3452,7 @@
       "Slowbro-Mega"
     ],
     "requiredItems": [
-      "Mega Stone I"
+      "Mega Stone"
     ]
   },
   "magnemite": {
@@ -3535,7 +3535,7 @@
       "spd": 70
     },
     "abilities": {
-      "0": "Super Luck",
+      "0": "Precision",
       "1": "Unburden"
     },
     "weightkg": 15.0,
@@ -3625,7 +3625,7 @@
       "spd": 75
     },
     "abilities": {
-      "0": "Swift Swim",
+      "0": "Rain Rush",
       "1": "Fur Coat"
     },
     "weightkg": 90.0,
@@ -3657,7 +3657,7 @@
       "spd": 105
     },
     "abilities": {
-      "0": "Swift Swim",
+      "0": "Rain Rush",
       "1": "Fur Coat"
     },
     "weightkg": 120.0,
@@ -3922,7 +3922,7 @@
     },
     "abilities": {
       "0": "Levitate",
-      "1": "Ruthless"
+      "1": "Lethality"
     },
     "weightkg": 0.1,
     "prevo": "Gastly",
@@ -4005,7 +4005,7 @@
       "Gengar-Mega"
     ],
     "requiredItems": [
-      "Mega Stone I",
+      "Mega Stone",
       "Gengarite"
     ]
   },
@@ -4060,7 +4060,7 @@
     },
     "abilities": {
       "0": "Thick Fat",
-      "1": "Metabolism"
+      "1": "Starvo"
     },
     "weightkg": 32.4,
     "evos": [
@@ -4232,7 +4232,7 @@
       "spd": 85
     },
     "abilities": {
-      "0": "Grassy Guard",
+      "0": "Grass Guard",
       "1": "Harvest"
     },
     "weightkg": 2.5,
@@ -4264,9 +4264,9 @@
       "spd": 115
     },
     "abilities": {
-      "0": "Solar Rush",
+      "0": "Sun Rush",
       "1": "Harvest",
-      "H": "Grassy Guard"
+      "H": "Grass Guard"
     },
     "weightkg": 120.0,
     "prevo": "Exeggcute",
@@ -4301,9 +4301,9 @@
       "spd": 90
     },
     "abilities": {
-      "0": "Solar Rush",
+      "0": "Sun Rush",
       "1": "Headstrong",
-      "H": "Grassy Guard"
+      "H": "Grass Guard"
     },
     "weightkg": 415.6,
     "prevo": "Exeggcute",
@@ -4697,7 +4697,7 @@
     },
     "abilities": {
       "0": "Serene Grace",
-      "1": "Super Luck",
+      "1": "Precision",
       "H": "Friend Guard"
     },
     "weightkg": 34.6,
@@ -4784,7 +4784,7 @@
       "spd": 90
     },
     "abilities": {
-      "0": "Expertise",
+      "0": "Hyper Aggression",
       "1": "Intimidate"
     },
     "weightkg": 100.0,
@@ -4798,7 +4798,7 @@
       "Kangaskhan-Mega"
     ],
     "requiredItems": [
-      "Mega Stone I",
+      "Mega Stone",
       "Kangaskhanite"
     ]
   },
@@ -4821,7 +4821,7 @@
       "spd": 50
     },
     "abilities": {
-      "0": "Swift Swim",
+      "0": "Rain Rush",
       "1": "Rapid Fire"
     },
     "weightkg": 8.0,
@@ -4853,7 +4853,7 @@
       "spd": 65
     },
     "abilities": {
-      "0": "Swift Swim",
+      "0": "Rain Rush",
       "1": "Rapid Fire"
     },
     "weightkg": 25.0,
@@ -4945,8 +4945,8 @@
       "spd": 80
     },
     "abilities": {
-      "0": "Energy Shield",
-      "1": "Neuroforce"
+      "0": "Secret Shield",
+      "1": "Overkill"
     },
     "weightkg": 34.5,
     "evos": [
@@ -4973,8 +4973,8 @@
       "spd": 95
     },
     "abilities": {
-      "0": "Energy Shield",
-      "1": "Neuroforce",
+      "0": "Secret Shield",
+      "1": "Overkill",
       "H": "Interstellar"
     },
     "weightkg": 80.0,
@@ -5005,7 +5005,7 @@
     },
     "abilities": {
       "0": "Technician",
-      "1": "Energy Shield"
+      "1": "Secret Shield"
     },
     "weightkg": 54.5,
     "prevo": "Mime Jr.",
@@ -5125,7 +5125,7 @@
     },
     "abilities": {
       "0": "Drought",
-      "1": "Solar Rush"
+      "1": "Sun Rush"
     },
     "weightkg": 44.5,
     "prevo": "Magby",
@@ -5204,7 +5204,7 @@
       "Pinsir-Mega"
     ],
     "requiredItems": [
-      "Mega Stone I",
+      "Mega Stone",
       "Pinsirite"
     ]
   },
@@ -5318,7 +5318,7 @@
       "spd": 90
     },
     "abilities": {
-      "0": "Swift Swim",
+      "0": "Rain Rush",
       "1": "Multiscale"
     },
     "weightkg": 305.0,
@@ -5333,7 +5333,7 @@
       "Gyarados-Mega"
     ],
     "requiredItems": [
-      "Mega Stone II",
+      "Mega StoneI",
       "Gyaradosite"
     ]
   },
@@ -5410,7 +5410,7 @@
     },
     "abilities": {
       "0": "Adaptability",
-      "1": "Versatility"
+      "1": "Dexterity"
     },
     "weightkg": 6.5,
     "evos": [
@@ -5637,7 +5637,7 @@
       "spd": 75
     },
     "abilities": {
-      "0": "Swift Swim",
+      "0": "Rain Rush",
       "1": "Sturdy"
     },
     "weightkg": 11.5,
@@ -5669,8 +5669,8 @@
       "spd": 80
     },
     "abilities": {
-      "0": "Swift Swim",
-      "1": "Ruthless"
+      "0": "Rain Rush",
+      "1": "Lethality"
     },
     "weightkg": 40.5,
     "prevo": "Kabuto",
@@ -5746,7 +5746,7 @@
       "Aerodactyl-Mega"
     ],
     "requiredItems": [
-      "Mega Stone I"
+      "Mega Stone"
     ]
   },
   "snorlax": {
@@ -5768,7 +5768,7 @@
       "spd": 110
     },
     "abilities": {
-      "0": "Metabolism",
+      "0": "Starvo",
       "1": "Comatose",
       "H": "Unaware"
     },
@@ -5796,9 +5796,9 @@
       "spd": 125
     },
     "abilities": {
-      "0": "Guarding Gale",
-      "1": "Snow Warning",
-      "H": "Dazzling"
+      "0": "Unfounded Winds",
+      "1": "Hail Warning",
+      "H": "Swiftness"
     },
     "weightkg": 55.4,
     "eggGroups": [
@@ -5822,9 +5822,9 @@
       "spd": 95
     },
     "abilities": {
-      "0": "Guarding Gale",
+      "0": "Unfounded Winds",
       "1": "Volt Absorb",
-      "H": "Dazzling"
+      "H": "Swiftness"
     },
     "weightkg": 52.6,
     "eggGroups": [
@@ -5848,9 +5848,9 @@
       "spd": 100
     },
     "abilities": {
-      "0": "Guarding Gale",
+      "0": "Unfounded Winds",
       "1": "Solar Power",
-      "H": "Dazzling"
+      "H": "Swiftness"
     },
     "weightkg": 60.0,
     "eggGroups": [
@@ -5877,7 +5877,7 @@
     },
     "abilities": {
       "0": "Regenerator",
-      "1": "Swift Swim"
+      "1": "Rain Rush"
     },
     "weightkg": 3.3,
     "evos": [
@@ -6002,7 +6002,7 @@
       "spd": 135
     },
     "abilities": {
-      "0": "Expertise"
+      "0": "Hyper Aggression"
     },
     "weightkg": 127.0,
     "eggGroups": [
@@ -6016,7 +6016,7 @@
       "Mewtwo-Mega-Y"
     ],
     "requiredItems": [
-      "Mewtwonite X"
+      "Alt. Mega Stone"
     ],
     "unusable": true
   },
@@ -6050,7 +6050,7 @@
       "Mewtwo-Mega-Y"
     ],
     "requiredItems": [
-      "Mewtwonite Y"
+      "Alt. Mega Stone"
     ],
     "unusable": true
   },
@@ -6164,7 +6164,7 @@
     "abilities": {
       "0": "Regenerator",
       "1": "Harvest",
-      "H": "Grassy Guard"
+      "H": "Grass Guard"
     },
     "weightkg": 100.5,
     "prevo": "Bayleef",
@@ -6598,7 +6598,7 @@
     },
     "abilities": {
       "0": "Intimidate",
-      "1": "Ruthless",
+      "1": "Lethality",
       "H": "Quick Feet"
     },
     "weightkg": 33.5,
@@ -6661,7 +6661,7 @@
       "spd": 115
     },
     "abilities": {
-      "0": "Dazzling",
+      "0": "Swiftness",
       "1": "Lightning Rod"
     },
     "weightkg": 12.0,
@@ -6692,9 +6692,9 @@
       "spd": 125
     },
     "abilities": {
-      "0": "Swift Swim",
+      "0": "Rain Rush",
       "1": "Lightning Rod",
-      "H": "Dazzling"
+      "H": "Swiftness"
     },
     "weightkg": 22.5,
     "prevo": "Chinchou",
@@ -7005,7 +7005,7 @@
       "spd": 115
     },
     "abilities": {
-      "0": "Dazzling",
+      "0": "Swiftness",
       "1": "Lightning Rod",
       "H": "Unaware"
     },
@@ -7056,7 +7056,7 @@
       "Ampharos-Mega"
     ],
     "requiredItems": [
-      "Mega Stone I",
+      "Mega Stone",
       "Ampharosite"
     ]
   },
@@ -7177,7 +7177,7 @@
     },
     "abilities": {
       "0": "Contrary",
-      "1": "Sap Sipper"
+      "1": "Garden Muncher"
     },
     "weightkg": 38.0,
     "prevo": "Bonsly",
@@ -7239,7 +7239,7 @@
     },
     "abilities": {
       "0": "Regenerator",
-      "1": "Guarding Gale"
+      "1": "Unfounded Winds"
     },
     "weightkg": 3.0,
     "evos": [
@@ -7271,7 +7271,7 @@
     },
     "abilities": {
       "0": "Regenerator",
-      "1": "Guarding Gale"
+      "1": "Unfounded Winds"
     },
     "weightkg": 3.0,
     "prevo": "Hoppip",
@@ -7305,7 +7305,7 @@
     },
     "abilities": {
       "0": "Regenerator",
-      "1": "Guarding Gale"
+      "1": "Unfounded Winds"
     },
     "weightkg": 3.0,
     "prevo": "Skiploom",
@@ -7365,7 +7365,7 @@
     },
     "abilities": {
       "0": "Simple",
-      "1": "Grassy Guard"
+      "1": "Grass Guard"
     },
     "weightkg": 1.8,
     "evos": [
@@ -7397,7 +7397,7 @@
     "abilities": {
       "0": "Intimidate",
       "1": "Drought",
-      "H": "Sweltering Sun"
+      "H": "Sweltering Rays"
     },
     "weightkg": 8.5,
     "prevo": "Sunkern",
@@ -7587,7 +7587,7 @@
     },
     "abilities": {
       "0": "Prankster",
-      "1": "Super Luck"
+      "1": "Precision"
     },
     "weightkg": 2.1,
     "evos": [
@@ -7921,7 +7921,7 @@
     },
     "abilities": {
       "0": "Sand Force",
-      "1": "Energy Shield"
+      "1": "Secret Shield"
     },
     "weightkg": 740.0,
     "eggGroups": [
@@ -7934,7 +7934,7 @@
       "Steelix-Mega"
     ],
     "requiredItems": [
-      "Mega Stone II"
+      "Mega StoneI"
     ]
   },
   "snubbull": {
@@ -8099,7 +8099,7 @@
       "Scizor-Mega"
     ],
     "requiredItems": [
-      "Mega Stone I",
+      "Mega Stone",
       "Scizorite"
     ]
   },
@@ -8153,7 +8153,7 @@
     },
     "abilities": {
       "0": "Skill Link",
-      "1": "Ruthless",
+      "1": "Lethality",
       "H": "Guts"
     },
     "weightkg": 54.0,
@@ -8199,7 +8199,7 @@
       "Heracross-Mega"
     ],
     "requiredItems": [
-      "Mega Stone I",
+      "Mega Stone",
       "Heracronite"
     ]
   },
@@ -8254,7 +8254,7 @@
     },
     "abilities": {
       "0": "Hustle",
-      "1": "Metabolism"
+      "1": "Starvo"
     },
     "weightkg": 8.8,
     "evos": [
@@ -8313,7 +8313,7 @@
       "spd": 95
     },
     "abilities": {
-      "0": "Sweltering Sun",
+      "0": "Sweltering Rays",
       "1": "Drought"
     },
     "weightkg": 35.0,
@@ -8344,7 +8344,7 @@
       "spd": 120
     },
     "abilities": {
-      "0": "Sweltering Sun",
+      "0": "Sweltering Rays",
       "1": "Drought"
     },
     "weightkg": 55.0,
@@ -8375,7 +8375,7 @@
     },
     "abilities": {
       "0": "Refrigerate",
-      "1": "Resilient"
+      "1": "resilence"
     },
     "weightkg": 6.5,
     "evos": [
@@ -8406,7 +8406,7 @@
     },
     "abilities": {
       "0": "Refrigerate",
-      "1": "Resilient",
+      "1": "resilence",
       "H": "Unaware"
     },
     "weightkg": 55.8,
@@ -8467,7 +8467,7 @@
       "spd": 40
     },
     "abilities": {
-      "0": "Versatility",
+      "0": "Dexterity",
       "1": "Rapid Fire"
     },
     "weightkg": 12.0,
@@ -8498,7 +8498,7 @@
       "spd": 100
     },
     "abilities": {
-      "0": "Versatility",
+      "0": "Dexterity",
       "1": "Rapid Fire"
     },
     "weightkg": 28.5,
@@ -8558,8 +8558,8 @@
       "spd": 140
     },
     "abilities": {
-      "0": "Swift Swim",
-      "1": "Guarding Gale",
+      "0": "Rain Rush",
+      "1": "Unfounded Winds",
       "H": "Water Absorb"
     },
     "weightkg": 220.0,
@@ -8589,7 +8589,7 @@
       "spd": 70
     },
     "abilities": {
-      "0": "Ruthless",
+      "0": "Lethality",
       "1": "Intimidate"
     },
     "weightkg": 50.5,
@@ -8648,7 +8648,7 @@
       "spd": 80
     },
     "abilities": {
-      "0": "Ruthless",
+      "0": "Lethality",
       "1": "Sinister"
     },
     "weightkg": 35.0,
@@ -8696,7 +8696,7 @@
       "Houndoom-Mega"
     ],
     "requiredItems": [
-      "Mega Stone I"
+      "Mega Stone"
     ]
   },
   "kingdra": {
@@ -8808,7 +8808,7 @@
       "spd": 150
     },
     "abilities": {
-      "0": "Energy Shield",
+      "0": "Secret Shield",
       "1": "Levitate"
     },
     "weightkg": 32.5,
@@ -8844,7 +8844,7 @@
     },
     "abilities": {
       "0": "Intimidate",
-      "1": "Energy Shield"
+      "1": "Secret Shield"
     },
     "weightkg": 71.2,
     "eggGroups": [
@@ -8871,7 +8871,7 @@
     },
     "abilities": {
       "0": "Prankster",
-      "1": "Versatility"
+      "1": "Dexterity"
     },
     "weightkg": 58.0,
     "eggGroups": [
@@ -9011,7 +9011,7 @@
     },
     "abilities": {
       "0": "Flash Fire",
-      "1": "Solar Rush"
+      "1": "Sun Rush"
     },
     "weightkg": 21.4,
     "evos": [
@@ -9038,7 +9038,7 @@
     },
     "abilities": {
       "0": "Thick Fat",
-      "1": "Sap Sipper"
+      "1": "Garden Muncher"
     },
     "weightkg": 75.5,
     "eggGroups": [
@@ -9094,7 +9094,7 @@
     "abilities": {
       "0": "Drizzle",
       "1": "Strong Jaw",
-      "H": "Dazzling"
+      "H": "Swiftness"
     },
     "weightkg": 178.0,
     "eggGroups": [
@@ -9143,7 +9143,7 @@
       "spd": 127
     },
     "abilities": {
-      "0": "Snow Warning",
+      "0": "Hail Warning",
       "1": "Serene Grace"
     },
     "weightkg": 187.0,
@@ -9285,7 +9285,7 @@
       "Tyranitar-Mega"
     ],
     "requiredItems": [
-      "Mega Stone II"
+      "Mega StoneI"
     ]
   },
   "lugia": {
@@ -9305,7 +9305,7 @@
       "spd": 154
     },
     "abilities": {
-      "0": "Stormy Seas",
+      "0": "Lashing Monsoon",
       "1": "Multiscale"
     },
     "weightkg": 216.0,
@@ -9330,7 +9330,7 @@
       "spd": 154
     },
     "abilities": {
-      "0": "Sweltering Sun",
+      "0": "Sweltering Rays",
       "1": "Regenerator"
     },
     "weightkg": 199.0,
@@ -9449,7 +9449,7 @@
     },
     "abilities": {
       "0": "Proficiency",
-      "1": "Super Luck"
+      "1": "Precision"
     },
     "weightkg": 52.2,
     "prevo": "Grovyle",
@@ -9498,7 +9498,7 @@
       "Sceptile-Mega"
     ],
     "requiredItems": [
-      "Mega Stone I"
+      "Mega Stone"
     ]
   },
   "torchic": {
@@ -9632,7 +9632,7 @@
       "Blaziken-Mega"
     ],
     "requiredItems": [
-      "Mega Stone I"
+      "Mega Stone"
     ]
   },
   "mudkip": {
@@ -9756,7 +9756,7 @@
     },
     "abilities": {
       "0": "Headstrong",
-      "1": "Swift Swim"
+      "1": "Rain Rush"
     },
     "weightkg": 102.0,
     "eggGroups": [
@@ -9770,7 +9770,7 @@
       "Swampert-Mega"
     ],
     "requiredItems": [
-      "Mega Stone I",
+      "Mega Stone",
       "Swampertite"
     ]
   },
@@ -9916,7 +9916,7 @@
     },
     "abilities": {
       "0": "Poison Point",
-      "1": "Sap Sipper"
+      "1": "Garden Muncher"
     },
     "weightkg": 3.6,
     "evos": [
@@ -9980,8 +9980,8 @@
     },
     "abilities": {
       "0": "Serene Grace",
-      "1": "Ruthless",
-      "H": "Dazzling"
+      "1": "Lethality",
+      "H": "Swiftness"
     },
     "weightkg": 28.4,
     "prevo": "Silcoon",
@@ -10073,7 +10073,7 @@
     },
     "abilities": {
       "0": "Rain Dish",
-      "1": "Sap Sipper"
+      "1": "Garden Muncher"
     },
     "weightkg": 2.6,
     "evos": [
@@ -10104,7 +10104,7 @@
       "spd": 75
     },
     "abilities": {
-      "0": "Swift Swim",
+      "0": "Rain Rush",
       "1": "Prankster"
     },
     "weightkg": 32.5,
@@ -10171,7 +10171,7 @@
     },
     "abilities": {
       "0": "Harvest",
-      "1": "Grassy Guard"
+      "1": "Grass Guard"
     },
     "weightkg": 4.0,
     "evos": [
@@ -10236,8 +10236,8 @@
       "spd": 60
     },
     "abilities": {
-      "0": "Versatility",
-      "1": "Ruthless"
+      "0": "Dexterity",
+      "1": "Lethality"
     },
     "weightkg": 59.6,
     "prevo": "Nuzleaf",
@@ -10332,7 +10332,7 @@
     },
     "abilities": {
       "0": "Gale Wings",
-      "1": "Bird's Eye View"
+      "1": "Full Metal Body"
     },
     "weightkg": 9.5,
     "evos": [
@@ -10509,7 +10509,7 @@
       "Gardevoir-Mega"
     ],
     "requiredItems": [
-      "Mega Stone I",
+      "Mega Stone",
       "Gardevoirite"
     ]
   },
@@ -10534,7 +10534,7 @@
     },
     "abilities": {
       "0": "Emergency Exit",
-      "1": "Swift Swim"
+      "1": "Rain Rush"
     },
     "weightkg": 1.7,
     "evos": [
@@ -10595,7 +10595,7 @@
       "spd": 80
     },
     "abilities": {
-      "0": "Grassy Guard",
+      "0": "Grass Guard",
       "1": "Regenerator",
       "H": "Poison Heal"
     },
@@ -10660,7 +10660,7 @@
       "spd": 70
     },
     "abilities": {
-      "0": "Metabolism",
+      "0": "Starvo",
       "1": "Truant"
     },
     "weightkg": 24.0,
@@ -10757,7 +10757,7 @@
       "spd": 71
     },
     "abilities": {
-      "0": "Sap Sipper",
+      "0": "Garden Muncher",
       "1": "Tough Claws"
     },
     "weightkg": 5.5,
@@ -10788,7 +10788,7 @@
       "spd": 51
     },
     "abilities": {
-      "0": "Versatility",
+      "0": "Dexterity",
       "1": "Aerilate",
       "H": "Tinted Lens"
     },
@@ -10942,7 +10942,7 @@
       "spd": 76
     },
     "abilities": {
-      "0": "Resilient",
+      "0": "resilence",
       "1": "Thick Fat"
     },
     "weightkg": 86.4,
@@ -10972,7 +10972,7 @@
       "spd": 86
     },
     "abilities": {
-      "0": "Resilient",
+      "0": "resilence",
       "1": "Thick Fat"
     },
     "weightkg": 253.8,
@@ -11160,7 +11160,7 @@
     },
     "abilities": {
       "0": "Magic Bounce",
-      "1": "Energy Shield"
+      "1": "Secret Shield"
     },
     "weightkg": 161.0,
     "eggGroups": [
@@ -11173,7 +11173,7 @@
       "Sableye-Mega"
     ],
     "requiredItems": [
-      "Mega Stone I"
+      "Mega Stone"
     ]
   },
   "mawile": {
@@ -11244,7 +11244,7 @@
       "Mawile-Mega"
     ],
     "requiredItems": [
-      "Mega Stone I"
+      "Mega Stone"
     ]
   },
   "aron": {
@@ -11333,7 +11333,7 @@
     "abilities": {
       "0": "Headstrong",
       "1": "Hustle",
-      "H": "Ruthless"
+      "H": "Lethality"
     },
     "weightkg": 360.0,
     "prevo": "Lairon",
@@ -11383,7 +11383,7 @@
       "Aggron-Mega"
     ],
     "requiredItems": [
-      "Mega Stone II",
+      "Mega StoneI",
       "Aggronite"
     ]
   },
@@ -11486,7 +11486,7 @@
       "Medicham-Mega"
     ],
     "requiredItems": [
-      "Mega Stone I",
+      "Mega Stone",
       "Medichamite"
     ]
   },
@@ -11589,7 +11589,7 @@
       "Manectric-Mega"
     ],
     "requiredItems": [
-      "Mega Stone I"
+      "Mega Stone"
     ]
   },
   "plusle": {
@@ -11641,7 +11641,7 @@
       "spd": 115
     },
     "abilities": {
-      "0": "Dazzling",
+      "0": "Swiftness",
       "1": "Fur Coat",
       "H": "Friend Guard"
     },
@@ -11667,7 +11667,7 @@
       "spd": 106
     },
     "abilities": {
-      "0": "Dazzling",
+      "0": "Swiftness",
       "1": "Technician",
       "H": "Volt Rush"
     },
@@ -11758,7 +11758,7 @@
     },
     "abilities": {
       "0": "Gastro Acid",
-      "1": "Metabolism",
+      "1": "Starvo",
       "H": "Corrosion"
     },
     "weightkg": 10.3,
@@ -11789,7 +11789,7 @@
     },
     "abilities": {
       "0": "Gastro Acid",
-      "1": "Metabolism",
+      "1": "Starvo",
       "H": "Corrosion"
     },
     "weightkg": 80.0,
@@ -11898,7 +11898,7 @@
       "Sharpedo-Mega"
     ],
     "requiredItems": [
-      "Mega Stone I",
+      "Mega Stone",
       "Sharpedonite"
     ]
   },
@@ -12050,8 +12050,8 @@
       "spd": 105
     },
     "abilities": {
-      "0": "Solar Rush",
-      "1": "Sweltering Sun"
+      "0": "Sun Rush",
+      "1": "Sweltering Rays"
     },
     "weightkg": 320.5,
     "eggGroups": [
@@ -12064,7 +12064,7 @@
       "Camerupt-Mega"
     ],
     "requiredItems": [
-      "Mega Stone I",
+      "Mega Stone",
       "Cameruptite"
     ]
   },
@@ -12448,7 +12448,7 @@
       "Altaria-Mega"
     ],
     "requiredItems": [
-      "Mega Stone I"
+      "Mega Stone"
     ]
   },
   "zangoose": {
@@ -12471,7 +12471,7 @@
       "spd": 73
     },
     "abilities": {
-      "0": "Ruthless",
+      "0": "Lethality",
       "1": "Tough Claws",
       "H": "Toxic Boost"
     },
@@ -12500,7 +12500,7 @@
       "spd": 73
     },
     "abilities": {
-      "0": "Ruthless",
+      "0": "Lethality",
       "1": "Strong Jaw",
       "H": "Stakeout"
     },
@@ -12527,7 +12527,7 @@
       "spd": 125
     },
     "abilities": {
-      "0": "Energy Shield",
+      "0": "Secret Shield",
       "1": "Levitate",
       "H": "Interstellar"
     },
@@ -12554,7 +12554,7 @@
     },
     "abilities": {
       "0": "Levitate",
-      "1": "Sweltering Sun",
+      "1": "Sweltering Rays",
       "H": "Interstellar"
     },
     "weightkg": 154.0,
@@ -12613,7 +12613,7 @@
       "spd": 91
     },
     "abilities": {
-      "0": "Metabolism",
+      "0": "Starvo",
       "1": "Berserk"
     },
     "weightkg": 23.6,
@@ -12675,7 +12675,7 @@
     },
     "abilities": {
       "0": "Tough Claws",
-      "1": "Ruthless"
+      "1": "Lethality"
     },
     "weightkg": 32.8,
     "prevo": "Corphish",
@@ -12703,7 +12703,7 @@
     },
     "abilities": {
       "0": "Levitate",
-      "1": "Energy Shield"
+      "1": "Secret Shield"
     },
     "weightkg": 21.5,
     "evos": [
@@ -12731,7 +12731,7 @@
     },
     "abilities": {
       "0": "Levitate",
-      "1": "Energy Shield",
+      "1": "Secret Shield",
       "H": "Psychic Surge"
     },
     "weightkg": 108.0,
@@ -12825,7 +12825,7 @@
     },
     "abilities": {
       "0": "Tinted Lens",
-      "1": "Swift Swim"
+      "1": "Rain Rush"
     },
     "weightkg": 12.5,
     "evos": [
@@ -12855,8 +12855,8 @@
       "spd": 90
     },
     "abilities": {
-      "0": "Ruthless",
-      "1": "Swift Swim"
+      "0": "Lethality",
+      "1": "Rain Rush"
     },
     "weightkg": 68.2,
     "prevo": "Anorith",
@@ -12947,7 +12947,7 @@
       "spd": 110
     },
     "abilities": {
-      "0": "Guarding Gale",
+      "0": "Unfounded Winds",
       "1": "Forecast"
     },
     "weightkg": 0.8,
@@ -13090,7 +13090,7 @@
     },
     "abilities": {
       "0": "Adaptability",
-      "1": "Versatility"
+      "1": "Dexterity"
     },
     "weightkg": 22.0,
     "eggGroups": [
@@ -13198,7 +13198,7 @@
       "Banette-Mega"
     ],
     "requiredItems": [
-      "Mega Stone I",
+      "Mega Stone",
       "Banettite"
     ]
   },
@@ -13314,7 +13314,7 @@
       "spd": 110
     },
     "abilities": {
-      "0": "Guarding Gale",
+      "0": "Unfounded Winds",
       "1": "Aerilate"
     },
     "weightkg": 1.0,
@@ -13344,7 +13344,7 @@
     },
     "abilities": {
       "0": "Proficiency",
-      "1": "Super Luck"
+      "1": "Precision"
     },
     "weightkg": 47.0,
     "eggGroups": [
@@ -13376,7 +13376,7 @@
     },
     "abilities": {
       "0": "Pixilate",
-      "1": "Dazzling"
+      "1": "Swiftness"
     },
     "weightkg": 49.0,
     "eggGroups": [
@@ -13389,7 +13389,7 @@
       "Absol-Mega"
     ],
     "requiredItems": [
-      "Mega Stone I",
+      "Mega Stone",
       "Absolite"
     ]
   },
@@ -13527,7 +13527,7 @@
       "Glalie-Mega"
     ],
     "requiredItems": [
-      "Mega Stone I"
+      "Mega Stone"
     ]
   },
   "spheal": {
@@ -13551,7 +13551,7 @@
     },
     "abilities": {
       "0": "Unaware",
-      "1": "Resilient"
+      "1": "resilence"
     },
     "weightkg": 39.5,
     "evos": [
@@ -13583,7 +13583,7 @@
     },
     "abilities": {
       "0": "Unaware",
-      "1": "Resilient"
+      "1": "resilence"
     },
     "weightkg": 87.6,
     "prevo": "Spheal",
@@ -13617,7 +13617,7 @@
     },
     "abilities": {
       "0": "Sheer Force",
-      "1": "Resilient"
+      "1": "resilence"
     },
     "weightkg": 150.6,
     "prevo": "Sealeo",
@@ -13682,7 +13682,7 @@
     "abilities": {
       "0": "Multiscale",
       "1": "Sinister",
-      "H": "Dazzling"
+      "H": "Swiftness"
     },
     "weightkg": 27.0,
     "prevo": "Clamperl",
@@ -13714,8 +13714,8 @@
     },
     "abilities": {
       "0": "Multiscale",
-      "1": "Sap Sipper",
-      "H": "Dazzling"
+      "1": "Garden Muncher",
+      "H": "Swiftness"
     },
     "weightkg": 22.6,
     "prevo": "Clamperl",
@@ -13919,7 +13919,7 @@
       "Salamence-Mega"
     ],
     "requiredItems": [
-      "Mega Stone II"
+      "Mega StoneI"
     ]
   },
   "beldum": {
@@ -14047,7 +14047,7 @@
       "Metagross-Mega"
     ],
     "requiredItems": [
-      "Mega Stone II",
+      "Mega StoneI",
       "Metagrossite"
     ]
   },
@@ -14092,7 +14092,7 @@
     },
     "abilities": {
       "0": "Refrigerate",
-      "1": "Resilient"
+      "1": "resilence"
     },
     "weightkg": 175.0,
     "eggGroups": [
@@ -14293,7 +14293,7 @@
       "spd": 160
     },
     "abilities": {
-      "0": "Stormy Seas"
+      "0": "Lashing Monsoon"
     },
     "weightkg": 430.0,
     "eggGroups": [
@@ -14352,7 +14352,7 @@
       "spd": 100
     },
     "abilities": {
-      "0": "Sweltering Sun"
+      "0": "Sweltering Rays"
     },
     "weightkg": 999.7,
     "eggGroups": [
@@ -14412,7 +14412,7 @@
       "spd": 100
     },
     "abilities": {
-      "0": "Guarding Gale"
+      "0": "Unfounded Winds"
     },
     "weightkg": 392.0,
     "eggGroups": [
@@ -14468,8 +14468,8 @@
       "spd": 80
     },
     "abilities": {
-      "0": "Versatility",
-      "1": "Neuroforce",
+      "0": "Dexterity",
+      "1": "Overkill",
       "H": "Interstellar"
     },
     "weightkg": 60.8,
@@ -14500,7 +14500,7 @@
     },
     "abilities": {
       "0": "Proficiency",
-      "1": "Neuroforce",
+      "1": "Overkill",
       "H": "Interstellar"
     },
     "weightkg": 60.8,
@@ -14532,7 +14532,7 @@
       "spd": 180
     },
     "abilities": {
-      "0": "Resilient",
+      "0": "resilence",
       "1": "Regenerator",
       "H": "Interstellar"
     },
@@ -14603,7 +14603,7 @@
     "abilities": {
       "0": "Overgrow",
       "1": "Harvest",
-      "H": "Grassy Guard"
+      "H": "Grass Guard"
     },
     "weightkg": 10.2,
     "evos": [
@@ -14635,7 +14635,7 @@
     "abilities": {
       "0": "Overgrow",
       "1": "Harvest",
-      "H": "Grassy Guard"
+      "H": "Grass Guard"
     },
     "weightkg": 10.2,
     "prevo": "Turtwig",
@@ -14670,7 +14670,7 @@
     "abilities": {
       "0": "Headstrong",
       "1": "Grassy Surge",
-      "H": "Grassy Guard"
+      "H": "Grass Guard"
     },
     "weightkg": 310.0,
     "prevo": "Grotle",
@@ -14795,7 +14795,7 @@
       "spd": 56
     },
     "abilities": {
-      "0": "Swift Swim",
+      "0": "Rain Rush",
       "1": "Torrent"
     },
     "weightkg": 5.2,
@@ -14826,7 +14826,7 @@
       "spd": 86
     },
     "abilities": {
-      "0": "Swift Swim",
+      "0": "Rain Rush",
       "1": "Torrent"
     },
     "weightkg": 23.0,
@@ -14860,8 +14860,8 @@
       "spd": 101
     },
     "abilities": {
-      "0": "Swift Swim",
-      "1": "Ruthless"
+      "0": "Rain Rush",
+      "1": "Lethality"
     },
     "weightkg": 84.5,
     "prevo": "Prinplup",
@@ -14988,7 +14988,7 @@
     },
     "abilities": {
       "0": "Simple",
-      "1": "Sap Sipper"
+      "1": "Garden Muncher"
     },
     "weightkg": 20.0,
     "evos": [
@@ -15020,7 +15020,7 @@
     },
     "abilities": {
       "0": "Simple",
-      "1": "Sap Sipper"
+      "1": "Garden Muncher"
     },
     "weightkg": 31.5,
     "prevo": "Bidoof",
@@ -15208,7 +15208,7 @@
     },
     "abilities": {
       "0": "Solar Power",
-      "1": "Grassy Guard"
+      "1": "Grass Guard"
     },
     "weightkg": 1.2,
     "evos": [
@@ -15545,7 +15545,7 @@
     },
     "abilities": {
       "0": "Wimp Out",
-      "1": "Guarding Gale"
+      "1": "Unfounded Winds"
     },
     "weightkg": 5.5,
     "evos": [
@@ -15573,7 +15573,7 @@
     },
     "abilities": {
       "0": "Intimidate",
-      "1": "Guarding Gale",
+      "1": "Unfounded Winds",
       "H": "Queenly Majesty"
     },
     "weightkg": 38.5,
@@ -15633,7 +15633,7 @@
     },
     "abilities": {
       "0": "Technician",
-      "1": "Swift Swim",
+      "1": "Rain Rush",
       "H": "Guts"
     },
     "weightkg": 29.5,
@@ -15666,7 +15666,7 @@
     },
     "abilities": {
       "0": "Technician",
-      "1": "Swift Swim",
+      "1": "Rain Rush",
       "H": "Guts"
     },
     "weightkg": 33.5,
@@ -15696,7 +15696,7 @@
       "spd": 68
     },
     "abilities": {
-      "0": "Grassy Guard",
+      "0": "Grass Guard",
       "1": "Wimp Out"
     },
     "weightkg": 3.3,
@@ -15727,7 +15727,7 @@
       "spd": 93
     },
     "abilities": {
-      "0": "Grassy Guard",
+      "0": "Grass Guard",
       "1": "Flower Gift"
     },
     "weightkg": 9.3,
@@ -15940,7 +15940,7 @@
     },
     "abilities": {
       "0": "Technician",
-      "1": "Expertise"
+      "1": "Hyper Aggression"
     },
     "weightkg": 20.3,
     "prevo": "Aipom",
@@ -16001,7 +16001,7 @@
       "spd": 110
     },
     "abilities": {
-      "0": "Guarding Gale",
+      "0": "Unfounded Winds",
       "1": "Unburden",
       "H": "Flare Boost"
     },
@@ -16112,7 +16112,7 @@
       "Lopunny-Mega"
     ],
     "requiredItems": [
-      "Mega Stone I",
+      "Mega Stone",
       "Lopunnite"
     ]
   },
@@ -16169,7 +16169,7 @@
     },
     "abilities": {
       "0": "Moxie",
-      "1": "Ruthless"
+      "1": "Lethality"
     },
     "weightkg": 27.3,
     "prevo": "Murkrow",
@@ -16408,7 +16408,7 @@
     },
     "abilities": {
       "0": "Contrary",
-      "1": "Sap Sipper"
+      "1": "Garden Muncher"
     },
     "weightkg": 15.0,
     "evos": [
@@ -16673,7 +16673,7 @@
       "Garchomp-Mega"
     ],
     "requiredItems": [
-      "Mega Stone II",
+      "Mega StoneI",
       "Garchompite"
     ]
   },
@@ -16696,7 +16696,7 @@
       "spd": 90
     },
     "abilities": {
-      "0": "Metabolism",
+      "0": "Starvo",
       "1": "Thick Fat"
     },
     "weightkg": 105.0,
@@ -16757,7 +16757,7 @@
       "spd": 70
     },
     "abilities": {
-      "0": "Super Luck",
+      "0": "Precision",
       "1": "Mega Launcher"
     },
     "weightkg": 54.0,
@@ -16793,7 +16793,7 @@
     },
     "abilities": {
       "0": "Adaptability",
-      "1": "Versatility"
+      "1": "Dexterity"
     },
     "weightkg": 57.5,
     "eggGroups": [
@@ -16807,7 +16807,7 @@
       "Lucario-Mega"
     ],
     "requiredItems": [
-      "Mega Stone I",
+      "Mega Stone",
       "Lucarionite"
     ]
   },
@@ -16985,7 +16985,7 @@
       "spd": 65
     },
     "abilities": {
-      "0": "Ruthless",
+      "0": "Lethality",
       "1": "Dry Skin",
       "H": "Corrosion"
     },
@@ -17044,7 +17044,7 @@
       "spd": 81
     },
     "abilities": {
-      "0": "Swift Swim",
+      "0": "Rain Rush",
       "1": "Storm Drain"
     },
     "weightkg": 7.0,
@@ -17075,9 +17075,9 @@
       "spd": 116
     },
     "abilities": {
-      "0": "Swift Swim",
+      "0": "Rain Rush",
       "1": "Drizzle",
-      "H": "Dazzling"
+      "H": "Swiftness"
     },
     "weightkg": 24.0,
     "prevo": "Finneon",
@@ -17106,7 +17106,7 @@
       "spd": 120
     },
     "abilities": {
-      "0": "Swift Swim",
+      "0": "Rain Rush",
       "1": "Water Absorb"
     },
     "weightkg": 65.0,
@@ -17137,7 +17137,7 @@
       "spd": 87
     },
     "abilities": {
-      "0": "Snow Warning",
+      "0": "Hail Warning",
       "1": "Grassy Surge"
     },
     "weightkg": 50.5,
@@ -17169,7 +17169,7 @@
       "spd": 97
     },
     "abilities": {
-      "0": "Snow Warning",
+      "0": "Hail Warning",
       "1": "Grassy Surge"
     },
     "weightkg": 135.5,
@@ -17205,7 +17205,7 @@
     },
     "abilities": {
       "0": "Slush Rush",
-      "1": "Grassy Guard"
+      "1": "Grass Guard"
     },
     "weightkg": 185.0,
     "eggGroups": [
@@ -17219,7 +17219,7 @@
       "Abomasnow-Mega"
     ],
     "requiredItems": [
-      "Mega Stone I",
+      "Mega Stone",
       "Abomasite"
     ]
   },
@@ -17244,7 +17244,7 @@
     },
     "abilities": {
       "0": "Refrigerate",
-      "1": "Ruthless"
+      "1": "Lethality"
     },
     "weightkg": 34.0,
     "prevo": "Sneasel",
@@ -17531,7 +17531,7 @@
     },
     "abilities": {
       "0": "Grassy Surge",
-      "1": "Solar Rush",
+      "1": "Sun Rush",
       "H": "Evoboost"
     },
     "weightkg": 25.5,
@@ -17563,7 +17563,7 @@
       "spd": 110
     },
     "abilities": {
-      "0": "Snow Warning",
+      "0": "Hail Warning",
       "1": "Refrigerate",
       "H": "Evoboost"
     },
@@ -17693,7 +17693,7 @@
       "spd": 90
     },
     "abilities": {
-      "0": "Ruthless",
+      "0": "Lethality",
       "1": "Proficiency"
     },
     "weightkg": 52.0,
@@ -17730,7 +17730,7 @@
     },
     "abilities": {
       "0": "Defiant",
-      "1": "Super Luck"
+      "1": "Precision"
     },
     "weightkg": 56.4,
     "eggGroups": [
@@ -17743,7 +17743,7 @@
       "Gallade-Mega"
     ],
     "requiredItems": [
-      "Mega Stone I",
+      "Mega Stone",
       "Galladite"
     ]
   },
@@ -17828,7 +17828,7 @@
       "spd": 95
     },
     "abilities": {
-      "0": "Snow Warning",
+      "0": "Hail Warning",
       "1": "Magic Guard"
     },
     "weightkg": 26.6,
@@ -18032,7 +18032,7 @@
     },
     "abilities": {
       "0": "Levitate",
-      "1": "Sap Sipper"
+      "1": "Garden Muncher"
     },
     "weightkg": 0.3,
     "eggGroups": [
@@ -18306,7 +18306,7 @@
       "spd": 150
     },
     "abilities": {
-      "0": "Dazzling",
+      "0": "Swiftness",
       "1": "Levitate"
     },
     "weightkg": 85.6,
@@ -18456,7 +18456,7 @@
       "Shaymin-Sky"
     ],
     "requiredItems": [
-      "Mega Stone I"
+      "Mega Stone"
     ]
   },
   "arceus": {
@@ -18475,7 +18475,7 @@
       "spd": 250
     },
     "abilities": {
-      "0": "Versatility"
+      "0": "Dexterity"
     },
     "weightkg": 320.0,
     "eggGroups": [
@@ -18623,7 +18623,7 @@
     },
     "abilities": {
       "0": "Blaze",
-      "1": "Solar Rush"
+      "1": "Sun Rush"
     },
     "weightkg": 9.9,
     "evos": [
@@ -18654,7 +18654,7 @@
     },
     "abilities": {
       "0": "Blaze",
-      "1": "Solar Rush"
+      "1": "Sun Rush"
     },
     "weightkg": 55.5,
     "prevo": "Tepig",
@@ -18687,7 +18687,7 @@
     },
     "abilities": {
       "0": "Intimidate",
-      "1": "Solar Rush"
+      "1": "Sun Rush"
     },
     "weightkg": 180.0,
     "prevo": "Pignite",
@@ -18779,7 +18779,7 @@
       "spd": 80
     },
     "abilities": {
-      "0": "Ruthless",
+      "0": "Lethality",
       "1": "Intimidate"
     },
     "weightkg": 94.6,
@@ -18841,7 +18841,7 @@
     },
     "abilities": {
       "0": "Instinct",
-      "1": "Sap Sipper",
+      "1": "Garden Muncher",
       "H": "Tinted Lens"
     },
     "weightkg": 27.0,
@@ -18993,7 +18993,7 @@
       "spd": 60
     },
     "abilities": {
-      "0": "Ruthless",
+      "0": "Lethality",
       "1": "Technician"
     },
     "weightkg": 37.5,
@@ -19261,7 +19261,7 @@
       "spd": 40
     },
     "abilities": {
-      "0": "Super Luck",
+      "0": "Precision",
       "1": "Unaware"
     },
     "weightkg": 2.1,
@@ -19292,7 +19292,7 @@
       "spd": 50
     },
     "abilities": {
-      "0": "Super Luck",
+      "0": "Precision",
       "1": "Competitive"
     },
     "weightkg": 15.0,
@@ -19325,7 +19325,7 @@
       "spd": 60
     },
     "abilities": {
-      "0": "Super Luck",
+      "0": "Precision",
       "1": "Proficiency"
     },
     "weightkg": 29.0,
@@ -19355,7 +19355,7 @@
       "spd": 55
     },
     "abilities": {
-      "0": "Sap Sipper",
+      "0": "Garden Muncher",
       "1": "Speed Boost",
       "H": "Headstrong"
     },
@@ -19418,7 +19418,7 @@
     },
     "abilities": {
       "0": "Rough Skin",
-      "1": "Energy Shield"
+      "1": "Secret Shield"
     },
     "weightkg": 18.0,
     "evos": [
@@ -19447,8 +19447,8 @@
       "spd": 70
     },
     "abilities": {
-      "0": "Versatility",
-      "1": "Energy Shield"
+      "0": "Dexterity",
+      "1": "Secret Shield"
     },
     "weightkg": 102.0,
     "prevo": "Roggenrola",
@@ -19479,7 +19479,7 @@
       "spd": 80
     },
     "abilities": {
-      "0": "Versatility",
+      "0": "Dexterity",
       "1": "Sand Stream"
     },
     "weightkg": 260.0,
@@ -19605,7 +19605,7 @@
     },
     "abilities": {
       "0": "Sand Rush",
-      "1": "Ruthless"
+      "1": "Lethality"
     },
     "weightkg": 40.4,
     "prevo": "Drilbur",
@@ -19680,7 +19680,7 @@
       "Audino-Mega"
     ],
     "requiredItems": [
-      "Mega Stone I"
+      "Mega Stone"
     ]
   },
   "timburr": {
@@ -19703,7 +19703,7 @@
     },
     "abilities": {
       "0": "Technician",
-      "1": "Sap Sipper",
+      "1": "Garden Muncher",
       "H": "Guts"
     },
     "weightkg": 12.5,
@@ -19892,7 +19892,7 @@
     },
     "abilities": {
       "0": "Stamina",
-      "1": "Expertise"
+      "1": "Hyper Aggression"
     },
     "weightkg": 55.5,
     "eggGroups": [
@@ -19915,8 +19915,8 @@
       "spd": 80
     },
     "abilities": {
-      "0": "Versatility",
-      "1": "Expertise"
+      "0": "Dexterity",
+      "1": "Hyper Aggression"
     },
     "weightkg": 51.0,
     "eggGroups": [
@@ -19943,7 +19943,7 @@
       "spd": 70
     },
     "abilities": {
-      "0": "Grassy Guard",
+      "0": "Grass Guard",
       "1": "Harvest"
     },
     "weightkg": 2.5,
@@ -19974,7 +19974,7 @@
       "spd": 95
     },
     "abilities": {
-      "0": "Grassy Guard",
+      "0": "Grass Guard",
       "1": "Harvest"
     },
     "weightkg": 7.3,
@@ -20195,7 +20195,7 @@
     },
     "abilities": {
       "0": "Harvest",
-      "1": "Solar Rush"
+      "1": "Sun Rush"
     },
     "weightkg": 6.6,
     "evos": [
@@ -20223,7 +20223,7 @@
     },
     "abilities": {
       "0": "Serene Grace",
-      "1": "Solar Rush"
+      "1": "Sun Rush"
     },
     "weightkg": 16.3,
     "prevo": "Petilil",
@@ -20493,7 +20493,7 @@
       "Darmanitan-Zen"
     ],
     "requiredItems": [
-      "Mega Stone I"
+      "Mega Stone"
     ]
   },
   "maractus": {
@@ -20516,7 +20516,7 @@
       "spd": 92
     },
     "abilities": {
-      "0": "Solar Rush",
+      "0": "Sun Rush",
       "1": "Storm Drain"
     },
     "weightkg": 28.0,
@@ -20671,7 +20671,7 @@
     },
     "abilities": {
       "0": "Magic Guard",
-      "1": "Neuroforce"
+      "1": "Overkill"
     },
     "weightkg": 14.0,
     "eggGroups": [
@@ -21263,7 +21263,7 @@
     },
     "abilities": {
       "0": "Unaware",
-      "1": "Sap Sipper"
+      "1": "Garden Muncher"
     },
     "weightkg": 5.5,
     "evos": [
@@ -21388,7 +21388,7 @@
     "abilities": {
       "0": "Weak Armor",
       "1": "Water Absorb",
-      "H": "Snow Warning"
+      "H": "Hail Warning"
     },
     "weightkg": 57.5,
     "prevo": "Vanillish",
@@ -21418,7 +21418,7 @@
     },
     "abilities": {
       "0": "Adaptability",
-      "1": "Versatility"
+      "1": "Dexterity"
     },
     "weightkg": 19.5,
     "evos": [
@@ -21449,7 +21449,7 @@
     },
     "abilities": {
       "0": "Adaptability",
-      "1": "Versatility"
+      "1": "Dexterity"
     },
     "weightkg": 92.5,
     "prevo": "Deerling",
@@ -22034,7 +22034,7 @@
     },
     "abilities": {
       "0": "Analytic",
-      "1": "Neuroforce",
+      "1": "Overkill",
       "H": "Tinted Lens"
     },
     "weightkg": 9.0,
@@ -22065,7 +22065,7 @@
     },
     "abilities": {
       "0": "Analytic",
-      "1": "Neuroforce",
+      "1": "Overkill",
       "H": "Interstellar"
     },
     "weightkg": 34.5,
@@ -22097,7 +22097,7 @@
     "abilities": {
       "0": "Cursed Body",
       "1": "Flash Fire",
-      "H": "Dazzling"
+      "H": "Swiftness"
     },
     "weightkg": 3.1,
     "evos": [
@@ -22129,7 +22129,7 @@
     "abilities": {
       "0": "Levitate",
       "1": "Flash Fire",
-      "H": "Dazzling"
+      "H": "Swiftness"
     },
     "weightkg": 13.0,
     "prevo": "Litwick",
@@ -22163,7 +22163,7 @@
     "abilities": {
       "0": "Levitate",
       "1": "Weak Armor",
-      "H": "Dazzling"
+      "H": "Swiftness"
     },
     "weightkg": 34.3,
     "prevo": "Lampent",
@@ -22262,7 +22262,7 @@
       "spd": 77
     },
     "abilities": {
-      "0": "Ruthless",
+      "0": "Lethality",
       "1": "Intimidate",
       "H": "Scrappy"
     },
@@ -22354,7 +22354,7 @@
       "spd": 135
     },
     "abilities": {
-      "0": "Energy Shield",
+      "0": "Secret Shield",
       "1": "Regenerator"
     },
     "weightkg": 148.0,
@@ -22414,7 +22414,7 @@
     },
     "abilities": {
       "0": "Adaptability",
-      "1": "Versatility"
+      "1": "Dexterity"
     },
     "weightkg": 25.3,
     "prevo": "Shelmet",
@@ -22564,7 +22564,7 @@
       "spd": 90
     },
     "abilities": {
-      "0": "Energy Shield",
+      "0": "Secret Shield",
       "1": "Weak Armor"
     },
     "weightkg": 92.0,
@@ -22592,7 +22592,7 @@
       "spd": 100
     },
     "abilities": {
-      "0": "Energy Shield",
+      "0": "Secret Shield",
       "1": "Weak Armor"
     },
     "weightkg": 330.0,
@@ -22654,7 +22654,7 @@
     },
     "abilities": {
       "0": "Moxie",
-      "1": "Ruthless"
+      "1": "Lethality"
     },
     "weightkg": 70.0,
     "prevo": "Pawniard",
@@ -22975,7 +22975,7 @@
     },
     "abilities": {
       "0": "Flash Fire",
-      "1": "Solar Rush"
+      "1": "Sun Rush"
     },
     "weightkg": 28.8,
     "evos": [
@@ -23006,7 +23006,7 @@
     },
     "abilities": {
       "0": "Levitate",
-      "1": "Solar Rush"
+      "1": "Sun Rush"
     },
     "weightkg": 46.0,
     "prevo": "Larvesta",
@@ -23225,7 +23225,7 @@
       "spd": 125
     },
     "abilities": {
-      "0": "Sweltering Sun"
+      "0": "Sweltering Rays"
     },
     "weightkg": 330.0,
     "eggGroups": [
@@ -23365,8 +23365,8 @@
       "spd": 110
     },
     "abilities": {
-      "0": "Sweltering Sun",
-      "1": "Solar Rush"
+      "0": "Sweltering Rays",
+      "1": "Sun Rush"
     },
     "weightkg": 325.0,
     "eggGroups": [
@@ -23556,7 +23556,7 @@
     },
     "abilities": {
       "0": "Instinct",
-      "1": "Versatility",
+      "1": "Dexterity",
       "H": "Tinted Lens"
     },
     "weightkg": 82.5,
@@ -23584,7 +23584,7 @@
     },
     "abilities": {
       "0": "Overgrow",
-      "1": "Grassy Guard"
+      "1": "Grass Guard"
     },
     "weightkg": 9.0,
     "evos": [
@@ -23614,7 +23614,7 @@
     },
     "abilities": {
       "0": "Overgrow",
-      "1": "Grassy Guard"
+      "1": "Grass Guard"
     },
     "weightkg": 29.0,
     "prevo": "Chespin",
@@ -23648,7 +23648,7 @@
     "abilities": {
       "0": "Bulletproof",
       "1": "Battle Armor",
-      "H": "Grassy Guard"
+      "H": "Grass Guard"
     },
     "weightkg": 130.0,
     "prevo": "Quilladin",
@@ -23831,8 +23831,8 @@
       "spd": 71
     },
     "abilities": {
-      "0": "Expertise",
-      "1": "Versatility"
+      "0": "Hyper Aggression",
+      "1": "Dexterity"
     },
     "weightkg": 40.0,
     "prevo": "Frogadier",
@@ -23876,7 +23876,7 @@
       "Greninja-Ash"
     ],
     "requiredItems": [
-      "Mega Stone I"
+      "Mega Stone"
     ]
   },
   "bunnelby": {
@@ -23959,7 +23959,7 @@
       "spd": 39
     },
     "abilities": {
-      "0": "Bird's Eye View",
+      "0": "Full Metal Body",
       "1": "Gale Wings"
     },
     "weightkg": 1.7,
@@ -24053,7 +24053,7 @@
     },
     "abilities": {
       "0": "Shield Dust",
-      "1": "Sap Sipper"
+      "1": "Garden Muncher"
     },
     "weightkg": 2.5,
     "evos": [
@@ -24116,7 +24116,7 @@
     },
     "abilities": {
       "0": "Multiscale",
-      "1": "Versatility"
+      "1": "Dexterity"
     },
     "weightkg": 17.0,
     "prevo": "Spewpa",
@@ -24204,7 +24204,7 @@
       "spd": 94
     },
     "abilities": {
-      "0": "Grassy Guard",
+      "0": "Grass Guard",
       "1": "Harvest"
     },
     "weightkg": 0.1,
@@ -24231,7 +24231,7 @@
       "spd": 113
     },
     "abilities": {
-      "0": "Grassy Guard",
+      "0": "Grass Guard",
       "1": "Harvest"
     },
     "weightkg": 0.9,
@@ -24297,7 +24297,7 @@
     "abilities": {
       "0": "Serene Grace",
       "1": "Harvest",
-      "H": "Grassy Guard"
+      "H": "Grass Guard"
     },
     "weightkg": 10.0,
     "prevo": "Floette",
@@ -24326,8 +24326,8 @@
       "spd": 61
     },
     "abilities": {
-      "0": "Grassy Guard",
-      "1": "Sap Sipper"
+      "0": "Grass Guard",
+      "1": "Garden Muncher"
     },
     "weightkg": 31.0,
     "evos": [
@@ -24358,7 +24358,7 @@
     },
     "abilities": {
       "0": "Grassy Surge",
-      "1": "Sap Sipper"
+      "1": "Garden Muncher"
     },
     "weightkg": 91.0,
     "prevo": "Skiddo",
@@ -24387,7 +24387,7 @@
     },
     "abilities": {
       "0": "Hustle",
-      "1": "Sap Sipper"
+      "1": "Garden Muncher"
     },
     "weightkg": 8.0,
     "evos": [
@@ -24895,7 +24895,7 @@
       "spd": 119
     },
     "abilities": {
-      "0": "Energy Shield",
+      "0": "Secret Shield",
       "1": "Prankster"
     },
     "weightkg": 8.5,
@@ -24994,7 +24994,7 @@
     },
     "abilities": {
       "0": "Levitate",
-      "1": "Expertise"
+      "1": "Hyper Aggression"
     },
     "weightkg": 4.5,
     "prevo": "Honedge",
@@ -25339,7 +25339,7 @@
     },
     "abilities": {
       "0": "Adaptability",
-      "1": "Sap Sipper",
+      "1": "Garden Muncher",
       "H": "Corrosion"
     },
     "weightkg": 7.3,
@@ -25496,7 +25496,7 @@
       "spd": 94
     },
     "abilities": {
-      "0": "Sweltering Sun",
+      "0": "Sweltering Rays",
       "1": "Solar Power"
     },
     "weightkg": 21.0,
@@ -25591,8 +25591,8 @@
     },
     "abilities": {
       "0": "Refrigerate",
-      "1": "Energy Shield",
-      "H": "Dazzling"
+      "1": "Secret Shield",
+      "H": "Swiftness"
     },
     "weightkg": 25.2,
     "evos": [
@@ -25623,8 +25623,8 @@
     },
     "abilities": {
       "0": "Refrigerate",
-      "1": "Energy Shield",
-      "H": "Dazzling"
+      "1": "Secret Shield",
+      "H": "Swiftness"
     },
     "weightkg": 225.0,
     "prevo": "Amaura",
@@ -25897,7 +25897,7 @@
     },
     "abilities": {
       "0": "Wimp Out",
-      "1": "Grassy Guard"
+      "1": "Grass Guard"
     },
     "weightkg": 7.0,
     "evos": [
@@ -26035,7 +26035,7 @@
     "abilities": {
       "0": "Harvest",
       "1": "Flash Fire",
-      "H": "Grassy Guard"
+      "H": "Grass Guard"
     },
     "weightkg": 39.0,
     "prevo": "Pumpkaboo",
@@ -26071,7 +26071,7 @@
       "spd": 76
     },
     "abilities": {
-      "0": "Resilient",
+      "0": "resilence",
       "1": "Regenerator"
     },
     "weightkg": 99.5,
@@ -26101,7 +26101,7 @@
       "spd": 81
     },
     "abilities": {
-      "0": "Resilient",
+      "0": "resilence",
       "1": "Regenerator"
     },
     "weightkg": 505.0,
@@ -26375,7 +26375,7 @@
     "abilities": {
       "0": "Levitate",
       "1": "Serene Grace",
-      "H": "Dazzling"
+      "H": "Swiftness"
     },
     "weightkg": 27.8,
     "eggGroups": [
@@ -26388,7 +26388,7 @@
       "Diancie-Mega"
     ],
     "requiredItems": [
-      "Mega Stone II",
+      "Mega StoneI",
       "Diancite"
     ]
   },
@@ -26440,7 +26440,7 @@
     },
     "abilities": {
       "0": "Levitate",
-      "1": "Expertise",
+      "1": "Hyper Aggression",
       "H": "Magic Guard"
     },
     "weightkg": 490.0,
@@ -26781,7 +26781,7 @@
       "spd": 40
     },
     "abilities": {
-      "0": "Bird's Eye View",
+      "0": "Full Metal Body",
       "1": "Rapid Fire"
     },
     "weightkg": 1.2,
@@ -26907,7 +26907,7 @@
     },
     "abilities": {
       "0": "Adaptability",
-      "1": "Ruthless",
+      "1": "Lethality",
       "H": "Stakeout"
     },
     "weightkg": 14.2,
@@ -26978,7 +26978,7 @@
       "spd": 55
     },
     "abilities": {
-      "0": "Sap Sipper",
+      "0": "Garden Muncher",
       "1": "Volt Absorb"
     },
     "weightkg": 4.4,
@@ -27507,7 +27507,7 @@
     },
     "abilities": {
       "0": "Intimidate",
-      "1": "Ruthless"
+      "1": "Lethality"
     },
     "weightkg": 25.0,
     "prevo": "Rockruff",
@@ -27707,7 +27707,7 @@
     },
     "abilities": {
       "0": "Stamina",
-      "1": "Sap Sipper"
+      "1": "Garden Muncher"
     },
     "weightkg": 110.0,
     "evos": [
@@ -27737,7 +27737,7 @@
     },
     "abilities": {
       "0": "Stamina",
-      "1": "Sap Sipper"
+      "1": "Garden Muncher"
     },
     "weightkg": 110.0,
     "prevo": "Mudbray",
@@ -27872,7 +27872,7 @@
       "spd": 60
     },
     "abilities": {
-      "0": "Grassy Guard",
+      "0": "Grass Guard",
       "1": "Contrary"
     },
     "weightkg": 1.5,
@@ -27903,7 +27903,7 @@
       "spd": 90
     },
     "abilities": {
-      "0": "Super Luck",
+      "0": "Precision",
       "1": "Contrary",
       "H": "Tinted Lens"
     },
@@ -27978,7 +27978,7 @@
     "abilities": {
       "0": "Regenerator",
       "1": "Storm Drain",
-      "H": "Dazzling"
+      "H": "Swiftness"
     },
     "weightkg": 1.5,
     "evos": [
@@ -28010,7 +28010,7 @@
     "abilities": {
       "0": "Regenerator",
       "1": "Storm Drain",
-      "H": "Dazzling"
+      "H": "Swiftness"
     },
     "weightkg": 11.5,
     "prevo": "Morelull",
@@ -28197,7 +28197,7 @@
       "spd": 83
     },
     "abilities": {
-      "0": "Grassy Guard",
+      "0": "Grass Guard",
       "1": "Harvest"
     },
     "weightkg": 3.2,
@@ -28224,7 +28224,7 @@
       "spd": 88
     },
     "abilities": {
-      "0": "Grassy Guard",
+      "0": "Grass Guard",
       "1": "Unburden"
     },
     "weightkg": 8.2,
@@ -28255,7 +28255,7 @@
     },
     "abilities": {
       "0": "Queenly Majesty",
-      "1": "Expertise"
+      "1": "Hyper Aggression"
     },
     "weightkg": 21.4,
     "prevo": "Steenee",
@@ -28401,8 +28401,8 @@
       "spd": 90
     },
     "abilities": {
-      "0": "Ruthless",
-      "1": "Swift Swim"
+      "0": "Lethality",
+      "1": "Rain Rush"
     },
     "weightkg": 108.0,
     "prevo": "Wimpod",
@@ -29194,7 +29194,7 @@
       "spd": 95
     },
     "abilities": {
-      "0": "Stormy Seas",
+      "0": "Lashing Monsoon",
       "1": "Steelworker"
     },
     "weightkg": 210.0,
@@ -29411,7 +29411,7 @@
     },
     "abilities": {
       "0": "Grassy Surge",
-      "1": "Sap Sipper"
+      "1": "Garden Muncher"
     },
     "weightkg": 45.5,
     "eggGroups": [
@@ -29519,7 +29519,7 @@
       "spd": 137
     },
     "abilities": {
-      "0": "Sweltering Sun",
+      "0": "Sweltering Rays",
       "1": "Sixth Sense",
       "H": "Magic Guard"
     },
@@ -29549,7 +29549,7 @@
       "spd": 163
     },
     "abilities": {
-      "0": "Energy Shield",
+      "0": "Secret Shield",
       "1": "Sixth Sense",
       "H": "Magic Guard"
     },
@@ -29657,7 +29657,7 @@
     },
     "abilities": {
       "0": "Volt Rush",
-      "1": "Dazzling"
+      "1": "Swiftness"
     },
     "weightkg": 100.0,
     "eggGroups": [
@@ -29706,7 +29706,7 @@
       "spd": 47
     },
     "abilities": {
-      "0": "Ruthless",
+      "0": "Lethality",
       "1": "Proficiency"
     },
     "weightkg": 0.1,
@@ -29757,7 +29757,7 @@
       "spd": 131
     },
     "abilities": {
-      "0": "Ruthless",
+      "0": "Lethality",
       "1": "Berserk"
     },
     "weightkg": 230.0,
@@ -29788,7 +29788,7 @@
       "spd": 157
     },
     "abilities": {
-      "0": "Sweltering Sun",
+      "0": "Sweltering Rays",
       "1": "Berserk"
     },
     "weightkg": 460.0,
@@ -29821,7 +29821,7 @@
       "spd": 179
     },
     "abilities": {
-      "0": "Energy Shield",
+      "0": "Secret Shield",
       "1": "Berserk"
     },
     "weightkg": 350.0,
@@ -29854,8 +29854,8 @@
       "spd": 157
     },
     "abilities": {
-      "0": "Dazzling",
-      "1": "Neuroforce"
+      "0": "Swiftness",
+      "1": "Overkill"
     },
     "weightkg": 230.0,
     "eggGroups": [
@@ -29916,7 +29916,7 @@
     },
     "abilities": {
       "0": "Instinct",
-      "1": "Expertise"
+      "1": "Hyper Aggression"
     },
     "weightkg": 22.2,
     "eggGroups": [
@@ -29970,7 +29970,7 @@
     },
     "abilities": {
       "0": "Levitate",
-      "1": "Ruthless",
+      "1": "Lethality",
       "H": "Tinted Lens"
     },
     "weightkg": 150.0,
@@ -30024,7 +30024,7 @@
       "spd": 127
     },
     "abilities": {
-      "0": "Dazzling",
+      "0": "Swiftness",
       "1": "Magician",
       "H": "Magic Guard"
     },

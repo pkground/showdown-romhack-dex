@@ -102,8 +102,8 @@ function generateSearchIndex() {
   index[index.indexOf("fairy type")] = "fairy egggroup";
   index[index.indexOf("fairy egggroup")] = "fairy type";
 
-  index[index.indexOf("flying type")] = "flying egggroup";
-  index[index.indexOf("flying egggroup")] = "flying type";
+  index[index.indexOf("air type")] = "air egggroup";
+  index[index.indexOf("air egggroup")] = "air type";
 
   index[index.indexOf("dragon type")] = "dragon egggroup";
   index[index.indexOf("dragon egggroup")] = "dragon type";
@@ -1118,10 +1118,10 @@ class BattleMoveSearch extends BattleTypedSearch<"move"> {
           sonicboom: 1120,
           superfang: 1350,
           endeavor: 1399,
-          sheercold: 1501,
+          sheercold: 1501,                              /////////////////////////////////
           fissure: 1500,
           horndrill: 1500,
-          guillotine: 1500,
+          guillotine: 1500,                             ///////////////////////////////////
         };
         return results.sort(([rowType1, id1], [rowType2, id2]) => {
           let move1 = getID(BattleMovedex, id1);

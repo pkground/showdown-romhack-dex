@@ -355,8 +355,8 @@
     "urshifurapidstrikegmax": 1355
   },
   "items": {
-    "megastonei": 618,
-    "megastoneii": 619,
+    "megastone": 618,
+    "altmegastone": 619,
     "abilityshield": 746,
     "abomasite": 575,
     "absolite": 576,
@@ -485,9 +485,9 @@
     "flameplate": 146,
     "floatstone": 147,
     "flowersweet": 708,
-    "flyinggem": 149,
-    "flyingmemory": 669,
-    "flyiniumz": 640,
+    "airgem": 149,
+    "airmemory": 669,
+    "airiumz": 640,
     "focusband": 150,
     "focussash": 151,
     "fossilizedbird": 700,

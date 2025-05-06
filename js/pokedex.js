@@ -500,8 +500,8 @@ window. PokedexEggGroupPanel = PokedexResultPanel.extend({
 			name: 'Field',
 			desc: ""
 		},
-		flying: {
-			name: 'Flying',
+		air: {
+			name: 'Air',
 			desc: ""
 		},
 		grass: {

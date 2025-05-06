@@ -996,7 +996,7 @@
     "shortDesc": "The user, and any other Grass-type allies\nare immune to status conditions and\ncannot have their stats lowered"
   },
   "hoarder": {
-    "name": "Hoardere",
+    "name": "Hoarder",
     "num": 167,
     "desc": "Restores 1/3 HP after eating ANY berry.",
     "shortDesc": "Restores 1/3 HP after eating ANY berry."
@@ -1307,7 +1307,7 @@
     "desc": "Halves the damage taken from moves that make\ndirect contact, but doubles that of Fire-type moves.",
     "shortDesc": "Halves the damage taken from moves that make\ndirect contact, but doubles that of Fire-type moves."
   },
-  "swiftness": {
+  "Swiftness": {
     "name": "Swiftness",
     "num": 219,
     "desc": "Dazzles the opposing Pokemon, making it unable\nto attack using priority moves.",
