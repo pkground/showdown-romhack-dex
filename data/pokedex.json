@@ -625,7 +625,7 @@
       "atk": 100,
       "def": 80,
       "spe": 105,
-      "spa": 75,
+      "spa": 70,
       "spd": 55
     },
     "abilities": {
@@ -935,7 +935,7 @@
     "baseStats": {
       "hp": 90,
       "atk": 106,
-      "def": 86,
+      "def": 96,
       "spe": 77,
       "spa": 45,
       "spd": 86
@@ -1072,10 +1072,10 @@
     "baseStats": {
       "hp": 55,
       "atk": 70,
-      "def": 54,
+      "def": 69,
       "spe": 72,
       "spa": 45,
-      "spd": 54
+      "spd": 64
     },
     "abilities": {
       "0": "Merciless",
@@ -1309,7 +1309,8 @@
     "num": 28,
     "name": "Sandslash",
     "types": [
-      "Ground"
+      "Ground",
+      "Normal"
     ],
     "genderRatio": {
       "M": 0.5,
