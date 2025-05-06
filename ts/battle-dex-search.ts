@@ -131,20 +131,29 @@ function generateSearchIndex() {
   BattleSearchIndexOffset = BattleSearchIndex.map((entry, i) => {
     const id = entry[0];
     let name = "";
-    switch (entry[1]) {
-      case "pokemon":
-        name = getID(BattlePokedex, id).name ?? "";
-        break;
-      case "move":
-        name = getID(BattleMovedex, id).name ?? "";
-        break;
-      case "item":
-        name = getID(BattleItems, id).name ?? "";
-        break;
-      case "ability":
-        name = getID(BattleAbilities, id).name ?? "";
-        break;
-    }
+      switch (entry[1]) {
+          case "pokemon":
+              const pokemon = getID(BattlePokedex, id);
+              console.log("pokemon getID result:", pokemon);  // Debugging log
+              name = pokemon ? pokemon.name ?? "" : "";
+              break;
+          case "move":
+              const move = getID(BattleMovedex, id);
+              console.log("move getID result:", move);  // Debugging log
+              name = move ? move.name ?? "" : "";
+              break;
+          case "item":
+              const item = getID(BattleItems, id);
+              console.log("item getID result:", item);  // Debugging log
+              name = item ? item.name ?? "" : "";
+              break;
+          case "ability":
+              const ability = getID(BattleAbilities, id);
+              console.log("ability getID result:", ability);  // Debugging log
+              name = ability ? ability.name ?? "" : "";
+              break;
+      }
+
     let res = "";
     let nonAlnum = 0;
     for (let i = 0, j = 0; i < id.length; i++, j++) {
@@ -1212,6 +1221,7 @@ class BattleTypeSearch extends BattleTypedSearch<"type"> {
     throw new Error("invalid sortcol");
   }
 }
+
 export { }; // ensures this file is treated as a module
 
 declare global {
@@ -1221,19 +1231,3 @@ declare global {
 }
 
 window.DexSearch = DexSearch;
-
-//export { }; // ensures this file is treated as a module
-
-//declare global {
-//    interface Window {
-//        DexSearch: typeof DexSearch;
-//    }
-//}
-
-//export {}
-//declare global {
-//  interface Window {
-//    DexSearch: typeof DexSearch;
-//  }
-//}
-//window.DexSearch = DexSearch;

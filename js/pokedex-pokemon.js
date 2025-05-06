@@ -134,7 +134,7 @@ let tmOrder = [
   "Play Rough",
   "Wild Charge",
   "Rock Climb",
-  "Take Down",
+  "Blinding Bash",
   "Sludge Wave",
   "Earthquake",
   "Draco Meteor",
