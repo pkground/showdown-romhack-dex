@@ -1,3 +1,4 @@
+
 {
   "bulbasaur": {
     "num": 1,
@@ -1609,7 +1610,7 @@
     "abilities": {
       "0": "Unaware",
       "1": "Magic Guard",
-      "H": "Interstellar"
+      "H": "Minus"
     },
     "weightkg": 40.0,
     "prevo": "Clefairy",
@@ -2073,7 +2074,7 @@
     "abilities": {
       "0": "Fluffy",
       "1": "Wimp Out",
-      "H": "Tinted Lens"
+      "H": "Indiscriminate"
     },
     "weightkg": 30.0,
     "evos": [
@@ -2105,7 +2106,7 @@
     "abilities": {
       "0": "Levitate",
       "1": "Multiscale",
-      "H": "Tinted Lens"
+      "H": "Indiscriminate"
     },
     "weightkg": 12.5,
     "prevo": "Venonat",
@@ -4510,7 +4511,7 @@
     },
     "abilities": {
       "0": "Proficiency",
-      "1": "Rapid Fire"
+      "1": "Triage"
     },
     "weightkg": 50.2,
     "prevo": "Tyrogue",
@@ -4822,7 +4823,7 @@
     },
     "abilities": {
       "0": "Rain Rush",
-      "1": "Rapid Fire"
+      "1": "Triage"
     },
     "weightkg": 8.0,
     "evos": [
@@ -4854,7 +4855,7 @@
     },
     "abilities": {
       "0": "Rain Rush",
-      "1": "Rapid Fire"
+      "1": "Triage"
     },
     "weightkg": 25.0,
     "prevo": "Horsea",
@@ -4975,7 +4976,7 @@
     "abilities": {
       "0": "Secret Shield",
       "1": "Overkill",
-      "H": "Interstellar"
+      "H": "Minus"
     },
     "weightkg": 80.0,
     "prevo": "Staryu",
@@ -5448,7 +5449,7 @@
     "abilities": {
       "0": "Drizzle",
       "1": "Regenerator",
-      "H": "Evoboost"
+      "H": "Plus"
     },
     "weightkg": 29.0,
     "prevo": "Eevee",
@@ -5481,7 +5482,7 @@
     "abilities": {
       "0": "Electric Surge",
       "1": "Galvanize",
-      "H": "Evoboost"
+      "H": "Plus"
     },
     "weightkg": 24.5,
     "prevo": "Eevee",
@@ -5514,7 +5515,7 @@
     "abilities": {
       "0": "Drought",
       "1": "Fluffy",
-      "H": "Evoboost"
+      "H": "Plus"
     },
     "weightkg": 25.0,
     "prevo": "Eevee",
@@ -6442,7 +6443,7 @@
     "abilities": {
       "0": "Contrary",
       "1": "Hubris",
-      "H": "Tinted Lens"
+      "H": "Indiscriminate"
     },
     "weightkg": 21.2,
     "evos": [
@@ -6474,7 +6475,7 @@
     "abilities": {
       "0": "Contrary",
       "1": "Hubris",
-      "H": "Tinted Lens"
+      "H": "Indiscriminate"
     },
     "weightkg": 40.8,
     "prevo": "Hoothoot",
@@ -6536,7 +6537,7 @@
     "abilities": {
       "0": "Levitate",
       "1": "Technician",
-      "H": "Tinted Lens"
+      "H": "Indiscriminate"
     },
     "weightkg": 35.6,
     "prevo": "Ledyba",
@@ -7521,7 +7522,7 @@
     "abilities": {
       "0": "Psychic Surge",
       "1": "Solar Power",
-      "H": "Evoboost"
+      "H": "Plus"
     },
     "weightkg": 26.5,
     "prevo": "Eevee",
@@ -7795,7 +7796,7 @@
     },
     "abilities": {
       "0": "Bulletproof",
-      "1": "Rapid Fire"
+      "1": "Triage"
     },
     "weightkg": 125.8,
     "prevo": "Pineco",
@@ -8468,7 +8469,7 @@
     },
     "abilities": {
       "0": "Dexterity",
-      "1": "Rapid Fire"
+      "1": "Triage"
     },
     "weightkg": 12.0,
     "evos": [
@@ -8499,7 +8500,7 @@
     },
     "abilities": {
       "0": "Dexterity",
-      "1": "Rapid Fire"
+      "1": "Triage"
     },
     "weightkg": 28.5,
     "prevo": "Remoraid",
@@ -10790,7 +10791,7 @@
     "abilities": {
       "0": "Dexterity",
       "1": "Aerilate",
-      "H": "Tinted Lens"
+      "H": "Indiscriminate"
     },
     "weightkg": 12.0,
     "prevo": "Nincada",
@@ -11128,7 +11129,7 @@
     "abilities": {
       "0": "Prankster",
       "1": "Tough Claws",
-      "H": "Tinted Lens"
+      "H": "Indiscriminate"
     },
     "weightkg": 11.0,
     "eggGroups": [
@@ -11696,7 +11697,7 @@
     "abilities": {
       "0": "Prankster",
       "1": "Technician",
-      "H": "Tinted Lens"
+      "H": "Indiscriminate"
     },
     "weightkg": 17.7,
     "eggGroups": [
@@ -12529,7 +12530,7 @@
     "abilities": {
       "0": "Secret Shield",
       "1": "Levitate",
-      "H": "Interstellar"
+      "H": "Minus"
     },
     "weightkg": 168.0,
     "eggGroups": [
@@ -12555,7 +12556,7 @@
     "abilities": {
       "0": "Levitate",
       "1": "Sweltering Rays",
-      "H": "Interstellar"
+      "H": "Minus"
     },
     "weightkg": 154.0,
     "eggGroups": [
@@ -12824,7 +12825,7 @@
       "spd": 60
     },
     "abilities": {
-      "0": "Tinted Lens",
+      "0": "Indiscriminate",
       "1": "Rain Rush"
     },
     "weightkg": 12.5,
@@ -14470,7 +14471,7 @@
     "abilities": {
       "0": "Dexterity",
       "1": "Overkill",
-      "H": "Interstellar"
+      "H": "Minus"
     },
     "weightkg": 60.8,
     "eggGroups": [
@@ -14501,7 +14502,7 @@
     "abilities": {
       "0": "Proficiency",
       "1": "Overkill",
-      "H": "Interstellar"
+      "H": "Minus"
     },
     "weightkg": 60.8,
     "eggGroups": [
@@ -14534,7 +14535,7 @@
     "abilities": {
       "0": "Resilience",
       "1": "Regenerator",
-      "H": "Interstellar"
+      "H": "Minus"
     },
     "weightkg": 60.8,
     "eggGroups": [
@@ -14567,7 +14568,7 @@
     "abilities": {
       "0": "Speed Boost",
       "1": "Regenerator",
-      "H": "Interstellar"
+      "H": "Minus"
     },
     "weightkg": 60.8,
     "eggGroups": [
@@ -15052,7 +15053,7 @@
     "abilities": {
       "0": "Wimp Out",
       "1": "Technician",
-      "H": "Tinted Lens"
+      "H": "Indiscriminate"
     },
     "weightkg": 2.2,
     "evos": [
@@ -15084,7 +15085,7 @@
     "abilities": {
       "0": "Amplifier",
       "1": "Technician",
-      "H": "Tinted Lens"
+      "H": "Indiscriminate"
     },
     "weightkg": 25.5,
     "prevo": "Kricketot",
@@ -15178,7 +15179,7 @@
     "abilities": {
       "0": "Intimidate",
       "1": "Volt Rush",
-      "H": "Tinted Lens"
+      "H": "Indiscriminate"
     },
     "weightkg": 42.0,
     "prevo": "Luxio",
@@ -17433,7 +17434,7 @@
       "spd": 95
     },
     "abilities": {
-      "0": "Rapid Fire",
+      "0": "Triage",
       "1": "Drought"
     },
     "weightkg": 68.0,
@@ -17500,7 +17501,7 @@
     "abilities": {
       "0": "Levitate",
       "1": "Instinct",
-      "H": "Tinted Lens"
+      "H": "Indiscriminate"
     },
     "weightkg": 51.5,
     "prevo": "Yanma",
@@ -17532,7 +17533,7 @@
     "abilities": {
       "0": "Grassy Surge",
       "1": "Sun Rush",
-      "H": "Evoboost"
+      "H": "Plus"
     },
     "weightkg": 25.5,
     "prevo": "Eevee",
@@ -17565,7 +17566,7 @@
     "abilities": {
       "0": "Hail Warning",
       "1": "Refrigerate",
-      "H": "Evoboost"
+      "H": "Plus"
     },
     "weightkg": 25.9,
     "prevo": "Eevee",
@@ -18810,7 +18811,7 @@
     "abilities": {
       "0": "Instinct",
       "1": "Emergency Exit",
-      "H": "Tinted Lens"
+      "H": "Indiscriminate"
     },
     "weightkg": 11.6,
     "evos": [
@@ -18842,7 +18843,7 @@
     "abilities": {
       "0": "Instinct",
       "1": "Garden Muncher",
-      "H": "Tinted Lens"
+      "H": "Indiscriminate"
     },
     "weightkg": 27.0,
     "prevo": "Patrat",
@@ -20009,7 +20010,7 @@
     "abilities": {
       "0": "Grassy Surge",
       "1": "Technician",
-      "H": "Tinted Lens"
+      "H": "Indiscriminate"
     },
     "weightkg": 20.5,
     "prevo": "Swadloon",
@@ -21728,7 +21729,7 @@
     "abilities": {
       "0": "Lightning Rod",
       "1": "Unnerve",
-      "H": "Tinted Lens"
+      "H": "Indiscriminate"
     },
     "weightkg": 0.6,
     "evos": [
@@ -21760,7 +21761,7 @@
     "abilities": {
       "0": "Electric Surge",
       "1": "Intimidate",
-      "H": "Tinted Lens"
+      "H": "Indiscriminate"
     },
     "weightkg": 14.3,
     "prevo": "Joltik",
@@ -22035,7 +22036,7 @@
     "abilities": {
       "0": "Analytic",
       "1": "Overkill",
-      "H": "Tinted Lens"
+      "H": "Indiscriminate"
     },
     "weightkg": 9.0,
     "evos": [
@@ -22066,7 +22067,7 @@
     "abilities": {
       "0": "Analytic",
       "1": "Overkill",
-      "H": "Interstellar"
+      "H": "Minus"
     },
     "weightkg": 34.5,
     "prevo": "Elgyem",
@@ -23557,7 +23558,7 @@
     "abilities": {
       "0": "Instinct",
       "1": "Dexterity",
-      "H": "Tinted Lens"
+      "H": "Indiscriminate"
     },
     "weightkg": 82.5,
     "eggGroups": [
@@ -25654,7 +25655,7 @@
     "abilities": {
       "0": "Fairy Aura",
       "1": "Pixilate",
-      "H": "Evoboost"
+      "H": "Plus"
     },
     "weightkg": 23.5,
     "prevo": "Eevee",
@@ -26565,7 +26566,7 @@
     "abilities": {
       "0": "No Guard",
       "1": "Technician",
-      "H": "Tinted Lens"
+      "H": "Indiscriminate"
     },
     "weightkg": 36.6,
     "prevo": "Dartrix",
@@ -26782,7 +26783,7 @@
     },
     "abilities": {
       "0": "Full Metal Body",
-      "1": "Rapid Fire"
+      "1": "Triage"
     },
     "weightkg": 1.2,
     "evos": [
@@ -26813,7 +26814,7 @@
     },
     "abilities": {
       "0": "Amplifier",
-      "1": "Rapid Fire"
+      "1": "Triage"
     },
     "weightkg": 14.8,
     "prevo": "Pikipek",
@@ -26846,7 +26847,7 @@
     },
     "abilities": {
       "0": "Intimidate",
-      "1": "Rapid Fire"
+      "1": "Triage"
     },
     "weightkg": 26.0,
     "prevo": "Trumbeak",
@@ -27905,7 +27906,7 @@
     "abilities": {
       "0": "Precision",
       "1": "Contrary",
-      "H": "Tinted Lens"
+      "H": "Indiscriminate"
     },
     "weightkg": 18.5,
     "prevo": "Fomantis",
@@ -27939,7 +27940,7 @@
     "abilities": {
       "0": "Adaptability",
       "1": "Contrary",
-      "H": "Tinted Lens"
+      "H": "Indiscriminate"
     },
     "weightkg": 58.0,
     "prevo": "Fomantis",
@@ -28611,7 +28612,7 @@
     },
     "abilities": {
       "0": "Shields Down",
-      "H": "Interstellar"
+      "H": "Minus"
     },
     "weightkg": 0.3,
     "eggGroups": [
@@ -28648,7 +28649,7 @@
     },
     "abilities": {
       "0": "Shields Down",
-      "H": "Interstellar"
+      "H": "Minus"
     },
     "weightkg": 0.3,
     "eggGroups": [
@@ -28685,7 +28686,7 @@
     },
     "abilities": {
       "0": "Shields Down",
-      "H": "Interstellar"
+      "H": "Minus"
     },
     "weightkg": 0.3,
     "eggGroups": [
@@ -28722,7 +28723,7 @@
     },
     "abilities": {
       "0": "Shields Down",
-      "H": "Interstellar"
+      "H": "Minus"
     },
     "weightkg": 0.3,
     "eggGroups": [
@@ -28759,7 +28760,7 @@
     },
     "abilities": {
       "0": "Shields Down",
-      "H": "Interstellar"
+      "H": "Minus"
     },
     "weightkg": 0.3,
     "eggGroups": [
@@ -28796,7 +28797,7 @@
     },
     "abilities": {
       "0": "Shields Down",
-      "H": "Interstellar"
+      "H": "Minus"
     },
     "weightkg": 0.3,
     "eggGroups": [
@@ -28833,7 +28834,7 @@
     },
     "abilities": {
       "0": "Shields Down",
-      "H": "Interstellar"
+      "H": "Minus"
     },
     "weightkg": 0.3,
     "eggGroups": [
@@ -28900,7 +28901,7 @@
       "spd": 100
     },
     "abilities": {
-      "0": "Rapid Fire",
+      "0": "Triage",
       "1": "Bulletproof"
     },
     "weightkg": 212.0,
@@ -29632,7 +29633,7 @@
     "abilities": {
       "0": "Adorable",
       "1": "Technician",
-      "H": "Tinted Lens"
+      "H": "Indiscriminate"
     },
     "weightkg": 25.0,
     "eggGroups": [
@@ -29971,7 +29972,7 @@
     "abilities": {
       "0": "Levitate",
       "1": "Lethality",
-      "H": "Tinted Lens"
+      "H": "Indiscriminate"
     },
     "weightkg": 150.0,
     "prevo": "Poipole",

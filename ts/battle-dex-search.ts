@@ -1212,12 +1212,28 @@ class BattleTypeSearch extends BattleTypedSearch<"type"> {
     throw new Error("invalid sortcol");
   }
 }
+export { }; // ensures this file is treated as a module
 
-
-export {}
 declare global {
-  interface Window {
-    DexSearch: typeof DexSearch;
-  }
+    interface Window {
+        DexSearch: typeof DexSearch;
+    }
 }
+
 window.DexSearch = DexSearch;
+
+//export { }; // ensures this file is treated as a module
+
+//declare global {
+//    interface Window {
+//        DexSearch: typeof DexSearch;
+//    }
+//}
+
+//export {}
+//declare global {
+//  interface Window {
+//    DexSearch: typeof DexSearch;
+//  }
+//}
+//window.DexSearch = DexSearch;

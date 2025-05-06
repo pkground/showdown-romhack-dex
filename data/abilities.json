@@ -342,7 +342,7 @@
     "shortDesc": "Boosts the Sp. Atk stat of the Pokemon if an ally\nwith the same ability is also in battle."
   },
   "minus": {
-    "name": "minus",
+    "name": "Minus",
     "num": 58,
     "desc": "Boosts the Sp. Atk stat of the Pokemon if an ally\nwith the same ability is also in battle.",
     "shortDesc": "Boosts the Sp. Atk stat of the Pokemon if an ally\nwith the same ability is also in battle."
@@ -653,8 +653,8 @@
     "desc": "When attacking, the Pokemon ignores the target\nPokemon’s stat changes.",
     "shortDesc": "When attacking, the Pokemon ignores the target\nPokemon’s stat changes."
   },
-  "tintedlens": {
-    "name": "Tinted Lens",
+  "indiscriminate": {
+    "name": "Indiscriminate",
     "num": 110,
     "desc": "The Pokemon can use “not very effective” moves\nto deal regular damage.",
     "shortDesc": "The Pokemon can use “not very effective” moves\nto deal regular damage."
@@ -1307,7 +1307,7 @@
     "desc": "Halves the damage taken from moves that make\ndirect contact, but doubles that of Fire-type moves.",
     "shortDesc": "Halves the damage taken from moves that make\ndirect contact, but doubles that of Fire-type moves."
   },
-  "Swiftness": {
+  "swiftness": {
     "name": "Swiftness",
     "num": 219,
     "desc": "Dazzles the opposing Pokemon, making it unable\nto attack using priority moves.",
