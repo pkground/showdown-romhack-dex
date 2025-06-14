@@ -395,7 +395,7 @@ a.subtle:hover {
 .type.fighting{background-color:#C03028;background:linear-gradient(#C03028,#9D2721);border-color:#82211B;}
 .type.poison{background-color:#A040A0;background:linear-gradient(#A040A0,#803380);border-color:#662966;}
 .type.ground{background-color:#E0C068;background:linear-gradient(#E0C068,#D4A82F);border-color:#AA8623;}
-.type.flying{background-color:#A890F0;background:linear-gradient(#A890F0,#9180C4);border-color:#7762B6;}
+.type.air{background-color:#A890F0;background:linear-gradient(#A890F0,#9180C4);border-color:#7762B6;}
 .type.psychic{background-color:#F85888;background:linear-gradient(#F85888,#F61C5D);border-color:#D60945;}
 .type.bug{background-color:#A8B820;background:linear-gradient(#A8B820,#8D9A1B);border-color:#616B13;}
 .type.rock{background-color:#B8A038;background:linear-gradient(#B8A038,#93802D);border-color:#746523;}

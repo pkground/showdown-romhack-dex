@@ -1253,7 +1253,7 @@
       "spd": 40
     },
     "abilities": {
-      "0": "Battle Armour",
+      "0": "Battle Armor",
       "1": "Tough Claws"
     },
     "weightkg": 12.0,
@@ -1309,8 +1309,8 @@
     "num": 28,
     "name": "Sandslash",
     "types": [
-      "Ground",
-      "Normal"
+      "Normal",
+      "Ground"
     ],
     "genderRatio": {
       "M": 0.5,
@@ -1560,17 +1560,16 @@
       "F": 0.75
     },
     "baseStats": {
-      "hp": 70,
-      "atk": 70,
-      "def": 70,
-      "spe": 45,
-      "spa": 90,
-      "spd": 95
+      "hp": 75,
+      "atk": 60,
+      "def": 85,
+      "spe": 55,
+      "spa": 70,
+      "spd": 70
     },
     "abilities": {
       "0": "Unaware",
-      "1": "Magic Guard",
-      "H": "Friend Guard"
+      "1": "Magic Guard"
     },
     "weightkg": 7.5,
     "prevo": "Cleffa",
@@ -1593,21 +1592,20 @@
       "F": 0.75
     },
     "baseStats": {
-      "hp": 85,
-      "atk": 80,
-      "def": 85,
-      "spe": 60,
-      "spa": 115,
-      "spd": 125
+      "hp": 100,
+      "atk": 70,
+      "def": 110,
+      "spe": 65,
+      "spa": 95,
+      "spd": 95
     },
     "abilities": {
       "0": "Unaware",
-      "1": "Magic Guard",
-      "H": "Minus"
+      "1": "Magic Guard"
     },
     "weightkg": 40.0,
     "prevo": "Clefairy",
-    "evoLevel": 32,
+    "evoLevel": 36,
     "eggGroups": [
       "Fairy"
     ]
@@ -1616,24 +1614,23 @@
     "num": 37,
     "name": "Vulpix",
     "types": [
-      "Fire",
-      "Fairy"
+      "Fire"
     ],
     "genderRatio": {
       "M": 0.25,
       "F": 0.75
     },
     "baseStats": {
-      "hp": 45,
-      "atk": 45,
-      "def": 45,
-      "spe": 77,
-      "spa": 88,
-      "spd": 70
+      "hp": 65,
+      "atk": 40,
+      "def": 65,
+      "spe": 85,
+      "spa": 85,
+      "spd": 85
     },
     "abilities": {
       "0": "Drought",
-      "1": "Solar Power"
+      "1": "Fairy Aura"
     },
     "weightkg": 9.9,
     "evos": [
@@ -1659,16 +1656,16 @@
       "F": 0.75
     },
     "baseStats": {
-      "hp": 45,
+      "hp": 65,
       "atk": 40,
-      "def": 45,
-      "spe": 77,
-      "spa": 85,
-      "spd": 78
+      "def": 65,
+      "spe": 86,
+      "spa": 76,
+      "spd": 84
     },
     "abilities": {
       "0": "Hail Warning",
-      "1": "Slush Rush"
+      "1": "Serene Grace"
     },
     "weightkg": 9.9,
     "evos": [
@@ -1688,7 +1685,6 @@
     "num": 38,
     "name": "Ninetales",
     "types": [
-      "Fairy",
       "Fire"
     ],
     "genderRatio": {
@@ -1696,21 +1692,20 @@
       "F": 0.75
     },
     "baseStats": {
-      "hp": 73,
-      "atk": 57,
-      "def": 75,
-      "spe": 109,
-      "spa": 112,
-      "spd": 109
+      "hp": 80,
+      "atk": 70,
+      "def": 80,
+      "spe": 115,
+      "spa": 115,
+      "spd": 115
     },
     "abilities": {
       "0": "Drought",
-      "1": "Serene Grace",
-      "H": "Magic Guard"
+      "1": "Serene Grace"
     },
     "weightkg": 19.9,
     "prevo": "Vulpix",
-    "evoLevel": 30,
+    "evoLevel": 40,
     "eggGroups": [
       "Field"
     ],
@@ -1731,21 +1726,20 @@
       "F": 0.75
     },
     "baseStats": {
-      "hp": 73,
-      "atk": 57,
-      "def": 75,
-      "spe": 109,
-      "spa": 109,
-      "spd": 112
+      "hp": 80,
+      "atk": 60,
+      "def": 70,
+      "spe": 124,
+      "spa": 116,
+      "spd": 125
     },
     "abilities": {
       "0": "Hail Warning",
-      "1": "Serene Grace",
-      "H": "Magic Guard"
+      "1": "Serene Grace"
     },
     "weightkg": 19.9,
     "prevo": "Vulpix-Alola",
-    "evoLevel": 30,
+    "evoLevel": 40,
     "eggGroups": [
       "Field"
     ],
@@ -1768,15 +1762,15 @@
       "F": 0.75
     },
     "baseStats": {
-      "hp": 50,
-      "atk": 35,
-      "def": 50,
-      "spe": 45,
-      "spa": 85,
-      "spd": 85
+      "hp": 80,
+      "atk": 80,
+      "def": 65,
+      "spe": 50,
+      "spa": 65,
+      "spd": 75
     },
     "abilities": {
-      "0": "Huge Power",
+      "0": "Rattled",
       "1": "Fluffy"
     },
     "weightkg": 5.5,
@@ -1801,15 +1795,15 @@
       "F": 0.75
     },
     "baseStats": {
-      "hp": 100,
-      "atk": 50,
-      "def": 75,
-      "spe": 55,
-      "spa": 100,
-      "spd": 100
+      "hp": 105,
+      "atk": 110,
+      "def": 80,
+      "spe": 75,
+      "spa": 75,
+      "spd": 90
     },
     "abilities": {
-      "0": "Huge Power",
+      "0": "Rattled",
       "1": "Fluffy"
     },
     "weightkg": 12.0,
@@ -1823,7 +1817,7 @@
     "num": 41,
     "name": "Zubat",
     "types": [
-      "Poison",
+      "Dark",
       "Air"
     ],
     "genderRatio": {
@@ -1832,16 +1826,15 @@
     },
     "baseStats": {
       "hp": 40,
-      "atk": 55,
-      "def": 40,
-      "spe": 105,
-      "spa": 50,
-      "spd": 40
+      "atk": 70,
+      "def": 45,
+      "spe": 80,
+      "spa": 35,
+      "spd": 55
     },
     "abilities": {
-      "0": "Merciless",
-      "1": "Unnerve",
-      "H": "Stakeout"
+      "0": "Adaptability",
+      "1": "Overkill"
     },
     "weightkg": 7.5,
     "evos": [
@@ -1855,7 +1848,7 @@
     "num": 42,
     "name": "Golbat",
     "types": [
-      "Poison",
+      "Dark",
       "Air"
     ],
     "genderRatio": {
@@ -1863,17 +1856,16 @@
       "F": 0.5
     },
     "baseStats": {
-      "hp": 85,
-      "atk": 85,
-      "def": 80,
-      "spe": 105,
-      "spa": 80,
-      "spd": 80
+      "hp": 70,
+      "atk": 80,
+      "def": 55,
+      "spe": 100,
+      "spa": 45,
+      "spd": 65
     },
     "abilities": {
-      "0": "Merciless",
-      "1": "Intimidate",
-      "H": "Stakeout"
+      "0": "Adaptability",
+      "1": "Overkill"
     },
     "weightkg": 55.0,
     "prevo": "Zubat",
@@ -1898,15 +1890,15 @@
     },
     "baseStats": {
       "hp": 45,
-      "atk": 35,
-      "def": 65,
-      "spe": 30,
-      "spa": 75,
+      "atk": 40,
+      "def": 60,
+      "spe": 40,
+      "spa": 70,
       "spd": 70
     },
     "abilities": {
-      "0": "Grass Guard",
-      "1": "Prankster"
+      "0": "Sun Rush",
+      "1": "Stench"
     },
     "weightkg": 5.4,
     "evos": [
@@ -1928,16 +1920,16 @@
       "F": 0.5
     },
     "baseStats": {
-      "hp": 60,
-      "atk": 65,
-      "def": 80,
-      "spe": 40,
-      "spa": 90,
+      "hp": 70,
+      "atk": 50,
+      "def": 70,
+      "spe": 55,
+      "spa": 85,
       "spd": 85
     },
     "abilities": {
-      "0": "Grass Guard",
-      "1": "Prankster"
+      "0": "Sun Rush",
+      "1": "Stench"
     },
     "weightkg": 8.6,
     "prevo": "Oddish",
@@ -1963,15 +1955,15 @@
     },
     "baseStats": {
       "hp": 85,
-      "atk": 80,
-      "def": 95,
-      "spe": 50,
-      "spa": 115,
+      "atk": 75,
+      "def": 85,
+      "spe": 70,
+      "spa": 110,
       "spd": 110
     },
     "abilities": {
-      "0": "Grassy Surge",
-      "1": "Prankster"
+      "0": "Sun Rush",
+      "1": "Stench"
     },
     "weightkg": 18.6,
     "prevo": "Gloom",
@@ -1987,22 +1979,22 @@
     "name": "Paras",
     "types": [
       "Bug",
-      "Poison"
+      "Grass"
     ],
     "genderRatio": {
       "M": 0.5,
       "F": 0.5
     },
     "baseStats": {
-      "hp": 50,
-      "atk": 70,
-      "def": 80,
-      "spe": 30,
-      "spa": 60,
-      "spd": 80
+      "hp": 55,
+      "atk": 80,
+      "def": 50,
+      "spe": 75,
+      "spa": 40,
+      "spd": 50
     },
     "abilities": {
-      "0": "Tough Claws",
+      "0": "Effect Spore",
       "1": "Dry Skin"
     },
     "weightkg": 5.4,
@@ -2034,14 +2026,14 @@
       "spd": 110
     },
     "abilities": {
-      "0": "Tough Claws",
-      "1": "Regenerator"
+      "0": "Effect Spore",
+      "1": "Dry Skin"
     },
     "weightkg": 29.5,
     "prevo": "Paras",
     "evoLevel": 25,
     "eggGroups": [
-      "Bug",
+      "Ghost",
       "Grass"
     ]
   },
@@ -2049,7 +2041,7 @@
     "num": 48,
     "name": "Venonat",
     "types": [
-      "Bug",
+      "Psychic",
       "Poison"
     ],
     "genderRatio": {
@@ -2057,8 +2049,8 @@
       "F": 0.5
     },
     "baseStats": {
-      "hp": 60,
-      "atk": 40,
+      "hp": 65,
+      "atk": 55,
       "def": 60,
       "spe": 66,
       "spa": 82,
@@ -2066,8 +2058,7 @@
     },
     "abilities": {
       "0": "Fluffy",
-      "1": "Wimp Out",
-      "H": "Indiscriminate"
+      "1": "Compound Eyes"
     },
     "weightkg": 30.0,
     "evos": [
@@ -2081,7 +2072,7 @@
     "num": 49,
     "name": "Venomoth",
     "types": [
-      "Bug",
+      "Psychic",
       "Poison"
     ],
     "genderRatio": {
@@ -2090,22 +2081,19 @@
     },
     "baseStats": {
       "hp": 70,
-      "atk": 65,
-      "def": 65,
-      "spe": 111,
-      "spa": 117,
-      "spd": 97
+      "atk": 70,
+      "def": 85,
+      "spe": 90,
+      "spa": 100,
+      "spd": 110
     },
     "abilities": {
-      "0": "Levitate",
-      "1": "Multiscale",
-      "H": "Indiscriminate"
+      "0": "Wonder Skin",
+      "1": "Compound Eyes"
     },
     "weightkg": 12.5,
     "prevo": "Venonat",
-    "evoLevel": 25,
-    "evoType": "levelHold",
-    "evoItem": "Bug Gem",
+    "evoLevel": 32,
     "eggGroups": [
       "Bug"
     ]
@@ -2121,17 +2109,16 @@
       "F": 0.5
     },
     "baseStats": {
-      "hp": 25,
-      "atk": 65,
-      "def": 50,
-      "spe": 115,
-      "spa": 25,
-      "spd": 50
+      "hp": 70,
+      "atk": 115,
+      "def": 45,
+      "spe": 100,
+      "spa": 45,
+      "spd": 65
     },
     "abilities": {
-      "0": "Hustle",
-      "1": "Wimp Out",
-      "H": "Arena Trap"
+      "0": "Swiftness",
+      "1": "Sand Force"
     },
     "weightkg": 0.8,
     "evos": [
@@ -2165,10 +2152,10 @@
       "spd": 50
     },
     "abilities": {
-      "0": "Hustle",
-      "1": "Wimp Out",
-      "H": "Arena Trap"
+      "0": "Swiftness",
+      "1": "Sand Force"
     },
+
     "weightkg": 1.0,
     "evos": [
       "Dugtrio-Alola"
