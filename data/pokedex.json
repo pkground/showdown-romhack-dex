@@ -1,4 +1,3 @@
-
 {
   "bulbasaur": {
     "num": 1,
@@ -335,7 +334,7 @@
       "spd": 70
     },
     "abilities": {
-      "0": "Shell Armor",
+      "0": "Shell Armour",
       "1": "Storm Drain"
     },
     "weightkg": 9.0,
@@ -366,7 +365,7 @@
       "spd": 85
     },
     "abilities": {
-      "0": "Shell Armor",
+      "0": "Shell Armour",
       "1": "Storm Drain"
     },
     "weightkg": 22.5,
@@ -400,7 +399,7 @@
       "spd": 120
     },
     "abilities": {
-      "0": "Shell Armor",
+      "0": "Shell Armour",
       "1": "Sheer Force"
     },
     "weightkg": 85.5,
@@ -503,7 +502,7 @@
     },
     "abilities": {
       "0": "Egotistical",
-      "1": "Shell Armor"
+      "1": "Shell Armour"
     },
     "weightkg": 9.9,
     "prevo": "Caterpie",
@@ -596,7 +595,7 @@
       "spd": 65
     },
     "abilities": {
-      "0": "Shell Armor",
+      "0": "Shell Armour",
       "1": "Poison Point"
     },
     "weightkg": 10.0,
@@ -1253,7 +1252,7 @@
       "spd": 40
     },
     "abilities": {
-      "0": "Battle Armor",
+      "0": "Battle Armour",
       "1": "Tough Claws"
     },
     "weightkg": 12.0,
@@ -1325,7 +1324,7 @@
       "spd": 75
     },
     "abilities": {
-      "0": "Battle Armor",
+      "0": "Battle Armour",
       "1": "Tough Claws"
     },
     "weightkg": 29.5,
@@ -2775,7 +2774,7 @@
       "spd": 125
     },
     "abilities": {
-      "0": "Sixth Sense",
+      "0": "Compound Eyes",
       "1": "Levitate"
     },
     "weightkg": 48.0,
@@ -3419,7 +3418,7 @@
     },
     "abilities": {
       "0": "Bulletproof",
-      "1": "Shell Armor"
+      "1": "Shell Armour"
     },
     "weightkg": 120.0,
     "eggGroups": [
@@ -3972,7 +3971,7 @@
     },
     "abilities": {
       "0": "Psychic Surge",
-      "1": "Sixth Sense",
+      "1": "Compound Eyes",
       "H": "Shadow Tag"
     },
     "weightkg": 40.5,
@@ -4645,7 +4644,7 @@
     },
     "abilities": {
       "0": "Sheer Force",
-      "1": "Battle Armor"
+      "1": "Battle Armour"
     },
     "weightkg": 120.0,
     "prevo": "Rhyhorn",
@@ -5338,7 +5337,7 @@
       "spd": 115
     },
     "abilities": {
-      "0": "Shell Armor",
+      "0": "Shell Armour",
       "1": "Stamina"
     },
     "weightkg": 220.0,
@@ -5555,8 +5554,8 @@
       "spd": 80
     },
     "abilities": {
-      "0": "Weak Armor",
-      "1": "Shell Armor"
+      "0": "Weak Armour",
+      "1": "Shell Armour"
     },
     "weightkg": 7.5,
     "evos": [
@@ -5587,8 +5586,8 @@
       "spd": 110
     },
     "abilities": {
-      "0": "Weak Armor",
-      "1": "Shell Armor"
+      "0": "Weak Armour",
+      "1": "Shell Armour"
     },
     "weightkg": 35.0,
     "prevo": "Omanyte",
@@ -6266,7 +6265,7 @@
       "spd": 48
     },
     "abilities": {
-      "0": "Torrent",
+      "0": "Fighting Spirit",
       "1": "Strong Jaw"
     },
     "weightkg": 9.5,
@@ -6297,7 +6296,7 @@
       "spd": 63
     },
     "abilities": {
-      "0": "Torrent",
+      "0": "Fighting Spirit",
       "1": "Strong Jaw"
     },
     "weightkg": 25.0,
@@ -6894,7 +6893,7 @@
     },
     "abilities": {
       "0": "Magic Bounce",
-      "1": "Sixth Sense"
+      "1": "Compound Eyes"
     },
     "weightkg": 15.0,
     "prevo": "Natu",
@@ -8105,7 +8104,7 @@
     },
     "abilities": {
       "0": "Simple",
-      "1": "Shell Armor",
+      "1": "Shell Armour",
       "H": "Oblivious"
     },
     "weightkg": 20.5,
@@ -9184,7 +9183,7 @@
     },
     "abilities": {
       "0": "Hustle",
-      "1": "Shell Armor"
+      "1": "Shell Armour"
     },
     "weightkg": 202.0,
     "prevo": "Larvitar",
@@ -9636,7 +9635,7 @@
     },
     "abilities": {
       "0": "Water Absorb",
-      "1": "Torrent"
+      "1": "Fighting Spirit"
     },
     "weightkg": 7.6,
     "evos": [
@@ -9668,7 +9667,7 @@
     },
     "abilities": {
       "0": "Water Absorb",
-      "1": "Torrent"
+      "1": "Fighting Spirit"
     },
     "weightkg": 28.0,
     "prevo": "Mudkip",
@@ -11249,7 +11248,7 @@
     },
     "abilities": {
       "0": "Filter",
-      "1": "Battle Armor"
+      "1": "Battle Armour"
     },
     "weightkg": 60.0,
     "evos": [
@@ -11280,7 +11279,7 @@
     },
     "abilities": {
       "0": "Filter",
-      "1": "Battle Armor"
+      "1": "Battle Armour"
     },
     "weightkg": 120.0,
     "prevo": "Aron",
@@ -11454,7 +11453,7 @@
     },
     "abilities": {
       "0": "Pure Power",
-      "1": "Sixth Sense"
+      "1": "Compound Eyes"
     },
     "weightkg": 31.5,
     "eggGroups": [
@@ -12070,7 +12069,7 @@
     },
     "abilities": {
       "0": "Drought",
-      "1": "Shell Armor"
+      "1": "Shell Armour"
     },
     "weightkg": 80.4,
     "eggGroups": [
@@ -13456,7 +13455,7 @@
       "spd": 105
     },
     "abilities": {
-      "0": "Weak Armor",
+      "0": "Weak Armour",
       "1": "Intimidate"
     },
     "weightkg": 256.5,
@@ -13629,7 +13628,7 @@
       "spd": 107
     },
     "abilities": {
-      "0": "Shell Armor",
+      "0": "Shell Armour",
       "1": "Sturdy"
     },
     "weightkg": 52.5,
@@ -13817,7 +13816,7 @@
       "spd": 110
     },
     "abilities": {
-      "0": "Shell Armor",
+      "0": "Shell Armour",
       "1": "Rough Skin"
     },
     "weightkg": 110.5,
@@ -14777,7 +14776,7 @@
     },
     "abilities": {
       "0": "Rain Rush",
-      "1": "Torrent"
+      "1": "Fighting Spirit"
     },
     "weightkg": 5.2,
     "evos": [
@@ -14808,7 +14807,7 @@
     },
     "abilities": {
       "0": "Rain Rush",
-      "1": "Torrent"
+      "1": "Fighting Spirit"
     },
     "weightkg": 23.0,
     "prevo": "Piplup",
@@ -18073,7 +18072,7 @@
       "spd": 130
     },
     "abilities": {
-      "0": "Sixth Sense",
+      "0": "Compound Eyes",
       "1": "Levitate",
       "H": "Magic Guard"
     },
@@ -18179,7 +18178,7 @@
     },
     "abilities": {
       "0": "Rough Skin",
-      "1": "Weak Armor"
+      "1": "Weak Armour"
     },
     "weightkg": 430.0,
     "eggGroups": [
@@ -18203,7 +18202,7 @@
       "spd": 110
     },
     "abilities": {
-      "0": "Slow Start"
+      "0": "Flash Fury"
     },
     "weightkg": 420.0,
     "eggGroups": [
@@ -18696,7 +18695,7 @@
       "spd": 45
     },
     "abilities": {
-      "0": "Torrent",
+      "0": "Fighting Spirit",
       "1": "Defiant"
     },
     "weightkg": 5.9,
@@ -18727,7 +18726,7 @@
       "spd": 60
     },
     "abilities": {
-      "0": "Torrent",
+      "0": "Fighting Spirit",
       "1": "Defiant"
     },
     "weightkg": 24.5,
@@ -19122,7 +19121,7 @@
     },
     "abilities": {
       "0": "Prankster",
-      "1": "Torrent"
+      "1": "Fighting Spirit"
     },
     "weightkg": 13.5,
     "evos": [
@@ -20021,7 +20020,7 @@
     "abilities": {
       "0": "Speed Boost",
       "1": "Merciless",
-      "H": "Battle Armor"
+      "H": "Battle Armour"
     },
     "weightkg": 5.3,
     "evos": [
@@ -20053,7 +20052,7 @@
     "abilities": {
       "0": "Speed Boost",
       "1": "Merciless",
-      "H": "Battle Armor"
+      "H": "Battle Armour"
     },
     "weightkg": 58.5,
     "prevo": "Venipede",
@@ -20404,6 +20403,46 @@
     ],
     "eggGroups": [
       "Field"
+    ],
+    "formes": [
+      "Darumaka",
+      "Darumaka-Galar"
+    ]
+  },
+  "darumakagalar": {
+    "num": 554,
+    "name": "Darumaka-Galar",
+    "types": [
+      "Ice"
+    ],
+    "genderRatio": {
+      "M": 0.5,
+      "F": 0.5
+    },
+    "baseStats": {
+      "hp": 60,
+      "atk": 90,
+      "def": 65,
+      "spe": 75,
+      "spa": 15,
+      "spd": 45
+    },
+    "abilities": {
+      "0": "Hustle",
+      "1": "Flash Fire"
+    },
+    "weightkg": 37.5,
+    "evos": [
+      "Darmanitan-Galar"
+    ],
+    "eggGroups": [
+      "Field"
+    ],
+    "baseSpecies": "Darumaka",
+    "forme": "Galar",
+    "formes": [
+      "Darumaka",
+      "Darumaka-Galar"
     ]
   },
   "darmanitan": {
@@ -20437,7 +20476,8 @@
     ],
     "formes": [
       "Darmanitan",
-      "Darmanitan-Zen"
+      "Darmanitan-Zen",
+      "Darmanitan-Galar"
     ]
   },
   "darmanitanzen": {
@@ -20471,10 +20511,47 @@
     "forme": "Zen",
     "formes": [
       "Darmanitan",
-      "Darmanitan-Zen"
+      "Darmanitan-Zen",
+      "Darmanitan-Galar"
     ],
     "requiredItems": [
       "Mega Stone"
+    ]
+  },
+  "darmanitangalar": {
+    "num": 555,
+    "name": "Darmanitan-Galar",
+    "types": [
+      "Ice"
+    ],
+    "genderRatio": {
+      "M": 0.5,
+      "F": 0.5
+    },
+    "baseStats": {
+      "hp": 105,
+      "atk": 150,
+      "def": 70,
+      "spe": 105,
+      "spa": 30,
+      "spd": 55
+    },
+    "abilities": {
+      "0": "Hustle",
+      "1": "Reckless"
+    },
+    "weightkg": 92.9,
+    "prevo": "Darumaka-Galar",
+    "evoLevel": 32,
+    "eggGroups": [
+      "Field"
+    ],
+    "baseSpecies": "Darmanitan",
+    "forme": "Galar",
+    "formes": [
+      "Darmanitan",
+      "Darmanitan-Zen",
+      "Darmanitan-Galar"
     ]
   },
   "maractus": {
@@ -20867,7 +20944,7 @@
       "spd": 72
     },
     "abilities": {
-      "0": "Weak Armor",
+      "0": "Weak Armour",
       "1": "Heatproof"
     },
     "weightkg": 31.0,
@@ -20899,7 +20976,7 @@
     },
     "abilities": {
       "0": "Heatproof",
-      "1": "Weak Armor",
+      "1": "Weak Armour",
       "H": "Flare Boost"
     },
     "weightkg": 107.3,
@@ -21305,7 +21382,7 @@
       "spd": 60
     },
     "abilities": {
-      "0": "Weak Armor",
+      "0": "Weak Armour",
       "1": "Water Absorb"
     },
     "weightkg": 5.7,
@@ -21335,7 +21412,7 @@
       "spd": 85
     },
     "abilities": {
-      "0": "Weak Armor",
+      "0": "Weak Armour",
       "1": "Water Absorb"
     },
     "weightkg": 41.0,
@@ -21367,7 +21444,7 @@
       "spd": 110
     },
     "abilities": {
-      "0": "Weak Armor",
+      "0": "Weak Armour",
       "1": "Water Absorb",
       "H": "Hail Warning"
     },
@@ -21517,7 +21594,7 @@
       "spd": 105
     },
     "abilities": {
-      "0": "Shell Armor",
+      "0": "Shell Armour",
       "1": "Unburden"
     },
     "weightkg": 33.0,
@@ -22143,7 +22220,7 @@
     },
     "abilities": {
       "0": "Levitate",
-      "1": "Weak Armor",
+      "1": "Weak Armour",
       "H": "Swiftness"
     },
     "weightkg": 34.3,
@@ -22364,7 +22441,7 @@
     },
     "abilities": {
       "0": "Dry Skin",
-      "1": "Shell Armor"
+      "1": "Shell Armour"
     },
     "weightkg": 7.7,
     "evos": [
@@ -22546,7 +22623,7 @@
     },
     "abilities": {
       "0": "Secret Shield",
-      "1": "Weak Armor"
+      "1": "Weak Armour"
     },
     "weightkg": 92.0,
     "evos": [
@@ -22574,7 +22651,7 @@
     },
     "abilities": {
       "0": "Secret Shield",
-      "1": "Weak Armor"
+      "1": "Weak Armour"
     },
     "weightkg": 330.0,
     "prevo": "Golett",
@@ -23628,7 +23705,7 @@
     },
     "abilities": {
       "0": "Bulletproof",
-      "1": "Battle Armor",
+      "1": "Battle Armour",
       "H": "Grass Guard"
     },
     "weightkg": 130.0,
@@ -23749,7 +23826,7 @@
       "spd": 44
     },
     "abilities": {
-      "0": "Torrent",
+      "0": "Fighting Spirit",
       "1": "Technician"
     },
     "weightkg": 7.0,
@@ -23779,7 +23856,7 @@
       "spd": 56
     },
     "abilities": {
-      "0": "Torrent",
+      "0": "Fighting Spirit",
       "1": "Technician"
     },
     "weightkg": 10.9,
@@ -26666,7 +26743,7 @@
       "spd": 61
     },
     "abilities": {
-      "0": "Torrent",
+      "0": "Fighting Spirit",
       "1": "Competitive"
     },
     "weightkg": 7.5,
@@ -26697,7 +26774,7 @@
       "spd": 91
     },
     "abilities": {
-      "0": "Torrent",
+      "0": "Fighting Spirit",
       "1": "Competitive"
     },
     "weightkg": 17.5,
@@ -26990,7 +27067,7 @@
       "spd": 90
     },
     "abilities": {
-      "0": "Battle Armor",
+      "0": "Battle Armour",
       "1": "Volt Absorb",
       "H": "Battery"
     },
@@ -28501,7 +28578,7 @@
     },
     "abilities": {
       "0": "Filter",
-      "1": "Battle Armor",
+      "1": "Battle Armour",
       "H": "Sturdy"
     },
     "weightkg": 120.5,
@@ -29468,7 +29545,7 @@
       "spd": 181
     },
     "abilities": {
-      "0": "Shell Armor",
+      "0": "Shell Armour",
       "1": "Unaware",
       "H": "Magic Guard"
     },
@@ -29501,7 +29578,7 @@
     },
     "abilities": {
       "0": "Sweltering Rays",
-      "1": "Sixth Sense",
+      "1": "Compound Eyes",
       "H": "Magic Guard"
     },
     "weightkg": 230.0,
@@ -29531,7 +29608,7 @@
     },
     "abilities": {
       "0": "Secret Shield",
-      "1": "Sixth Sense",
+      "1": "Compound Eyes",
       "H": "Magic Guard"
     },
     "weightkg": 120.0,

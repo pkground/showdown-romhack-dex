@@ -2,13 +2,13 @@
   "megastone": {
     "name": "Mega Stone",
     "num": 40001,
-    "desc": "Use this to Mega Evolve ANY Pokemon BESIDES:\nCharizard, Mewtwo & Kyurem.",
+    "desc": "Use this to Mega Evolve ALL of your Pokemon.\nUse the Alt. Mega Stone for X & Y megas.",
     "shortDesc": ""
   },
   "altmegastone": {
     "name": "Alt. Mega Stone",
     "num": 40002,
-    "desc": "Use this to Mega Evolve Gyarados, Tyranitar,\nSteelix, Salamence, Metagross, Garchomp & Diancie.\nUse Megastone I for other Pokemon.",
+    "desc": "Use this to Mega Evolve ALL of your Pokemon.\nUse the Alt. Mega Stone for X & Y megas.",
     "shortDesc": ""
   },
   "abilityshield": {
@@ -446,7 +446,7 @@
   "damprock": {
     "name": "Damp Rock",
     "num": 285,
-    "desc": "Holder's use of Rain Dance lasts 8 turns instead of 5.",
+    "desc": "Holder's set up of Rain NOW lasts 255 turns instead of 5.",
     "shortDesc": ""
   },
   "darkgem": {
@@ -1004,7 +1004,7 @@
   "heatrock": {
     "name": "Heat Rock",
     "num": 284,
-    "desc": "Holder's use of Sunny Day lasts 8 turns instead of 5.",
+    "desc": "Holder's set up of Harsh Sunlight NOW lasts 255 turns instead of 5.",
     "shortDesc": ""
   },
   "heavyball": {
@@ -1082,7 +1082,7 @@
   "icyrock": {
     "name": "Icy Rock",
     "num": 282,
-    "desc": "Holder's use of Hail lasts 8 turns instead of 5.",
+    "desc": "Holder's set up of Hail NOW lasts 255 turns instead of 5.",
     "shortDesc": ""
   },
   "inciniumz": {
@@ -1250,7 +1250,7 @@
   "loadeddice": {
     "name": "Loaded Dice",
     "num": 1886,
-    "desc": "Holder's moves that hit 2-5 times hit 4-5 times; Population Bomb hits 4-10 times.",
+    "desc": "Holder's moves that hit 2-5 times NOW ALWAYS hit 5 times.",
     "shortDesc": ""
   },
   "lopunnite": {
@@ -1442,8 +1442,8 @@
   "metalpowder": {
     "name": "Metal Powder",
     "num": 257,
-    "desc": "If held by a Ditto that hasn't Transformed, its Defense is doubled.",
-    "shortDesc": ""
+    "desc": "Now, if held by a Ditto, REGARDLESS of if it hasn't Transformed, BOTH of its Defensive stats are boosted by 50%.",
+    "shortDesc": "Boosts Ditto's defensive stats.'"
   },
   "metronome": {
     "name": "Metronome",
@@ -1520,7 +1520,7 @@
   "muscleband": {
     "name": "Muscle Band",
     "num": 266,
-    "desc": "Holder's physical attacks have 1.1x power.",
+    "desc": "Holder's physical attacks NOW have 1.15x power.",
     "shortDesc": ""
   },
   "mysticwater": {
@@ -1838,7 +1838,7 @@
   "quickpowder": {
     "name": "Quick Powder",
     "num": 274,
-    "desc": "If held by a Ditto that hasn't Transformed, its Speed is doubled.",
+    "desc": "Now, if held by a Ditto, REGARDLESS of if it hasn't Transformed, its speed stat is boosted by 50%",
     "shortDesc": ""
   },
   "rabutaberry": {
@@ -2072,7 +2072,7 @@
   "shellbell": {
     "name": "Shell Bell",
     "num": 253,
-    "desc": "After an attack, holder gains 1/8 of the damage in HP dealt to other Pokemon.",
+    "desc": "After an attack, holder NOW gains 1/4 of the damage in HP dealt to other Pokemon.",
     "shortDesc": ""
   },
   "shinystone": {
@@ -2132,7 +2132,7 @@
   "smoothrock": {
     "name": "Smooth Rock",
     "num": 283,
-    "desc": "Holder's use of Sandstorm lasts 8 turns instead of 5.",
+    "desc": "Holder's set up of Sandstorm NOW lasts 255 turns instead of 5.",
     "shortDesc": ""
   },
   "snorliumz": {
@@ -2234,7 +2234,7 @@
   "stickybarb": {
     "name": "Sticky Barb",
     "num": 288,
-    "desc": "Each turn, holder loses 1/8 max HP. An attacker making contact can receive it.",
+    "desc": "Each turn, holder loses 1/4 max HP. An attacker making contact can receive it.",
     "shortDesc": ""
   },
   "stoneplate": {
@@ -2300,7 +2300,7 @@
   "terrainextender": {
     "name": "Terrain Extender",
     "num": 879,
-    "desc": "Holder's use of Electric/Grassy/Misty/Psychic Terrain lasts 8 turns instead of 5.",
+    "desc": "Holder's use of Electric/Grassy/Misty/Psychic Terrain NOW lasts 255 turns instead of 5.",
     "shortDesc": ""
   },
   "thickclub": {
@@ -3062,7 +3062,7 @@
   "widelens": {
     "name": "Wide Lens",
     "num": 265,
-    "desc": "The accuracy of attacks by the holder is 1.1x.",
+    "desc": "The accuracy of attacks by the holder is NOW 1.5x.",
     "shortDesc": ""
   },
   "wikiberry": {
@@ -3074,7 +3074,7 @@
   "wiseglasses": {
     "name": "Wise Glasses",
     "num": 267,
-    "desc": "Holder's special attacks have 1.1x power.",
+    "desc": "Holder's special attacks NOW have 1.15x power.",
     "shortDesc": ""
   },
   "yacheberry": {
@@ -3092,7 +3092,7 @@
   "zoomlens": {
     "name": "Zoom Lens",
     "num": 276,
-    "desc": "The accuracy of attacks by the holder is 1.2x if it moves after its target.",
+    "desc": "The accuracy of attacks by the holder is NOW 2x if it moves after its target.",
     "shortDesc": ""
   },
   "berserkgene": {

@@ -17,11 +17,11 @@
     "desc": "Its Speed stat is boosted every turn.",
     "shortDesc": "Its Speed stat is boosted every turn."
   },
-  "battlearmor": {
-    "name": "Battle Armor",
+  "battlearmour": {
+    "name": "Battle Armour",
     "num": 4,
-    "desc": "Hard armor protects the Pokemon from critical hits.",
-    "shortDesc": "Hard armor protects the Pokemon from critical hits."
+    "desc": "Hard armour protects the Pokemon from critical hits.",
+    "shortDesc": "Hard armour protects the Pokemon from critical hits."
   },
   "sturdy": {
     "name": "Sturdy",
@@ -77,8 +77,8 @@
     "desc": "Eliminates the effects of weather.",
     "shortDesc": "Eliminates the effects of weather."
   },
-  "sixthsense": {
-    "name": "Sixth Sense",
+  "compoundeyes": {
+    "name": "Compound Eyes",
     "num": 14,
     "desc": "This Pokemon’s accuracy is boosted by 30%.",
     "shortDesc": "This Pokemon’s accuracy is boosted by 30%."
@@ -233,8 +233,8 @@
     "desc": "The Pokemon’s intensely focused, and that protects\nthe Pokemon from flinching.",
     "shortDesc": "The Pokemon’s intensely focused, and that protects\nthe Pokemon from flinching."
   },
-  "magmaarmor": {
-    "name": "Magma Armor",
+  "magmaarmour": {
+    "name": "Magma Armour",
     "num": 40,
     "desc": "The Pokemon is covered with hot magma, which\nprevents the Pokemon from becoming frozen.",
     "shortDesc": "The Pokemon is covered with hot magma, which\nprevents the Pokemon from becoming frozen."
@@ -254,14 +254,14 @@
   "totemsguard": {
     "name": "Totem's Guard",
     "num": 43,
-    "desc": "This Pokemon is immune to Fairy-type moves.\nThis does not protect against Pixilate.",
-    "shortDesc": "This Pokemon is immune to Fairy-type moves.\nThis does not protect against Pixilate."
+    "desc": "The Totem Pokemon is immune to certain moves.\nThe Totems require a valiant battle, and won't have it\nany other way.",
+    "shortDesc": "The Totem Pokemon is immune to certain moves.\nThe Totems require a valiant battle, and won't have it\nany other way."
   },
   "raindish": {
     "name": "Rain Dish",
     "num": 44,
-    "desc": "The Pokemon gradually regains HP in rain.",
-    "shortDesc": "The Pokemon gradually regains HP in rain."
+    "desc": "The Pokemon gradually regains HP in rain. Now\nrecovers 1/8th HP in rain up from 1/16th.",
+    "shortDesc": "The Pokemon gradually regains HP in rain. Now\nrecovers 1/8th HP in rain up from 1/16th."
   },
   "sandstream": {
     "name": "Sand Stream",
@@ -293,11 +293,11 @@
     "desc": "Contact with the Pokemon may burn the attacker.",
     "shortDesc": "Contact with the Pokemon may burn the attacker."
   },
-  "runaway": {
-    "name": "Run Away",
+  "perfectionist": {
+    "name": "Perfectionist",
     "num": 50,
-    "desc": "Enables a sure getaway from wild Pokemon.",
-    "shortDesc": "Enables a sure getaway from wild Pokemon."
+    "desc": "Clears the Pokemon of its stat drops once\nper battle. Essentially, white herb as an ability...",
+    "shortDesc": "Clears the Pokemon of its stat drops once\nper battle. Essentially, white herb as an ability..."
   },
   "keeneye": {
     "name": "Keen Eye",
@@ -305,11 +305,11 @@
     "desc": "Keen eyes prevent other Pokemon from lowering this\nPokemon’s accuracy.",
     "shortDesc": "Keen eyes prevent other Pokemon from lowering this\nPokemon’s accuracy."
   },
-  "hypercutter": {
-    "name": "Hyper Cutter",
+  "sharpness": {
+    "name": "Sharpness",
     "num": 52,
-    "desc": "The Pokemon’s proud of its powerful pincers. They\nprevent other Pokemon from lowering its Attack stat.",
-    "shortDesc": "The Pokemon’s proud of its powerful pincers. They\nprevent other Pokemon from lowering its Attack stat."
+    "desc": "Powers up all Slicing moves by 50% when used by this\nPokemon.",
+    "shortDesc": "Powers up all Slicing moves by 50% when used by this\nPokemon."
   },
   "database": {
     "name": "Database",
@@ -326,8 +326,8 @@
   "hustle": {
     "name": "Hustle",
     "num": 55,
-    "desc": "Greatly boosts the Attack stat by 50% for a 20%\naccuracy drop on most Physical moves.",
-    "shortDesc": "Greatly boosts the Attack stat by 50% for a 20%\naccuracy drop on most Physical moves."
+    "desc": "Greatly boosts BOTH Offensive stats by 50% for a 20%\naccuracy drop on moves.",
+    "shortDesc": "Greatly boosts BOTH Offensive stats by 50% for a 20%\naccuracy drop on moves."
   },
   "cutecharm": {
     "name": "Cute Charm",
@@ -395,11 +395,11 @@
     "desc": "Powers up Fire-type moves when the Pokemon’s HP\nis low.",
     "shortDesc": "Powers up Fire-type moves when the Pokemon’s HP\nis low."
   },
-  "torrent": {
-    "name": "Torrent",
+  "fightingspirit": {
+    "name": "Fighting Spirit",
     "num": 67,
-    "desc": "Powers up Water-type moves when the Pokemon’s\nHP is low.",
-    "shortDesc": "Powers up Water-type moves when the Pokemon’s\nHP is low."
+    "desc": "Powers up STAB multiplier to 2.25x when the\nPokemon’s HP is at or under half.",
+    "shortDesc": "Powers up STAB multiplier to 2.25x when the\nPokemon’s HP is at or under half."
   },
   "swarm": {
     "name": "Swarm",
@@ -443,8 +443,8 @@
     "desc": "Using its pure power, the Pokemon doubles its\nAttack stat.",
     "shortDesc": "Using its pure power, the Pokemon doubles its\nAttack stat."
   },
-  "shellarmor": {
-    "name": "Shell Armor",
+  "shellarmour": {
+    "name": "Shell Armour",
     "num": 75,
     "desc": "A hard shell protects the Pokemon from critical hits.",
     "shortDesc": "A hard shell protects the Pokemon from critical hits."
@@ -530,13 +530,13 @@
   "amplifier": {
     "name": "Amplifier",
     "num": 89,
-    "desc": "Boosts the power of Sound-based moves by 20%.\nFind a detailed list on the Google Sheet.",
-    "shortDesc": "Boosts the power of Sound-based moves by 20%.\nFind a detailed list on the Google Sheet."
+    "desc": "Boosts the power of Sound-based moves by 30%.\nAlso reduces enemy Sound-based move damage by 50%.",
+    "shortDesc": "Boosts the power of Sound-based moves by 30%.\nAlso reduces enemy Sound-based move damage by 50%."
   },
   "poisonheal": {
     "name": "Poison Heal",
     "num": 90,
-    "desc": "Restores HP if the Pokemon is poisoned, instead of\nlosing HP.",
+    "desc": "Restores HP if the Pokemon is poisoned, instead of\nlosing HP. Now only heals for 1/12th, instead of 1/8th.",
     "shortDesc": "Restores HP if the Pokemon is poisoned, instead of\nlosing HP."
   },
   "adaptability": {
@@ -560,8 +560,8 @@
   "solarpower": {
     "name": "Solar Power",
     "num": 94,
-    "desc": "Boosts the Sp. Atk stat in harsh sunlight, but HP\ndecreases every turn.",
-    "shortDesc": "Boosts the Sp. Atk stat in harsh sunlight, but HP\ndecreases every turn."
+    "desc": "Now boosts BOTH Offensive stats in harsh sunlight,\nand HP no longer decreases every turn.",
+    "shortDesc": "Now boosts BOTH Offensive stats in harsh sunlight,\nand HP no longer decreases every turn."
   },
   "quickfeet": {
     "name": "Quick Feet",
@@ -572,8 +572,8 @@
   "normalize": {
     "name": "Normalize",
     "num": 96,
-    "desc": "All the Pokemon’s moves become Normal type.\nThe power of those moves is boosted a little.",
-    "shortDesc": "All the Pokemon’s moves become Normal type.\nThe power of those moves is boosted a little."
+    "desc": "All the Pokemon’s moves become Normal type.\nThe power of those moves is NOW boosted by 33%.",
+    "shortDesc": "All the Pokemon’s moves become Normal type.\nThe power of those moves is NOW boosted by 33%"
   },
   "lethality": {
     "name": "Lethality",
@@ -593,8 +593,8 @@
     "desc": "The Pokemon employs no-guard tactics to ensure\nincoming and outgoing attacks always land.",
     "shortDesc": "The Pokemon employs no-guard tactics to ensure\nincoming and outgoing attacks always land."
   },
-  "stagnantstate": {
-    "name": "Stagnant State",
+  "stall": {
+    "name": "Stall",
     "num": 100,
     "desc": "The Pokemon moves after all other Pokemon do.",
     "shortDesc": "The Pokemon moves after all other Pokemon do."
@@ -629,8 +629,8 @@
     "desc": "The Pokemon is so lucky that the critical-hit ratios\nof its moves are boosted.",
     "shortDesc": "The Pokemon is so lucky that the critical-hit ratios\nof its moves are boosted."
   },
-  "oldaftermath": {
-    "name": "Old Aftermath",
+  "aftermath": {
+    "name": "Aftermath",
     "num": 106,
     "desc": "Damages the attacker if it contacts the Pokemon\nwith a finishing hit.",
     "shortDesc": "Damages the attacker if it contacts the Pokemon\nwith a finishing hit."
@@ -665,11 +665,11 @@
     "desc": "Reduces the power of supereffective attacks\ntaken by 25%.",
     "shortDesc": "Reduces the power of supereffective attacks\ntaken by 25%."
   },
-  "slowstart": {
-    "name": "Slow Start",
+  "flashfury": {
+    "name": "Flash Fury",
     "num": 112,
-    "desc": "For five turns, the Pokemon’s Attack and Speed\nstats are halved.",
-    "shortDesc": "For five turns, the Pokemon’s Attack and Speed\nstats are halved."
+    "desc": "For one turn, the Pokemon’s Offensive stats are\nboosted by 50% and its Speed stat is doubled.",
+    "shortDesc": "For one turn, the Pokemon’s Offensive stats are\nboosted by 50% and its Speed stat is doubled."
   },
   "scrappy": {
     "name": "Scrappy",
@@ -728,14 +728,14 @@
   "flowergift": {
     "name": "Flower Gift",
     "num": 122,
-    "desc": "Boosts the Attack and Sp. Def stats of itself\nand allies in harsh sunlight by 1.5x.",
-    "shortDesc": "Boosts the Attack and Sp. Def stats of itself\nand allies in harsh sunlight by 1.5x."
+    "desc": "Now boosts BOTH Offensive AND Defensive stats of\nitself and allies in harsh sunlight by 1.5x.",
+    "shortDesc": "Now boosts BOTH Offensive AND Defensive stats\nof itself and allies in harsh sunlight by 1.5x."
   },
   "baddreams": {
     "name": "Bad Dreams",
     "num": 123,
-    "desc": "Reduces the HP of sleeping opposing Pokemon.",
-    "shortDesc": "Reduces the HP of sleeping opposing Pokemon."
+    "desc": "Now reduces the HP of sleeping opposing Pokemon by 25%\neach turn.",
+    "shortDesc": "Now reduces the HP of sleeping opposing Pokemon by 25%\neach turn."
   },
   "pickpocket": {
     "name": "Pickpocket",
@@ -791,8 +791,8 @@
     "desc": "Reduces damage done to allies.",
     "shortDesc": "Reduces damage done to allies."
   },
-  "weakarmor": {
-    "name": "Weak Armor",
+  "weakarmour": {
+    "name": "Weak Armour",
     "num": 133,
     "desc": "Physical attacks to the Pokemon lower its Defense\nstat but sharply raise its Speed stat.",
     "shortDesc": "Physical attacks to the Pokemon lower its Defense\nstat but sharply raise its Speed stat."
@@ -905,8 +905,8 @@
     "desc": "Passes through the opposing Pokemon’s barrier,\nsubstitute, and the like and strikes.",
     "shortDesc": "Passes through the opposing Pokemon’s barrier,\nsubstitute, and the like and strikes."
   },
-  "gastroacid": {
-    "name": "Gastro Acid",
+  "mummy": {
+    "name": "Mummy",
     "num": 152,
     "desc": "Contact with the Pokemon changes the attacker’s\nAbility to Gastro Acid.",
     "shortDesc": "Contact with the Pokemon changes the attacker’s\nAbility to Gastro Acid."
@@ -950,14 +950,14 @@
   "sandforce": {
     "name": "Sand Force",
     "num": 159,
-    "desc": "Boosts the power of Rock-, Ground-, and Steel-type\nmoves in a sandstorm by 30%.",
-    "shortDesc": "Boosts the power of Rock-, Ground-, and Steel-type\nmoves in a sandstorm by 30%."
+    "desc": "Now boosts the power ALL moves while by 50% (from\n30%) while in sand.",
+    "shortDesc": "Now boosts the power ALL moves while by 50% (from\n30%) while in sand."
   },
-  "ironbarbs": {
-    "name": "Iron Barbs",
+  "spiked": {
+    "name": "Spiked",
     "num": 160,
-    "desc": "Inflicts damage to the attacker on contact with\niron barbs.",
-    "shortDesc": "Inflicts damage to the attacker on contact with\niron barbs."
+    "desc": "Inflicts damage to the attacker on contact with\nspikes.",
+    "shortDesc": "Inflicts damage to the attacker on contact with\nspikes."
   },
   "zenmode": {
     "name": "Zen Mode",
@@ -965,8 +965,8 @@
     "desc": "Changes the Pokemon’s shape when HP is half\nor less.",
     "shortDesc": "Changes the Pokemon’s shape when HP is half\nor less."
   },
-  "luminescent": {
-    "name": "Luminescent",
+  "victorystar": {
+    "name": "Victory Star",
     "num": 162,
     "desc": "Boosts accuracy by 10% for this side of the field.\nBoth this Pokemon and any allies are affected.",
     "shortDesc": "Boosts accuracy by 10% for this side of the field.\nBoth this Pokemon and any allies are affected."
@@ -1022,8 +1022,8 @@
   "bulletproof": {
     "name": "Bulletproof",
     "num": 171,
-    "desc": "Protects the Pokemon from some ball and\nbomb moves. Full list on DoozDex.",
-    "shortDesc": "Protects the Pokemon from some ball and\nbomb moves. Full list on DoozDex."
+    "desc": "Protects the Pokemon from some ball and\nbomb moves - NOW affects many more moves, shares with\nMega Launcher.",
+    "shortDesc": "Protects the Pokemon from some ball and\nbomb moves - NOW affects many more moves, shares with\nMega Launcher."
   },
   "competitive": {
     "name": "Competitive",
@@ -1064,26 +1064,26 @@
   "megalauncher": {
     "name": "Mega Launcher",
     "num": 178,
-    "desc": "Powers up aura and pulse moves by 50%.",
-    "shortDesc": "Powers up aura and pulse moves by 50%."
+    "desc": "Powers up aura, beam and pulse moves, and the\nlike, by 50% - NOW affects many more moves, shares with\nBulletproof.",
+    "shortDesc": "Powers up aura, beam and pulse moves, and\nthe like, by 50% - NOW affects many more moves, shares with\nBulletproof."
   },
   "grassguard": {
     "name": "Grass Guard",
     "num": 179,
-    "desc": "Boosts the Pokemon’s Defense stat in \nGrassy Terrain by 50%.",
-    "shortDesc": "Boosts the Pokemon’s Defense stat in \nGrassy Terrain by 50%."
+    "desc": "Now boosts BOTH of the Pokemon’s Defensive stats\nin Grassy Terrain by 50%.",
+    "shortDesc": "Now boosts BOTH of the Pokemon’s Defensive stats in\nGrassy Terrain by 50%."
   },
-  "symbiosis": {
-    "name": "Symbiosis",
+  "angel-kissed": {
+    "name": "Angel-Kissed",
     "num": 180,
-    "desc": "The Pokemon passes its item to an ally that has\nused up an item.",
-    "shortDesc": "The Pokemon passes its item to an ally that has\nused up an item."
+    "desc": "The Pokemon heals itself for 1/3rd of the damage\nit deals to its target.",
+    "shortDesc": "The Pokemon heals itself for 1/3rd of the damage\nit deals to its target."
   },
-  "toughclaws": {
-    "name": "Tough Claws",
+  "ironfist": {
+    "name": "Iron Fist",
     "num": 181,
-    "desc": "Powers up moves that make direct contact.",
-    "shortDesc": "Powers up moves that make direct contact."
+    "desc": "Now powers up Punch-based moves by 50% (from 20%).",
+    "shortDesc": "Now powers up Punch-based moves by 50% (from 20%)."
   },
   "pixilate": {
     "name": "Pixilate",
@@ -1112,17 +1112,17 @@
   "darkaura": {
     "name": "Dark Aura",
     "num": 186,
-    "desc": "Powers up each Pokemon’s Dark-type\nmoves by 33%. With STAB, this stacks to a 95% boost.",
-    "shortDesc": "Powers up each Pokemon’s Dark-type\nmoves by 33%. With STAB, this stacks to a 95% boost."
+    "desc": "Now powers up each Pokemon’s Dark-type\nmoves by 50%.",
+    "shortDesc": "Now powers up each Pokemon’s Dark-type\nmoves by 50%."
   },
   "fairyaura": {
     "name": "Fairy Aura",
     "num": 187,
-    "desc": "Powers up each Pokemon’s Fairy-type\nmoves by 33%. With STAB, this stacks to a 95% boost.",
-    "shortDesc": "Powers up each Pokemon’s Fairy-type\nmoves by 33%. With STAB, this stacks to a 95% boost."
+    "desc": "Now powers up each Pokemon’s Fairy-type\nmoves by 50%.",
+    "shortDesc": "Now powers up each Pokemon’s Fairy-type\nmoves by 50%."
   },
-  "distortion": {
-    "name": "Distortion",
+  "aurabreak": {
+    "name": "Aura Break",
     "num": 188,
     "desc": "The effects of “Aura” Abilities are reversed\nto lower the power of affected moves by 25%.",
     "shortDesc": "The effects of “Aura” Abilities are reversed\nto lower the power of affected moves by 25%."
@@ -1172,8 +1172,8 @@
   "merciless": {
     "name": "Merciless",
     "num": 196,
-    "desc": "The Pokemon’s attacks become critical hits if the\ntarget is poisoned.",
-    "shortDesc": "The Pokemon’s attacks become critical hits if the\ntarget is poisoned."
+    "desc": "The Pokemon’s attacks NOW become critical hits if the\ntarget is under ANY major status.",
+    "shortDesc": "The Pokemon’s attacks NOW become critical hits if the\ntarget is under ANY major status."
   },
   "shieldsdown": {
     "name": "Shields Down",
@@ -1217,17 +1217,17 @@
     "desc": "The Pokemon uses its moves without making contact\nwith the target.",
     "shortDesc": "The Pokemon uses its moves without making contact\nwith the target."
   },
-  "liquidvibration": {
-    "name": "Liquid Vibration",
+  "liquidate": {
+    "name": "Liquidate",
     "num": 204,
-    "desc": "All sound-based moves become Water-type moves.",
-    "shortDesc": "All sound-based moves become Water-type moves."
+    "desc": "Normal-type moves become Water-type moves.\nThe power of those moves is boosted a little.",
+    "shortDesc": "Normal-type moves become Water-type moves.\nThe power of those moves is boosted a little."
   },
   "triage": {
     "name": "Triage",
     "num": 205,
-    "desc": "Moves that can hit 3 or more times gain +3 priority.\nExplosion, Detonate some others do as well.",
-    "shortDesc": "Moves that can hit 3 or more times gain +3 priority.\nExplosion, Detonate some others do as well."
+    "desc": "The Pokemon's moves that can heal gain +3 priority.",
+    "shortDesc": "The Pokemon's moves that can heal gain +3 priority."
   },
   "galvanize": {
     "name": "Galvanize",
@@ -1283,17 +1283,17 @@
     "desc": "Its majesty pressures the opposing Pokemon,\nmaking it unable to attack using priority moves.",
     "shortDesc": "Its majesty pressures the opposing Pokemon,\nmaking it unable to attack using priority moves."
   },
-  "aftermath": {
-    "name": "Aftermath",
+  "innardsout": {
+    "name": "Innards Out",
     "num": 215,
     "desc": "Damages the attacker landing the finishing hit\nby the amount equal to its last HP.",
     "shortDesc": "Damages the attacker landing the finishing hit\nby the amount equal to its last HP."
   },
-  "envy": {
-    "name": "Envy",
+  "dancer": {
+    "name": "Dancer",
     "num": 216,
-    "desc": "When another Pokemon uses a setup move,\nthis copies the move immediately after.",
-    "shortDesc": "When another Pokemon uses a setup move,\nthis copies the move immediately after."
+    "desc": "When another Pokemon uses a dance move,\nthis copies the move immediately after.",
+    "shortDesc": "When another Pokemon uses a dance move,\nthis copies the move immediately after."
   },
   "battery": {
     "name": "Battery",
